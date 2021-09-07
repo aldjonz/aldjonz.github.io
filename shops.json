@@ -2,8 +2,8 @@
 	"info": {
 		"content_version": "0" 
 	},
-	"shops": {
-		"0": { 
+	"shops": [
+		{ 
 			"id": "0",
 			"address": "via Cavour 45-49 - Alessandria (AL)",
 			"city": "Alessandria",
@@ -13,7 +13,7 @@
 			"website": "http://www.mezzaro.eu/",
 			"type": "0,1"
 	},
-		"1": { 
+	 { 
 			"id": "1",
 			"address": "Pza. Dante Alighieri, 22 - Casalnoceto (AL)",
 			"city": "Casalnoceto (AL)",
@@ -23,7 +23,7 @@
 			"website": "",
 			"type": "0"
 		},
-		"2": { 
+	 { 
 			"id": "2",
 			"address": "V.le Santuario 74b - Valenza (AL)",
 			"city": "Valenza (AL)",
@@ -33,7 +33,7 @@
 			"website": "https://www.facebook.com/checcoffee/",
 			"type": "0"
 		},
-		"3": { 
+	 { 
 			"id": "3",
 			"address": "Via Verdi 24 - Aprilia (Roma)",
 			"city": "Aprilia (Roma)",
@@ -42,8 +42,7 @@
 			"name": "Caos Caffè",
 			"website": "https://caoscaffe.com/",
 			"type": "0,1"
-		},
-"4": { 
+		}, { 
 			"id": "4",
 			"address": "Via Piero Gobetti, 64 (AR)",
 			"city": "Arezzo (AR)",
@@ -52,8 +51,7 @@
 			"name": "Caffè River",
 			"website": "https://www.cafferiver.com/index.php/it/caffe",
 			"type": "0,1"
-		},
-"5": { 
+		}, { 
 			"id": "5",
 			"address": "Corso Giuseppe Mazzini, 225 (AP)",
 			"city": "Ascoli Piceno (AP)",
@@ -62,8 +60,7 @@
 			"name": "Tama Caffè",
 			"website": "https://www.tamacaffe.it/caffe-in-grani/",
 			"type": "0,1"
-		},
-"6": { 
+		}, { 
 			"id": "6",
 			"address": "Via Domenico Nicolai, 3 (BA)",
 			"city": "Bari (BA)",
@@ -72,8 +69,7 @@
 			"name": "Aurelio Caffè",
 			"website": "",
 			"type": "0"
-		},
-"7": { 
+		}, { 
 			"id": "7",
 			"address": "Via Cognetti, 52 (BA)",
 			"city": "Bari (BA)",
@@ -82,8 +78,7 @@
 			"name": "La Briocheria",
 			"website": "https://www.facebook.com/LaBriocheria",
 			"type": "0"
-		},
-"8": { 
+		}, { 
 			"id": "8",
 			"address": "Via Cognetti, 17/19 (BA)",
 			"city": "Bari (BA)",
@@ -92,8 +87,7 @@
 			"name": "Caffè Cognetti",
 			"website": "https://www.caffecognetti.com/shop/caffe/specialtycoffee/",
 			"type": "0,1"
-		},
-"9": { 
+		}, { 
 			"id": "9",
 			"address": "Piazza V. Emanuele II, 38 - Giovinazzo (BA)",
 			"city": "Giovinazzo (BA)",
@@ -103,7 +97,7 @@
 			"website": "https://www.instagram.com/vecchio___caffe/",
 			"type": "0"
 		},
-"10": { 
+ { 
 			"id": "10",
 			"address": "Via Piazza Castello, 16 (BL)",
 			"city": "Belluno (BL)",
@@ -113,7 +107,7 @@
 			"website": "https://www.instagram.com/blacksoulbelluno/",
 			"type": "0"
 		},
-"11": { 
+ { 
 			"id": "11",
 			"address": "Via Colleoni, 18 (BG)",
 			"city": "Bergamo (BG)",
@@ -123,7 +117,7 @@
 			"website": "https://bugancoffeelab.com/",
 			"type": "0,1"
 		},
-"12": { 
+ { 
 			"id": "12",
 			"address": "Via G. Quarenghi, 32 (BG)",
 			"city": "Bergamo (BG)",
@@ -133,7 +127,7 @@
 			"website": "https://bugancoffeelab.com/",
 			"type": "0,1"
 		},
-"13": { 
+ { 
 			"id": "13",
 			"address": "Via Galliera 34d (BO)",
 			"city": "Bologna (BO)",
@@ -143,7 +137,7 @@
 			"website": "https://www.fornobrisa.it/content/25-nostri-caffe",
 			"type": "0,1"
 		},
-"14": { 
+ { 
 			"id": "14",
 			"address": "Via S. Felice, 91A (BO)",
 			"city": "Bologna (BO)",
@@ -153,7 +147,7 @@
 			"website": "https://www.fornobrisa.it/content/25-nostri-caffe",
 			"type": "0,1"
 		},
-"15": { 
+ { 
 			"id": "15",
 			"address": "Via Castiglione, 43 (BO)",
 			"city": "Bologna (BO)",
@@ -163,7 +157,7 @@
 			"website": "https://www.fornobrisa.it/content/25-nostri-caffe",
 			"type": "0,1"
 		},
-"16": { 
+ { 
 			"id": "16",
 			"address": "Via G. Oberdan, 10/d (BO)",
 			"city": "Bologna (BO)",
@@ -173,7 +167,7 @@
 			"website": "https://caffeterzi.shop/",
 			"type": "0,1"
 		},
-"17": { 
+ { 
 			"id": "17",
 			"address": "Via Barberia, 34 (BO)",
 			"city": "Bologna (BO)",
@@ -183,7 +177,7 @@
 			"website": "https://lampadinabologna.it/",
 			"type": "0"
 		},
-"18": { 
+ { 
 			"id": "18",
 			"address": "via Gramsci 6 (BS)",
 			"city": "Brescia (BS)",
@@ -193,7 +187,7 @@
 			"website": "https://cafegramsci.it/our-menu/",
 			"type": "0"
 		},
-"19": { 
+ { 
 			"id": "19",
 			"address": "Via Corsica, 112a (BS)",
 			"city": "Brescia (BS)",
@@ -203,7 +197,7 @@
 			"website": "https://www.checchicafe.com/",
 			"type": "0"
 		},
-"20": { 
+ { 
 			"id": "20",
 			"address": "Corso Cavour 25/b (BS)",
 			"city": "Brescia (BS)",
@@ -213,7 +207,7 @@
 			"website": "https://www.checchicafe.com/",
 			"type": "0"
 		},
-"21": { 
+ { 
 			"id": "21",
 			"address": "Corsetto Sant’Agata, 27/a (BS)",
 			"city": "Brescia (BS)",
@@ -223,7 +217,7 @@
 			"website": "https://cosi-e-brunch-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
 			"type": "0"
 		},
-"22": { 
+ { 
 			"id": "22",
 			"address": "Corso Martiri della Libertà, 36 (BS)",
 			"city": "Brescia (BS)",
@@ -233,7 +227,7 @@
 			"website": "https://www.instagram.com/estrattobrescia/",
 			"type": "0"
 		},
-"23": { 
+ { 
 			"id": "23",
 			"address": "Via F. Porcellaga, 28 (BS)",
 			"city": "Brescia (BS)",
@@ -243,7 +237,7 @@
 			"website": "https://tostato.cafe/",
 			"type": "0,1"
 		},
-"24": { 
+ { 
 			"id": "24",
 			"address": "Via Isernia, 23, Campobasso (CB)",
 			"city": "Campobasso (CB)",
@@ -253,7 +247,7 @@
 			"website": "https://animacaffetorrefazione.business.site/?utm_source=gmb&utm_medium=referral",
 			"type": "0,1"
 		},
-"25": { 
+ { 
 			"id": "25",
 			"address": "Via Nicoló Biondo, 1 Carpi (MO)",
 			"city": "Carpi (MO)",
@@ -263,7 +257,7 @@
 			"website": "https://b-officina.com/",
 			"type": "0,1"
 		},
-"26": { 
+ { 
 			"id": "26",
 			"address": "Via Caprera, 3 (CA)",
 			"city": "Cagliari (CA)",
@@ -273,7 +267,7 @@
 			"website": "https://www.caffedellartecagliari.com/",
 			"type": "0"
 		},
-"27": { 
+ { 
 			"id": "27",
 			"address": "Via Garibaldi,367 - Zafferana Etnea (CT)",
 			"city": "Zafferana Etnea (CT)",
@@ -283,7 +277,7 @@
 			"website": "https://etnaroaster.com/index/it-IT",
 			"type": "0,1"
 		},
-"28": { 
+ { 
 			"id": "28",
 			"address": "Via della libertà 64 - Ortona (CH)",
 			"city": "Ortona (CH)",
@@ -293,7 +287,7 @@
 			"website": "https://www.instagram.com/rossopepeortona/",
 			"type": "0,1"
 		},
-"29": { 
+ { 
 			"id": "29",
 			"address": "Via Armando Diaz, 16 (CO)",
 			"city": "Como (CO)",
@@ -303,7 +297,7 @@
 			"website": "https://cucinantica.com/15-caffe",
 			"type": "0"
 		},
-"30": { 
+ { 
 			"id": "30",
 			"address": "Piazza Garibaldi, 34 (CR)",
 			"city": "Crema (CR)",
@@ -313,7 +307,7 @@
 			"website": "https://www.1699crema.it/",
 			"type": "0"
 		},
-"31": { 
+ { 
 			"id": "31",
 			"address": "Viale Po, 15 (CR)",
 			"city": "Cremona (CR)",
@@ -323,7 +317,7 @@
 			"website": "https://www.instagram.com/loom_cremona/",
 			"type": "0"
 		},
-"32": { 
+ { 
 			"id": "32",
 			"address": "Via Pollenzo,6 - Bra (CN)",
 			"city": "Bra (CN)",
@@ -333,7 +327,7 @@
 			"website": "https://www.instagram.com/bottegadelledelizie/?igshid=7sja8jvafn4r",
 			"type": "0"
 		},
-"33": { 
+ { 
 			"id": "33",
 			"address": "Piazza Trieste, 1/2/3 - Dicomano   (FI)",
 			"city": "Dicomano (FI)",
@@ -343,7 +337,7 @@
 			"website": "https://www.instagram.com/caffegrandangolo/",
 			"type": "0"
 		},
-"34": { 
+ { 
 			"id": "34",
 			"address": "Piazza Mercato, 29 - Domodossola (VB)",
 			"city": "Domodossola (VB)",
@@ -353,7 +347,7 @@
 			"website": "https://www.instagram.com/sensolato/",
 			"type": "0"
 		},
-"35": { 
+ { 
 			"id": "35",
 			"address": "Via Faleria conc.34/B, Porto Sant’Elpidio (FM)",
 			"city": "Porto Sant’Elpidio - Fermo (FM)",
@@ -363,7 +357,7 @@
 			"website": "https://www.instagram.com/controventopse/",
 			"type": "0"
 		},
-"36": { 
+ { 
 			"id": "36",
 			"address": "Via Don Leonardo Piciotti 24, SP239 Fermana-Falerienze, Rapagnano FM",
 			"city": "Fermana Falerienze Rapagnano (FM)",
@@ -373,7 +367,7 @@
 			"website": "https://www.neroespresso.it/",
 			"type": "0"
 		},
-"37": { 
+ { 
 			"id": "37",
 			"address": "Via Piave, 5 - Altidona (FM)",
 			"city": "Altidona (FM)",
@@ -383,7 +377,7 @@
 			"website": "https://www.instagram.com/perferocaffe/",
 			"type": "0"
 		},
-"38": { 
+ { 
 			"id": "38",
 			"address": "Via delle Oche, 5 (FI)",
 			"city": "Firenze (FI)",
@@ -393,7 +387,7 @@
 			"website": "https://www.instagram.com/ben_caffe/",
 			"type": "0"
 		},
-"39": { 
+ { 
 			"id": "39",
 			"address": "Via dè Neri, 32/r (FI)",
 			"city": "Firenze (FI)",
@@ -403,7 +397,7 @@
 			"website": "https://www.dittaartigianale.it/default?lan=it",
 			"type": "0,1"
 		},
-"40": { 
+ { 
 			"id": "40",
 			"address": "Via dello Sprone, 5/r (FI)",
 			"city": "Firenze (FI)",
@@ -413,7 +407,7 @@
 			"website": "https://www.dittaartigianale.it/default?lan=it",
 			"type": "0,1"
 		},
-"41": { 
+ { 
 			"id": "41",
 			"address": "Via Carducci, 4 (FI)",
 			"city": "Firenze (FI)",
@@ -423,7 +417,7 @@
 			"website": "https://www.dittaartigianale.it/default?lan=it",
 			"type": "0,1"
 		},
-"42": { 
+ { 
 			"id": "42",
 			"address": "Via Mannelli, 19/r (FI)",
 			"city": "Firenze (FI)",
@@ -433,7 +427,7 @@
 			"website": "https://caffetteriaemmeti.com/",
 			"type": "0"
 		},
-"43": { 
+ { 
 			"id": "43",
 			"address": "Via della Mattonaia, 24r (FI)",
 			"city": "Firenze (FI)",
@@ -443,7 +437,7 @@
 			"website": "https://www.instagram.com/coffeemantrafirenze/",
 			"type": "0"
 		},
-"44": { 
+ { 
 			"id": "44",
 			"address": "Lungarno Le Grazie, 18 (FI)",
 			"city": "Firenze (FI)",
@@ -453,7 +447,7 @@
 			"website": "https://www.instagram.com/melaleuca.florence/",
 			"type": "0"
 		},
-"45": { 
+ { 
 			"id": "45",
 			"address": "Via Vincenzo Gioberti, 51/r (FI)",
 			"city": "Firenze (FI)",
@@ -463,7 +457,7 @@
 			"website": "https://www.instagram.com/caffetteriapiansagioberti/",
 			"type": "0,1"
 		},
-"46": { 
+ { 
 			"id": "46",
 			"address": "Via de’ Ginori, 58 (FI)",
 			"city": "Firenze (FI)",
@@ -473,7 +467,7 @@
 			"website": "https://www.instagram.com/simbiosicoffee/",
 			"type": "0"
 		},
-"47": { 
+ { 
 			"id": "47",
 			"address": "Via Camillo Versari, 2 (FC)",
 			"city": "Forlì (FC)",
@@ -483,7 +477,7 @@
 			"website": "https://shop.gardellicoffee.com/",
 			"type": "0,1"
 		},
-"48": { 
+ { 
 			"id": "48",
 			"address": "Via Faliero Vezzani, 60 (GE)",
 			"city": "Genova (GE)",
@@ -493,7 +487,7 @@
 			"website": "https://www.tazzepazze.com/",
 			"type": "0,1"
 		},
-"49": { 
+ { 
 			"id": "49",
 			"address": "Piazza Cinque Lampadi, 71R (GE)",
 			"city": "Genova (GE)",
@@ -503,7 +497,7 @@
 			"website": "https://www.tazzepazze.com/",
 			"type": "0,1"
 		},
-"50": { 
+ { 
 			"id": "50",
 			"address": "Piazza Fabbrini, 21 (GR)",
 			"city": "Grosseto (GE)",
@@ -513,7 +507,7 @@
 			"website": "",
 			"type": "0"
 		},
-"51": { 
+ { 
 			"id": "51",
 			"address": "Via Italo Balbo, 147 - Itri (LT)",
 			"city": "Itri (LT)",
@@ -523,7 +517,7 @@
 			"website": "https://www.instagram.com/bixcafe_coffeehouse/",
 			"type": "0"
 		},
-"52": { 
+ { 
 			"id": "52",
 			"address": "Viale dellla Vittoria, 93/C - Jesi (AN)",
 			"city": "Jesi (AN)",
@@ -533,7 +527,7 @@
 			"website": "https://www.facebook.com/garacaffetteria",
 			"type": "0"
 		},
-"53": { 
+ { 
 			"id": "53",
 			"address": "Pza. L. Ariosto, 35 (LE)",
 			"city": "Lecce (LE)",
@@ -543,7 +537,7 @@
 			"website": "",
 			"type": "0"
 		},
-"54": { 
+ { 
 			"id": "54",
 			"address": "Piazza Attias, 33 (LI)",
 			"city": "Livorno (LI)",
@@ -553,7 +547,7 @@
 			"website": "https://www.instagram.com/coffeesquare33/",
 			"type": "0"
 		},
-"55": { 
+ { 
 			"id": "55",
 			"address": "Via Giovanni Marradi, 147 (LI)",
 			"city": "Firenze (FI)",
@@ -563,7 +557,7 @@
 			"website": "https://www.instagram.com/drupacaffe/",
 			"type": "0"
 		},
-"56": { 
+ { 
 			"id": "56",
 			"address": "Via XX settembre,39 (MN)",
 			"city": "Mantova (MN)",
@@ -573,7 +567,7 @@
 			"website": "",
 			"type": "0"
 		},
-"57": { 
+ { 
 			"id": "57",
 			"address": "Viale Marina, 127 (MS)",
 			"city": "Massa (MS)",
@@ -583,7 +577,7 @@
 			"website": "",
 			"type": "0"
 		},
-"58": { 
+ { 
 			"id": "58",
 			"address": "Via Astesani, 15 (MI)",
 			"city": "Milano (MI)",
@@ -593,7 +587,7 @@
 			"website": "https://bar-affori.business.site/",
 			"type": "0"
 		},
-"59": { 
+ { 
 			"id": "59",
 			"address": "Via Rembrandt, 12 (MI)",
 			"city": "Milano (MI)",
@@ -603,7 +597,7 @@
 			"website": "https://www.instagram.com/il_cafetero/",
 			"type": "0"
 		},
-"60": { 
+ { 
 			"id": "60",
 			"address": "Via Solferino, 27 (MI)",
 			"city": "Milano (MI)",
@@ -613,7 +607,7 @@
 			"website": "https://cafezal.it/caffe/",
 			"type": "0,1"
 		},
-"61": { 
+ { 
 			"id": "61",
 			"address": "Piazza S. Fedele, 2 (MI)",
 			"city": "Milano (MI)",
@@ -623,7 +617,7 @@
 			"website": "https://www.lavazza.it/it/chi-siamo/stores/flagshipstore.html",
 			"type": "0,1"
 		},
-"62": { 
+ { 
 			"id": "62",
 			"address": "Via G Cena, 21 (MI)",
 			"city": "Milano (MI)",
@@ -633,7 +627,7 @@
 			"website": "https://www.instagram.com/pasticceriacortinovis/",
 			"type": "0"
 		},
-"63": { 
+ { 
 			"id": "63",
 			"address": "Staz. metro Piazzale Medaglie D’oro (MI)",
 			"city": "Milano (MI)",
@@ -643,7 +637,7 @@
 			"website": "http://kohi.coffee/",
 			"type": "0"
 		},
-"64": { 
+ { 
 			"id": "64",
 			"address": "Via Francesco Guicciardini, 3 (MI)",
 			"city": "Milano (MI)",
@@ -653,7 +647,7 @@
 			"website": "https://lostecafe.com/",
 			"type": "0"
 		},
-"65": { 
+ { 
 			"id": "65",
 			"address": "Via de Amicis, 7 (MI)",
 			"city": "Milano (MI)",
@@ -663,7 +657,7 @@
 			"website": "https://mascherpatiramisu.com/",
 			"type": "0"
 		},
-"66": { 
+ { 
 			"id": "66",
 			"address": "Piazzale Medaglie d’Oro, 3 (MI)",
 			"city": "Milano (MI)",
@@ -673,7 +667,7 @@
 			"website": "https://www.instagram.com/milanoroastery/",
 			"type": "0,1"
 		},
-"67": { 
+ { 
 			"id": "67",
 			"address": "Corso Italia, 14 (MI)",
 			"city": "Milano (MI)",
@@ -683,7 +677,7 @@
 			"website": "https://www.instagram.com/barnicol.milano/",
 			"type": "0"
 		},
-"68": { 
+ { 
 			"id": "68",
 			"address": "Via Caminadella, 15 (MI)",
 			"city": "Milano (MI)",
@@ -693,7 +687,7 @@
 			"website": "https://www.instagram.com/nowherecafe.milano/",
 			"type": "0"
 		},
-"69": { 
+ { 
 			"id": "69",
 			"address": "Via Gerolamo Turroni, 2 (MI)",
 			"city": "Milano (MI)",
@@ -703,7 +697,7 @@
 			"website": "https://www.onestmilano.com/",
 			"type": "0"
 		},
-"70": { 
+ { 
 			"id": "70",
 			"address": "Via Broggi, 15 (MI)",
 			"city": "Milano (MI)",
@@ -713,7 +707,7 @@
 			"website": "https://www.instagram.com/orsonerocoffee/",
 			"type": "0"
 		},
-"71": { 
+ { 
 			"id": "71",
 			"address": "Via Melzo, 22 (MI)",
 			"city": "Milano (MI)",
@@ -723,7 +717,7 @@
 			"website": "https://www.instagram.com/quattroquartitorte/",
 			"type": "0"
 		},
-"72": { 
+ { 
 			"id": "72",
 			"address": "Via Cordusio, 1 (MI)",
 			"city": "Milano (MI)",
@@ -733,7 +727,7 @@
 			"website": "https://www.starbucksreserve.com/en-us/locations/milano",
 			"type": "0,1"
 		},
-"73": { 
+ { 
 			"id": "73",
 			"address": "Via Teodosio, 44 (MI)",
 			"city": "Milano (MI)",
@@ -743,7 +737,7 @@
 			"website": "https://www.instagram.com/tralerighemilano/",
 			"type": "0"
 		},
-"74": { 
+ { 
 			"id": "74",
 			"address": "Via Fontana, 1 - Vignola (MO)",
 			"city": "Vignola (MO)",
@@ -753,7 +747,7 @@
 			"website": "http://www.caffeterzi.it/caffe-terzi/",
 			"type": "0"
 		},
-"75": { 
+ { 
 			"id": "75",
 			"address": "Corso Canalchiaro, 136/a (MO)",
 			"city": "Modena (MO)",
@@ -763,7 +757,7 @@
 			"website": "https://www.facebook.com/menomoka",
 			"type": "0"
 		},
-"76": { 
+ { 
 			"id": "76",
 			"address": "Via Fratelli Rosselli, 78-80 (NA)",
 			"city": "Napoli (NA)",
@@ -773,7 +767,7 @@
 			"website": "https://m.facebook.com/grancaffesecondigliano/",
 			"type": "0"
 		},
-"77": { 
+ { 
 			"id": "77",
 			"address": "Via g. Bernini 64a (NA)",
 			"city": "Napoli (NA)",
@@ -783,7 +777,7 @@
 			"website": "https://www.instagram.com/ventimetriquadrispecialtycoffe/",
 			"type": "0"
 		},
-"78": { 
+ { 
 			"id": "78",
 			"address": "Prato della Valle, 2 (PD)",
 			"city": "Padova (PD)",
@@ -793,7 +787,7 @@
 			"website": "https://www.facebook.com/caffediemmeitalianattitudePadova/",
 			"type": "0,1"
 		},
-"79": { 
+ { 
 			"id": "79",
 			"address": "Via Michele Cipolla, 85 (PA)",
 			"city": "Palermo (PA)",
@@ -803,7 +797,7 @@
 			"website": "https://www.instagram.com/barvabres/",
 			"type": "0"
 		},
-"80": { 
+ { 
 			"id": "80",
 			"address": "Piazzale del Fante, 54 (PA)",
 			"city": "Palermo (PA)",
@@ -813,7 +807,7 @@
 			"website": "https://www.instagram.com/histocaffe/",
 			"type": "0,1"
 		},
-"81": { 
+ { 
 			"id": "81",
 			"address": "Via Villaermosa, 9 (PA)",
 			"city": "Palermo (PA)",
@@ -823,7 +817,7 @@
 			"website": "https://www.instagram.com/caffetteriarizzuto/",
 			"type": "0"
 		},
-"82": { 
+ { 
 			"id": "82",
 			"address": "Via A. Manzoni, 174 - Ponte San Giovanni (PG)",
 			"city": "Ponte San Giovanni (PG)",
@@ -833,7 +827,7 @@
 			"website": "https://www.instagram.com/torrefazione_primocrack/",
 			"type": "0"
 		},
-"83": { 
+ { 
 			"id": "83",
 			"address": "S.S. Adriatica 16, 56 - Pesaro (PU)",
 			"city": "Pesaro (PU)",
@@ -843,7 +837,7 @@
 			"website": "https://www.instagram.com/matteo_domenicucci/",
 			"type": "0"
 		},
-"84": { 
+ { 
 			"id": "84",
 			"address": "Corso italia, 99 - Piombino (LI)",
 			"city": "Piombino (LI)",
@@ -853,7 +847,7 @@
 			"website": "",
 			"type": "0"
 		},
-"85": { 
+ { 
 			"id": "85",
 			"address": "Via Corsica, 8 (PI)",
 			"city": "Pisa (PI)",
@@ -863,7 +857,7 @@
 			"website": "https://caffe-dei-cavalieri-pisa-specialty-coffee-shop.business.site/",
 			"type": "0"
 		},
-"86": { 
+ { 
 			"id": "86",
 			"address": "Via Santa Maria, 30 (PI)",
 			"city": "Pisa (PI)",
@@ -873,7 +867,7 @@
 			"website": "https://www.instagram.com/filtercoffeelab/",
 			"type": "0"
 		},
-"87": { 
+ { 
 			"id": "87",
 			"address": "Via Fonda di Vicofaro 6/8 (PT)",
 			"city": "Pistoia (PT)",
@@ -883,7 +877,7 @@
 			"website": "https://loft68.it/",
 			"type": "0"
 		},
-"88": { 
+ { 
 			"id": "88",
 			"address": "Via Sacra, 44 (NA)",
 			"city": "Pompei (NA)",
@@ -893,7 +887,7 @@
 			"website": "https://www.campanacaffe.com/campana_caffe_specialty",
 			"type": "0,1"
 		},
-"89": { 
+ { 
 			"id": "89",
 			"address": "Via Carducci, 125 (RG)",
 			"city": "Ragusa (RG)",
@@ -903,7 +897,7 @@
 			"website": "https://www.instagram.com/loreficefioricafe/?igshid=6451zsk623f8",
 			"type": "0"
 		},
-"90": { 
+ { 
 			"id": "90",
 			"address": "V. Don G. Minzoni, 54 Sartancangelo di Romagna (RN)",
 			"city": "Sartancangelo di Romagna (RN)",
@@ -913,7 +907,7 @@
 			"website": "donminzoni54.com",
 			"type": "0"
 		},
-"91": { 
+ { 
 			"id": "91",
 			"address": "Piazza Perin del Vaga, 13 (Roma)",
 			"city": "Roma (Roma)",
@@ -923,7 +917,7 @@
 			"website": "https://www.instagram.com/barduefontane/",
 			"type": "0"
 		},
-"92": { 
+ { 
 			"id": "92",
 			"address": "Via del Pellegrino, 87 (Roma)",
 			"city": "Roma (Roma)",
@@ -933,7 +927,7 @@
 			"website": "https://www.barnumroma.com/",
 			"type": "0"
 		},
-"93": { 
+ { 
 			"id": "93",
 			"address": "Corso G. Matteotti, 184 - Albano Laziale (Roma)",
 			"city": "Albano Laziale (Roma)",
@@ -943,7 +937,7 @@
 			"website": "",
 			"type": "0"
 		},
-"94": { 
+ { 
 			"id": "94",
 			"address": "Viale Aventino, 91/93 (Roma)",
 			"city": "Roma (Roma)",
@@ -953,7 +947,7 @@
 			"website": "https://www.instagram.com/casamanfredi/",
 			"type": "0"
 		},
-"95": { 
+ { 
 			"id": "95",
 			"address": "Via Tuscolana, 1677 (Roma)",
 			"city": "Roma (Roma)",
@@ -963,7 +957,7 @@
 			"website": "https://caffeconti.it/",
 			"type": "0,1"
 		},
-"96": { 
+ { 
 			"id": "96",
 			"address": "V. Prato della madonna, 87 - Valmontone (Roma)",
 			"city": "Valmontone (Roma)",
@@ -973,7 +967,7 @@
 			"website": "",
 			"type": "0"
 		},
-"97": { 
+ { 
 			"id": "97",
 			"address": "Via Mura dei Francesi, 197/C - Ciampino (Roma)",
 			"city": "Ciampino (Roma)",
@@ -983,7 +977,7 @@
 			"website": "https://estratto-bar.business.site/",
 			"type": "0"
 		},
-"98": { 
+ { 
 			"id": "98",
 			"address": "Via Piave, 55 (Roma)",
 			"city": "Roma (Roma)",
@@ -993,7 +987,7 @@
 			"website": "https://www.farorome.com/",
 			"type": "0,1"
 		},
-"99": { 
+ { 
 			"id": "99",
 			"address": "Via Antonio Raimondi, 87 (Roma)",
 			"city": "Roma (Roma)",
@@ -1003,7 +997,7 @@
 			"website": "https://www.faxfactory.it/",
 			"type": "0"
 		},
-"100": { 
+ { 
 			"id": "100",
 			"address": "Piazza del Risorgimento, 7 (Roma)",
 			"city": "Roma (Roma)",
@@ -1013,7 +1007,7 @@
 			"website": "https://www.instagram.com/pergaminocaffe/",
 			"type": "0"
 		},
-"101": { 
+ { 
 			"id": "101",
 			"address": "Fiumicino (Roma)",
 			"city": "Fiumicino (Roma)",
@@ -1023,7 +1017,7 @@
 			"website": "https://www.instagram.com/picapau.coffee/",
 			"type": "1"
 		},
-"102": { 
+ { 
 			"id": "102",
 			"address": "Viale Kennedy, 33 - Ciampino (Roma)",
 			"city": "Ciampino (Roma)",
@@ -1033,7 +1027,7 @@
 			"website": "https://www.instagram.com/rinaldicaffe/",
 			"type": "0,1"
 		},
-"103": { 
+ { 
 			"id": "103",
 			"address": "Piazza Benedetto Cairoli, 16 (Roma)",
 			"city": "Roma (Roma)",
@@ -1043,7 +1037,7 @@
 			"website": "https://www.rosciolicaffe.com/",
 			"type": "0"
 		},
-"104": { 
+ { 
 			"id": "104",
 			"address": "Via Marmorata, 13 (Roma)",
 			"city": "Roma (Roma)",
@@ -1053,7 +1047,7 @@
 			"website": "https://www.instagram.com/tramdepot_/",
 			"type": "0"
 		},
-"105": { 
+ { 
 			"id": "105",
 			"address": "Via Marmorata, 13 (Roma)",
 			"city": "Roma (Roma)",
@@ -1063,7 +1057,7 @@
 			"website": "https://www.instagram.com/tramdepot_/",
 			"type": "0"
 		},
-"106": { 
+ { 
 			"id": "106",
 			"address": "Circonvallazione Ostiense, 201 (Roma)",
 			"city": "Roma (Roma)",
@@ -1073,7 +1067,7 @@
 			"website": "https://www.instagram.com/nerovaniglia/",
 			"type": "0"
 		},
-"107": { 
+ { 
 			"id": "107",
 			"address": "Corso Vittorio Emanuele, 21 (SA)",
 			"city": "Salerno (SA)",
@@ -1083,7 +1077,7 @@
 			"website": "https://www.instagram.com/castorinoamorespresso/",
 			"type": "0,1"
 		},
-"108": { 
+ { 
 			"id": "108",
 			"address": "Via Vicinanza 38 (SA)",
 			"city": "Salerno (SA)",
@@ -1093,7 +1087,7 @@
 			"website": "https://www.zerohealthy.it/",
 			"type": "0"
 		},
-"109": { 
+ { 
 			"id": "109",
 			"address": "P. tta Filippo Buonaccorsi 5 (SI)",
 			"city": "San Gimignano (SI)",
@@ -1103,7 +1097,7 @@
 			"website": "https://magnino.eu/menu-caffetteria/",
 			"type": "0"
 		},
-"110": { 
+ { 
 			"id": "110",
 			"address": "Via P. P. Pasolini 8 - Sinalunga (SI)",
 			"city": "Sinalunga (SI)",
@@ -1113,7 +1107,7 @@
 			"website": "http://www.loscuro.it/",
 			"type": "0,1"
 		},
-"111": { 
+ { 
 			"id": "111",
 			"address": "Via Moso, 40 (SR)",
 			"city": "Siracusa (SR)",
@@ -1123,7 +1117,7 @@
 			"website": "https://www.facebook.com/Insolito-Caf%C3%A8-Siracusa-419930784804069/",
 			"type": "0"
 		},
-"112": { 
+ { 
 			"id": "112",
 			"address": "SS 1 Via Aurelia, 19021, Arcola  (SP)",
 			"city": "Arcola (SP)",
@@ -1133,7 +1127,7 @@
 			"website": "https://caffetteria-al175.business.site/?utm_source=gmb&utm_medium=referral",
 			"type": "0"
 		},
-"113": { 
+ { 
 			"id": "113",
 			"address": "Via G. Aprile, 12 - Martina Franca (TA)",
 			"city": "Martina Franca (TA)",
@@ -1143,7 +1137,7 @@
 			"website": "https://www.caffecaroli.it/shop/it/37-specialty-coffee",
 			"type": "0,1"
 		},
-"114": { 
+ { 
 			"id": "114",
 			"address": "Corso Adriatico, 342 - Sant’Egidio alla Vibrata (TE)",
 			"city": "Sant’Egidio alla Vibrata (TE)",
@@ -1153,7 +1147,7 @@
 			"website": "https://www.facebook.com/THEBROTHER.SANT/",
 			"type": "0"
 		},
-"115": { 
+ { 
 			"id": "115",
 			"address": "Corso Vittorio Emanuele II, 206 (TO)",
 			"city": "Torino (TO)",
@@ -1163,7 +1157,7 @@
 			"website": "https://www.facebook.com/Efrem-Gourmet-Boutique-and-Finest-Bar-110465073806325/",
 			"type": "0"
 		},
-"116": { 
+ { 
 			"id": "116",
 			"address": "Via Viterbo, 98 (TO)",
 			"city": "Torino (TO)",
@@ -1173,7 +1167,7 @@
 			"website": "",
 			"type": "0"
 		},
-"117": { 
+ { 
 			"id": "117",
 			"address": "Via Teofilo rossi 2, (TO)",
 			"city": "Torino (TO)",
@@ -1183,7 +1177,7 @@
 			"website": "https://costadoro.it/chi-siamo/factory/",
 			"type": "0,1"
 		},
-"118": { 
+ { 
 			"id": "118",
 			"address": "Via San Francesco da Paola 29/F (TO)",
 			"city": "Torino (TO)",
@@ -1193,7 +1187,7 @@
 			"website": "https://www.facebook.com/Docg-Coffee-478339752359682/",
 			"type": "0"
 		},
-"119": { 
+ { 
 			"id": "119",
 			"address": "Via Stradella 242 (TO)",
 			"city": "Torino (TO)",
@@ -1203,7 +1197,7 @@
 			"website": "Gocce di Cioccolato online shop",
 			"type": "0,1"
 		},
-"120": { 
+ { 
 			"id": "120",
 			"address": "Via san secondo 17f (TO)",
 			"city": "Torino (TO)",
@@ -1213,7 +1207,7 @@
 			"website": "https://www.instagram.com/lahaciendatorino/",
 			"type": "0"
 		},
-"121": { 
+ { 
 			"id": "121",
 			"address": "Via Berthollet, 30g (TO)",
 			"city": "Torino (TO)",
@@ -1223,7 +1217,7 @@
 			"website": "Orso Laboratorio Caffè online shop",
 			"type": "0,1"
 		},
-"122": { 
+ { 
 			"id": "122",
 			"address": "Via Trevisi, 16 (TV)",
 			"city": "Treviso (TV)",
@@ -1233,7 +1227,7 @@
 			"website": "Taste online shop",
 			"type": "0,1"
 		},
-"123": { 
+ { 
 			"id": "123",
 			"address": "Via di Cavana, 8 (TS)",
 			"city": "Trieste (TS)",
@@ -1243,7 +1237,7 @@
 			"website": "",
 			"type": "0"
 		},
-"124": { 
+ { 
 			"id": "124",
 			"address": "Piazza Attilio Hortis, 6 (TS)",
 			"city": "Trieste (TS)",
@@ -1253,7 +1247,7 @@
 			"website": "https://mugbakery.com/ec/",
 			"type": "0"
 		},
-"125": { 
+ { 
 			"id": "125",
 			"address": "Corso Italia, 14 (NO)",
 			"city": "Novara (NO)",
@@ -1263,7 +1257,7 @@
 			"website": "https://www.umbertoprimonovara.com/",
 			"type": "0"
 		},
-"126": { 
+ { 
 			"id": "126",
 			"address": "Via delle torri, 2 (TS)",
 			"city": "Trieste (TS)",
@@ -1273,7 +1267,7 @@
 			"website": "https://www.instagram.com/osteria_del_caffe/",
 			"type": "0"
 		},
-"127": { 
+ { 
 			"id": "127",
 			"address": "Via Sandro Botticelli, 5/7, 05100 Terni TR",
 			"city": "Terni (TR)",
@@ -1283,7 +1277,7 @@
 			"website": "https://caffedivinoshop.it/",
 			"type": "0"
 		},
-"128": { 
+ { 
 			"id": "128",
 			"address": "Via Guglielmo Marconi, 10 (VR)",
 			"city": "Verona (VR)",
@@ -1293,7 +1287,7 @@
 			"website": "https://steampower.it/",
 			"type": "0"
 		},
-"129": { 
+ { 
 			"id": "129",
 			"address": "Viale Galileo Galilei, 30/1 (VE)",
 			"city": "Verona (VR)",
@@ -1303,7 +1297,7 @@
 			"website": "https://www.torrefazionecannaregio.it/",
 			"type": "0,1"
 		},
-"130": { 
+ { 
 			"id": "130",
 			"address": "Viale Galileo Galilei, 30/1 (VE)",
 			"city": "Montebelluna (TV)",
@@ -1313,7 +1307,7 @@
 			"website": "https://www.instagram.com/wakecup__specialtycoffee/",
 			"type": "0"
 		},
-"131": { 
+ { 
 			"id": "131",
 			"address": "Via Enzo Ferrari, 8 Castelfidardo (AN)",
 			"city": "Castelfidardo (AN)",
@@ -1323,7 +1317,7 @@
 			"website": "The Smoking tiger online shop",
 			"type": "1"
 		},
-"132": { 
+ { 
 			"id": "132",
 			"address": "Via del terziario, buchi di Monteprandone  (AP)",
 			"city": "Ascoli Piceno (AP)",
@@ -1333,7 +1327,7 @@
 			"website": "https://www.instagram.com/orlandipassion/",
 			"type": "1"
 		},
-"133": { 
+ { 
 			"id": "133",
 			"address": "Viale Venezia 16/n - Bassano del Grappa (VI)",
 			"city": "Bassano del Grappa (VI)",
@@ -1343,7 +1337,7 @@
 			"website": "https://it.neroscurocoffee.com/",
 			"type": "1"
 		},
-"134": { 
+ { 
 			"id": "134",
 			"address": "",
 			"city": "Bergamo (BG)",
@@ -1353,7 +1347,7 @@
 			"website": "Critical coffee online shop",
 			"type": "1"
 		},
-"135": { 
+ { 
 			"id": "135",
 			"address": "Via Roma, 133, 24059 Urgnano (BG)",
 			"city": "Urgnano (BG)",
@@ -1363,7 +1357,7 @@
 			"website": "Spirit of Coffee online shop",
 			"type": "1"
 		},
-"136": { 
+ { 
 			"id": "136",
 			"address": "Zona Artigianale, 92 -  Fie’ allo Sciliar (BZ)",
 			"city": "Fie’ allo Sciliar (BZ)",
@@ -1373,7 +1367,7 @@
 			"website": "Caroma online shop",
 			"type": "1"
 		},
-"137": { 
+ { 
 			"id": "137",
 			"address": "v. Mühlbach 23, - Prato allo Stelvio (BZ)",
 			"city": "Prato allo Stelvio (BZ)",
@@ -1383,7 +1377,7 @@
 			"website": "Kuntrawant online shop",
 			"type": "0,1"
 		},
-"138": { 
+ { 
 			"id": "138",
 			"address": "Via g.verdi, 29 (TV)",
 			"city": "Candelù (TV)",
@@ -1393,7 +1387,7 @@
 			"website": "Caffettin online shop",
 			"type": "1"
 		},
-"139": { 
+ { 
 			"id": "139",
 			"address": "Via delle Monache, 7 - Cellole (CE)",
 			"city": "Cellole (CE)",
@@ -1403,7 +1397,7 @@
 			"website": "Verrè online shop",
 			"type": "1"
 		},
-"140": { 
+ { 
 			"id": "140",
 			"address": "Via Paolo Ferrari, 3 Gadesco (CR)",
 			"city": "Gadesco (CR)",
@@ -1413,7 +1407,7 @@
 			"website": "Street Coffee School online shop",
 			"type": "1"
 		},
-"141": { 
+ { 
 			"id": "141",
 			"address": "Via Ferrabò, 4 (CR)",
 			"city": "Cremona (CR)",
@@ -1423,7 +1417,7 @@
 			"website": "Torrefazione Vittoria online shop",
 			"type": "1"
 		},
-"142": { 
+ { 
 			"id": "142",
 			"address": "Via Bongiovanni, 32 (FE)",
 			"city": "Ferrara (FE)",
@@ -1433,7 +1427,7 @@
 			"website": "Penazzi online shop",
 			"type": "1"
 		},
-"143": { 
+ { 
 			"id": "143",
 			"address": "Via delle Torri, 55 (FI)",
 			"city": "Firenze (FI)",
@@ -1443,7 +1437,7 @@
 			"website": "Caffelab online shop",
 			"type": "1"
 		},
-"144": { 
+ { 
 			"id": "144",
 			"address": "Via dei Bastioni, 38 (FI)",
 			"city": "Firenze (FI)",
@@ -1453,7 +1447,7 @@
 			"website": "Dinicaffè online shop",
 			"type": "1"
 		},
-"145": { 
+ { 
 			"id": "145",
 			"address": "Via Cittadela 2 r/b (FI)",
 			"city": "Firenze (FI)",
@@ -1463,7 +1457,7 @@
 			"website": "D612 online shop",
 			"type": "1"
 		},
-"146": { 
+ { 
 			"id": "146",
 			"address": "Via del Bagnone, 24 - Borgo San Lorenzo (FI)",
 			"city": "Borgo San Lorenzo (FI)",
@@ -1473,7 +1467,7 @@
 			"website": "Gearbox online shop",
 			"type": "1"
 		},
-"147": { 
+ { 
 			"id": "147",
 			"address": "Via Statale, 240  -  Quarrata (PT)",
 			"city": "Quarrata (PT)",
@@ -1483,7 +1477,7 @@
 			"website": "Oriental caffè online shop",
 			"type": "0,1"
 		},
-"148": { 
+ { 
 			"id": "148",
 			"address": "Via A. Meucci, 1 - Cascine del Riccio (FI)",
 			"city": "Cascine del Riccio (FI)",
@@ -1493,7 +1487,7 @@
 			"website": "Piansa online shop",
 			"type": "1"
 		},
-"149": { 
+ { 
 			"id": "149",
 			"address": "a",
 			"city": "Cascine del Riccio (FI)",
@@ -1503,7 +1497,7 @@
 			"website": "La Sosta online shop",
 			"type": "1"
 		},
-"150": { 
+ { 
 			"id": "150",
 			"address": "Via Doganali, 3 (FI)",
 			"city": "Firenze (FI)",
@@ -1513,7 +1507,7 @@
 			"website": "Spazio caffè Firenze online shop",
 			"type": "1"
 		},
-"151": { 
+ { 
 			"id": "151",
 			"address": "Via Piero Gobetti, 9 - Signa (FI)",
 			"city": "Signa (FI)",
@@ -1523,7 +1517,7 @@
 			"website": "La Tosteria online shop",
 			"type": "1"
 		},
-"152": { 
+ { 
 			"id": "152",
 			"address": "Via III armata,  91 (GO)",
 			"city": "Gorizia (GO)",
@@ -1533,7 +1527,7 @@
 			"website": "Torrefazione Goriziana online shop",
 			"type": "1"
 		},
-"153": { 
+ { 
 			"id": "153",
 			"address": "Piazza Cavour, 26 - Gravina di Puglia (BA)",
 			"city": "Gravina di Puglia (BA)",
@@ -1543,7 +1537,7 @@
 			"website": "Pièrre online shop",
 			"type": "1"
 		},
-"154": { 
+ { 
 			"id": "154",
 			"address": "Annibale Mores, 60 - Gravina di Puglia (BA)",
 			"city": "Gravina di Puglia (BA)",
@@ -1553,7 +1547,7 @@
 			"website": "Son of Coffee online shop",
 			"type": "1"
 		},
-"155": { 
+ { 
 			"id": "155",
 			"address": "Via U. Foscolo, 4 Arzignano (VI)",
 			"city": "Arzignano (VI)",
@@ -1563,7 +1557,7 @@
 			"website": "Young Cup of Coffee online shop",
 			"type": "1"
 		},
-"156": { 
+ { 
 			"id": "156",
 			"address": "Strada statale 16 -zona industriale (LE)",
 			"city": "Lecce (LE)",
@@ -1573,7 +1567,7 @@
 			"website": "Edo Quarta online shop",
 			"type": "1"
 		},
-"157": { 
+ { 
 			"id": "157",
 			"address": "Via Provinciale Pisana, 583/b (LI)",
 			"city": "Livorno (LI)",
@@ -1583,7 +1577,7 @@
 			"website": "Le Piantagioni del caffè online shop",
 			"type": "1"
 		},
-"158": { 
+ { 
 			"id": "158",
 			"address": "Via Valparaiso, 9 (MI)",
 			"city": "Milano (MI)",
@@ -1593,7 +1587,7 @@
 			"website": "Lotzero online shop",
 			"type": "1"
 		},
-"159": { 
+ { 
 			"id": "159",
 			"address": "Via Antonio Pacinotti, 1 - Lissone (MB)",
 			"city": "Lissone (MB)",
@@ -1603,7 +1597,7 @@
 			"website": "Peacocks online shop",
 			"type": "1"
 		},
-"160": { 
+ { 
 			"id": "160",
 			"address": "Via Marino Zanutel, 2 - Melzo (MI)",
 			"city": "Melzo (MI)",
@@ -1613,7 +1607,7 @@
 			"website": "Zar cafè online shop",
 			"type": "1"
 		},
-"161": { 
+ { 
 			"id": "161",
 			"address": "Via Poggio Bracciolini, 4 - Montevarchi(AR)",
 			"city": "Montevarchi (AR)",
@@ -1623,7 +1617,7 @@
 			"website": "Pacamara online shop",
 			"type": "1"
 		},
-"162": { 
+ { 
 			"id": "162",
 			"address": "Via Benvenuto Cellini, 17 (MB)",
 			"city": "Monza (MB)",
@@ -1633,7 +1627,7 @@
 			"website": "His Majestry the Coffee online shop",
 			"type": "1"
 		},
-"163": { 
+ { 
 			"id": "163",
 			"address": "Via N.Tommaseo 12 - Seveso (MB)",
 			"city": "Seveso (MB)",
@@ -1643,7 +1637,7 @@
 			"website": "Il Griso online shop",
 			"type": "1"
 		},
-"164": { 
+ { 
 			"id": "164",
 			"address": "Via Vittorio Emanuele, 610 (NA)",
 			"city": "Napoli (NA)",
@@ -1653,7 +1647,7 @@
 			"website": "Sansone",
 			"type": "1"
 		},
-"165": { 
+ { 
 			"id": "165",
 			"address": "Via Baracca,6 - Rivanazzano Terme (PV)",
 			"city": "Rivanazzano Terme (PV)",
@@ -1663,7 +1657,7 @@
 			"website": "Little bean online shop",
 			"type": "1"
 		},
-"166": { 
+ { 
 			"id": "166",
 			"address": "Via Enzo Biagi, 3-5 (PA)",
 			"city": "Palermo (PA)",
@@ -1673,7 +1667,7 @@
 			"website": "La Musa Nera online shop",
 			"type": "1"
 		},
-"167": { 
+ { 
 			"id": "167",
 			"address": "Strada di Mezzo, 5 - San Secondo Parmense (PR)",
 			"city": "San Secondo Parmense (PR)",
@@ -1683,7 +1677,7 @@
 			"website": "Lady caffè online shop",
 			"type": "1"
 		},
-"168": { 
+ { 
 			"id": "168",
 			"address": "via della scienza, 50 - Ponte San Giovanni (PG)",
 			"city": "Ponte San Giovanni (PG)",
@@ -1693,7 +1687,7 @@
 			"website": "",
 			"type": "1"
 		},
-"169": { 
+ { 
 			"id": "169",
 			"address": "Via Martiri della Libertà 203C - Massa Lombarda (RA)",
 			"city": "Massa Lombarda (RA)",
@@ -1703,7 +1697,7 @@
 			"website": "Paradiso online shop",
 			"type": "1"
 		},
-"170": { 
+ { 
 			"id": "170",
 			"address": "Via Nazionale, 167 - Cittanova (RC)",
 			"city": "Cittanova (RC)",
@@ -1713,7 +1707,7 @@
 			"website": "Cannizzaro online shop",
 			"type": "1"
 		},
-"171": { 
+ { 
 			"id": "171",
 			"address": "Via statale 467 n* 5/38 (RE)",
 			"city": "Reggio Emilia (RE)",
@@ -1723,7 +1717,7 @@
 			"website": "SantaFara caffè online shop",
 			"type": "1"
 		},
-"172": { 
+ { 
 			"id": "172",
 			"address": "Via S. Sebastiano, 130 Fiano Romano (Roma)",
 			"city": "Fiano Romano (Roma)",
@@ -1733,7 +1727,7 @@
 			"website": "Caffè Italia online shop",
 			"type": "1"
 		},
-"173": { 
+ { 
 			"id": "173",
 			"address": "Via Flaminia, 508 (Roma)",
 			"city": "aa (aa)",
@@ -1743,7 +1737,7 @@
 			"website": "Misceliamo online shop",
 			"type": "0,1"
 		},
-"174": { 
+ { 
 			"id": "174",
 			"address": "Via Vittorio Veneto 18 - Albenga (SV)",
 			"city": "Albenga (SV)",
@@ -1753,7 +1747,7 @@
 			"website": "La Genovese online shop",
 			"type": "1"
 		},
-"175": { 
+ { 
 			"id": "175",
 			"address": "S.S. Torino-Asti, km 20 – Santena (TO)",
 			"city": "Santelena (TO)",
@@ -1763,7 +1757,7 @@
 			"website": "Vergnano online shop",
 			"type": "1"
 		},
-"176": { 
+ { 
 			"id": "176",
 			"address": "Via per Zambana vecchia,9 - Zambana (TN)",
 			"city": "Zambana (TN)",
@@ -1773,7 +1767,7 @@
 			"website": "I Druper coffee online shop",
 			"type": "1"
 		},
-"177": { 
+ { 
 			"id": "177",
 			"address": "Campo Del Belvedere, 6 (TS)",
 			"city": "Trieste (TS)",
@@ -1783,7 +1777,7 @@
 			"website": "Bloom online shop",
 			"type": "1"
 		},
-"178": { 
+ { 
 			"id": "178",
 			"address": "Via XXV Aprile, 4 - Ventimiglia (IM)",
 			"city": "Ventimiglia (IM)",
@@ -1793,7 +1787,7 @@
 			"website": "Coffeel online shop",
 			"type": "1"
 		},
-"179": { 
+ { 
 			"id": "179",
 			"address": "Via Anton Maria Lorgna, 21 (VR)",
 			"city": "Verona (VR)",
@@ -1803,7 +1797,7 @@
 			"website": "Garage coffee bros online shop",
 			"type": "1"
 		},
-"180": { 
+ { 
 			"id": "180",
 			"address": "Via Monte Tomba, 2, - Marzana (VR)",
 			"city": "Marzana (VR)",
@@ -1813,7 +1807,7 @@
 			"website": "Manifattura caffè online shop",
 			"type": "1"
 		},
-"181": { 
+ { 
 			"id": "181",
 			"address": "Via Sparano da Bari, 120",
 			"city": "Bari (BA)",
@@ -1823,7 +1817,7 @@
 			"website": "https://www.caffecognetti.com/",
 			"type": "0,1"
 		},
-"182": { 
+ { 
 			"id": "182",
 			"address": "Via Francesco Rubichini, 135 (LE)",
 			"city": "Lecce (LE)",
@@ -1833,7 +1827,7 @@
 			"website": "https://www.facebook.com/CaffeCittadino/",
 			"type": "1"
 		},
-"183": { 
+ { 
 			"id": "183",
 			"address": "Via Giuseppe Mazzini, 32 - Pomigliano d’Arco (NA)",
 			"city": "Pomigliano d’Arco (NA)",
@@ -1843,7 +1837,7 @@
 			"website": "https://www.facebook.com/Azaleflowerbar/",
 			"type": "1"
 		},
-"184": { 
+ { 
 			"id": "184",
 			"address": "Via Vincenzo Forcella, 7, 20144 Milano MI",
 			"city": "Milano (MI)",
@@ -1853,7 +1847,7 @@
 			"website": "https://artandcaffeine.faema.it/it/",
 			"type": "1"
 		},
-"185": { 
+ { 
 			"id": "185",
 			"address": "Corso Vittorio Alfieri, 174, 14100 Asti AT",
 			"city": "Asti (AT)",
@@ -1863,7 +1857,7 @@
 			"website": "https://www.caffelospuntinoasti.it/",
 			"type": "1"
 	},
-"186": { 
+ { 
 			"id": "186",
 			"address": "Viale dei Pini, 1, 80131 Napoli NA",
 			"city": "Napoli (NA)",
@@ -1873,7 +1867,7 @@
 			"website": "https://www.facebook.com/Ubarnapoli",
 			"type": "0"
 	},
-"187": { 
+ { 
 			"id": "187",
 			"address": "Via dei Mille, 36, 27100 Pavia PV",
 			"city": "Pavia (PV)",
@@ -1883,7 +1877,7 @@
 			"website": "https://www.caffelospuntinoasti.it/",
 			"type": "0"
 	},
-"188": { 
+ { 
 			"id": "188",
 			"address": "Corso Vittorio Alfieri, 174, 14100 Asti AT",
 			"city": "Asti (AT)",
@@ -1893,7 +1887,7 @@
 			"website": "Link caffè Diem",
 			"type": "0,1"
 	},
-"189": { 
+ { 
 			"id": "189",
 			"address": "Via F. Brunelleschi, 33, 41012 Carpi MO",
 			"city": "Carpi (MO)",
@@ -1903,7 +1897,7 @@
 			"website": "https://farinadeltuosacco.business.site/",
 			"type": "0"
 	},
-"190": { 
+ { 
 			"id": "190",
 			"address": "Via Casilina Nord, 63, 03030 Villa Santa Lucia FR",
 			"city": "Cassino (FR)",
@@ -1913,7 +1907,7 @@
 			"website": "",
 			"type": "0"
 	},
-"191": { 
+ { 
 			"id": "191",
 			"address": "Via Ospedale, 6, 12051 Alba CN",
 			"city": "Alba (CN)",
@@ -1923,7 +1917,7 @@
 			"website": "https://www.facebook.com/PetricoreEnoteca/",
 			"type": "0"
 	},
-"192": { 
+ { 
 			"id": "192",
 			"address": "Viale Giuseppe de Vito - Poggio Mirteto (RI)",
 			"city": "Poggio Mirteto - Rieti (RI)",
@@ -1933,7 +1927,7 @@
 			"website": "https://omroastery.com/",
 			"type": "0,1"
 	},
-"193": { 
+ { 
 			"id": "193",
 			"address": "Via Cupra, 50, 00157 Roma RM",
 			"city": "Roma",
@@ -1943,7 +1937,7 @@
 			"website": "https://www.facebook.com/Pouring-Happiness-118746140043567/",
 			"type": "0"
 	},
-"194": { 
+ { 
 			"id": "194",
 			"address": "Via Palazzo di Città, 22d, 10122 Torino TO",
 			"city": "Torino (TO)",
@@ -1953,7 +1947,7 @@
 			"website": "https://infusioncafetorino.com/",
 			"type": "0"
 	},
-"195": { 
+ { 
 			"id": "195",
 			"address": "Via San Liberale, 10, 31100 Treviso TV",
 			"city": "Treviso (TV)",
@@ -1963,7 +1957,7 @@
 			"website": "https://www.bloom-italia.com/",
 			"type": "0"
 	},
-"196": { 
+ { 
 			"id": "196",
 			"address": "Via Giacomo Boni, 25, 20144 Milano MI",
 			"city": "Milano (MI)",
@@ -1973,12 +1967,12 @@
 			"website": "https://www.pasticceriaclea.it/",
 			"type": "0"
 	}
-},
-	"ratios": {
-		"0": {
+	],
+	"ratio": [
+	 	{
 			"deletable": "0",
 			"ratio": "60",
 			"title": "Base"
 		}
-	}
+	]
 }
