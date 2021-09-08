@@ -6,7 +6,7 @@
 		{ 
 			"id": "0",
 			"address": "via Cavour 45-49 - Alessandria (AL)",
-			"shop_type": "TEST",
+			"shop_type": "pasticceria/caffeteria",
 			"city": "Alessandria",
 			"lat": "44.91012718470593",
 			"lon": "8.61589495714236",
@@ -17,7 +17,7 @@
 	 { 
 			"id": "1",
 			"address": "Pza. Dante Alighieri, 22 - Casalnoceto (AL)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Casalnoceto (AL)",
 			"lat": "44.91360464901114",
 			"lon": "8.98177798346418",
@@ -28,7 +28,7 @@
 	 { 
 			"id": "2",
 			"address": "V.le Santuario 74b - Valenza (AL)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Valenza (AL)",
 			"lat": "45.00717081452176",
 			"lon": "8.63471421898311",
@@ -39,7 +39,7 @@
 	 { 
 			"id": "3",
 			"address": "Via Verdi 24 - Aprilia (Roma)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Aprilia (Roma)",
 			"lat": "41.590552056503654",
 			"lon": "12.65478449925375",
@@ -49,7 +49,7 @@
 		}, { 
 			"id": "4",
 			"address": "Via Piero Gobetti, 64 (AR)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Arezzo (AR)",
 			"lat": "43.45959387132391",
 			"lon": "11.836275576564836",
@@ -59,7 +59,7 @@
 		}, { 
 			"id": "5",
 			"address": "Corso Giuseppe Mazzini, 225 (AP)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Ascoli Piceno (AP)",
 			"lat": "42.85508455386302",
 			"lon": "13.578044580804804",
@@ -69,7 +69,7 @@
 		}, { 
 			"id": "6",
 			"address": "Via Domenico Nicolai, 3 (BA)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Bari (BA)",
 			"lat": "41.12139742698269",
 			"lon": "16.868708734970195",
@@ -79,7 +79,7 @@
 		}, { 
 			"id": "7",
 			"address": "Via Cognetti, 52 (BA)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Bari (BA)",
 			"lat": "41.123415044152694",
 			"lon": "16.87558483532022",
@@ -89,7 +89,7 @@
 		}, { 
 			"id": "8",
 			"address": "Via Cognetti, 17/19 (BA)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Bari (BA)",
 			"lat": "41.12313843485236",
 			"lon": "16.873234509782662",
@@ -99,7 +99,7 @@
 		}, { 
 			"id": "9",
 			"address": "Piazza V. Emanuele II, 38 - Giovinazzo (BA)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Giovinazzo (BA)",
 			"lat": "41.187699",
 			"lon": "16.671018",
@@ -110,7 +110,7 @@
  { 
 			"id": "10",
 			"address": "Via Piazza Castello, 16 (BL)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Belluno (BL)",
 			"lat": "46.13886913808987",
 			"lon": "12.216457457075172",
@@ -121,7 +121,7 @@
  { 
 			"id": "11",
 			"address": "Via Colleoni, 18 (BG)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Bergamo (BG)",
 			"lat": "45.70471247386561",
 			"lon": "9.661973210909803",
@@ -143,7 +143,7 @@
  { 
 			"id": "13",
 			"address": "Via Galliera 34d (BO)",
-			"shop_type": "TEST",
+			"shop_type": "panetteria/torrefazione",
 			"city": "Bologna (BO)",
 			"lat": "44.50094979021914",
 			"lon": "11.343909595102387",
@@ -176,7 +176,7 @@
  { 
 			"id": "16",
 			"address": "Via G. Oberdan, 10/d (BO)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Bologna (BO)",
 			"lat": "44.49550564385255",
 			"lon": "11.346708312307104",
@@ -187,7 +187,7 @@
  { 
 			"id": "17",
 			"address": "Via Barberia, 34 (BO)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Bologna (BO)",
 			"lat": "44.4932697373065",
 			"lon": "11.3361598342708",
@@ -198,7 +198,7 @@
  { 
 			"id": "18",
 			"address": "via Gramsci 6 (BS)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Brescia (BS)",
 			"lat": "45.5367494293564",
 			"lon": "10.219503718429056",
@@ -209,7 +209,7 @@
  { 
 			"id": "19",
 			"address": "Via Corsica, 112a (BS)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Brescia (BS)",
 			"lat": "45.52787925076522",
 			"lon": "10.205668549831776",
@@ -231,7 +231,7 @@
  { 
 			"id": "21",
 			"address": "Corsetto Sant’Agata, 27/a (BS)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Brescia (BS)",
 			"lat": "45.53919505691123",
 			"lon": "10.218595222268549",
@@ -242,7 +242,7 @@
  { 
 			"id": "22",
 			"address": "Corso Martiri della Libertà, 36 (BS)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Brescia (BS)",
 			"lat": "45.53714115881179",
 			"lon": "10.214994445946804",
@@ -253,7 +253,7 @@
  { 
 			"id": "23",
 			"address": "Via F. Porcellaga, 28 (BS)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Brescia (BS)",
 			"lat": "45.53830126082331",
 			"lon": "10.217386734305851",
@@ -264,7 +264,7 @@
  { 
 			"id": "24",
 			"address": "Via Isernia, 23, Campobasso (CB)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria/torrefazione",
 			"city": "Campobasso (CB)",
 			"lat": "41.56148562390397",
 			"lon": "14.660702310893813",
@@ -275,7 +275,7 @@
  { 
 			"id": "25",
 			"address": "Via Nicoló Biondo, 1 Carpi (MO)",
-			"shop_type": "TEST",
+			"shop_type": "caffeteria",
 			"city": "Carpi (MO)",
 			"lat": "44.775970651784775",
 			"lon": "10.884822077926628",
