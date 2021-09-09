@@ -1890,17 +1890,6 @@
 			"type": "1"
 		},
  { 
-			"id": "173",
-			"address": "Via Flaminia, 508 (Roma)",
-			"shop_type": "pasticceria/caffeteria",
-			"city": "aa (aa)",
-			"lat": "41.93938432245053",
-			"lon": "12.46950392069548",
-			"name": "Misceliamo",
-			"website": "Misceliamo online shop",
-			"type": "0,1"
-		},
- { 
 			"id": "174",
 			"address": "Via Vittorio Veneto 18 - Albenga (SV)",
 			"shop_type": "pasticceria/caffeteria",
