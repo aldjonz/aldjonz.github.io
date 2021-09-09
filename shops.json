@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "8" 
+		"content_version": "9" 
 	},
 	"shops": [
 		{ 
@@ -442,8 +442,8 @@
 			"address": "Via Carducci, 4 (FI)",
 			"shop_type": "Caffetteria/Torrefazione",
 			"city": "Firenze (FI)",
-			"lat": "43.772951219480476",
-			"lon": "11.269814354400191",
+			"lat": "43.771911865483474",
+			"lon": "11.267035664801138",
 			"name": "Ditta Artigianale - Via Carducci",
 			"website": "https://www.dittaartigianale.it/default?lan=it",
 			"type": "0,1"
@@ -1012,7 +1012,7 @@
  { 
 			"id": "93",
 			"address": "Corso G. Matteotti, 184 - Albano Laziale (Roma)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "Caffetteria",
 			"city": "Albano Laziale (Roma)",
 			"lat": "41.7274858649474",
 			"lon": "12.660349464868267",
@@ -1100,7 +1100,7 @@
  { 
 			"id": "101",
 			"address": "Fiumicino (Roma)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Fiumicino (Roma)",
 			"lat": "41.779672717167415",
 			"lon": "12.26231085521126",
@@ -1395,17 +1395,6 @@
 			"type": "0"
 		},
  { 
-			"id": "128",
-			"address": "Via Guglielmo Marconi, 10 (VR)",
-			"shop_type": "pasticceria/caffeteria",
-			"city": "Verona (VR)",
-			"lat": "45.43769473335532",
-			"lon": "10.989085220277081",
-			"name": "Steampower",
-			"website": "https://steampower.it/",
-			"type": "0"
-		},
- { 
 			"id": "129",
 			"address": "Viale Galileo Galilei, 30/1 (VE)",
 			"shop_type": "Caffetteria/Torrefazione",
@@ -1430,7 +1419,7 @@
  { 
 			"id": "131",
 			"address": "Via Enzo Ferrari, 8 Castelfidardo (AN)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Castelfidardo (AN)",
 			"lat": "43.45038193320462",
 			"lon": "13.581720966774919",
@@ -1441,7 +1430,7 @@
  { 
 			"id": "132",
 			"address": "Via del terziario, buchi di Monteprandone  (AP)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Ascoli Piceno (AP)",
 			"lat": "42.896265136117556",
 			"lon": "13.871348080249227",
@@ -1452,7 +1441,7 @@
  { 
 			"id": "133",
 			"address": "Viale Venezia 16/n - Bassano del Grappa (VI)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Bassano del Grappa (VI)",
 			"lat": "45.77076469517174",
 			"lon": "11.765467872643882",
@@ -1606,13 +1595,13 @@
  { 
 			"id": "147",
 			"address": "Via Statale, 240  -  Quarrata (PT)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Quarrata (PT)",
 			"lat": "43.86958924376267",
 			"lon": "10.987502522040227",
 			"name": "Oriental Caffè",
 			"website": "Oriental caffè online shop",
-			"type": "0,1"
+			"type": "1"
 		},
  { 
 			"id": "148",
@@ -1969,7 +1958,7 @@
  { 
 			"id": "181",
 			"address": "Via Sparano da Bari, 120",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "Caffetteria",
 			"city": "Bari (BA)",
 			"lat": "41.122671084893526",
 			"lon": "16.870162393685117",
@@ -2090,13 +2079,13 @@
  { 
 			"id": "192",
 			"address": "Viale Giuseppe de Vito - Poggio Mirteto (RI)",
-			"shop_type": "pasticceria/caffeteria",
+			"shop_type": "",
 			"city": "Poggio Mirteto - Rieti (RI)",
 			"lat": "42.265708471922224",
 			"lon": "12.688122113300608",
 			"name": "OM Roastery",
 			"website": "https://omroastery.com/",
-			"type": "0,1"
+			"type": "1"
 	},
  { 
 			"id": "193",
