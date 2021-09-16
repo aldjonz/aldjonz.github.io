@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "9" 
+		"content_version": "10" 
 	},
 	"shops": [
 		{ 
@@ -402,7 +402,7 @@
 			"lon": "13.814534609091664",
 			"name": "Perfero Caffè",
 			"website": "https://www.instagram.com/perferocaffe/",
-			"type": "0"
+			"type": "1"
 		},
  { 
 			"id": "38",
@@ -565,7 +565,7 @@
 			"city": "Jesi (AN)",
 			"lat": "43.521746253078874",
 			"lon": "13.239427578231922",
-			"name": "Jesi Caffè",
+			"name": "Gara",
 			"website": "https://www.facebook.com/garacaffetteria",
 			"type": "0"
 		},
@@ -1398,7 +1398,7 @@
 			"id": "129",
 			"address": "Viale Galileo Galilei, 30/1 (VE)",
 			"shop_type": "Caffetteria/Torrefazione",
-			"city": "Verona (VR)",
+			"city": "Venezia (VE)",
 			"lat": "45.44577705883802",
 			"lon": "12.327793597238873",
 			"name": "Cannareggio",
@@ -2129,6 +2129,28 @@
 			"lon": "9.157740882185331",
 			"name": "Cléa",
 			"website": "https://www.pasticceriaclea.it/",
+			"type": "0"
+	}
+ { 
+			"id": "173",
+			"address": "Strada Sanmichele, Turi (BA)",
+			"shop_type": "Torrefazione",
+			"city": "Turi (BA)",
+			"lat": "40.90884256347022",
+			"lon": "17.008557887676858",
+			"name": "Il Manovale",
+			"website": "https://www.instagram.com/ilmanovale/",
+			"type": "1"
+	}
+ { 
+			"id": "20",
+			"address": "Via Bonvesin de la Riva, 3 (MI)",
+			"shop_type": "Caffetteria",
+			"city": "Milano (MI)",
+			"lat": "45.46343361045552",
+			"lon": "9.212572764512293",
+			"name": "Orsonero Coffee",
+			"website": "http://www.orsonerocoffee.it/",
 			"type": "0"
 	}
 	],
