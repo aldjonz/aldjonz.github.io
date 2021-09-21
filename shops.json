@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "11" 
+		"content_version": "12" 
 	},
 	"shops": [
 		{ 
@@ -1607,7 +1607,7 @@
 			"id": "148",
 			"address": "Via A. Meucci, 1 - Cascine del Riccio (FI)",
 			"shop_type": "pasticceria/caffeteria",
-			"city": "Cascine del Riccio (FI)",
+			"city": "Ponte a Ema (FI)",
 			"lat": "43.7358257174708",
 			"lon": "11.293835183104989",
 			"name": "Torrefazione Piansa",
@@ -1618,7 +1618,7 @@
 			"id": "149",
 			"address": "a",
 			"shop_type": "pasticceria/caffeteria",
-			"city": "Cascine del Riccio (FI)",
+			"city": "Firenze (FI)",
 			"lat": "43.732006622599705",
 			"lon": "11.257127581604763",
 			"name": "La Sosta Specialty Coffee",
@@ -2152,7 +2152,72 @@
 			"name": "Orsonero Coffee",
 			"website": "http://www.orsonerocoffee.it/",
 			"type": "0"
-	}
+	},
+ { 
+			"id": "197",
+			"address": "Via Porta Nova, 12/b (BO)",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.494389287763745",
+			"lon": "11.338473801199175",
+			"name": "Aroma",
+			"website": "https://www.ilpiaceredelcaffe.it/",
+			"type": "0"
+	},
+ { 
+			"id": "198",
+			"address": "Via Alberto La Rosa, 8 Civitavecchia (Roma)",
+			"shop_type": "Torrefazione",
+			"city": "Civitavecchia (Roma)",
+			"lat": "11.780486863029504",
+			"lon": "11.338473801199175",
+			"name": "Torrefazione '68",
+			"website": "http://www.torrefazione68.com/",
+			"type": "1"
+	},
+ { 
+			"id": "199",
+			"address": "Viale di Trastevere, 192 (Roma)",
+			"shop_type": "Whiskey & Coffee",
+			"city": "Trastevere (Roma)",
+			"lat": "41.87919195506251",
+			"lon": "12.466307768575717",
+			"name": "Treefolk's Public House",
+			"website": "https://www.treefolkspublichouse.com/?page_id=153(si%20apre%20in%20una%20nuova%20scheda",
+			"type": "0"
+	},
+ { 
+			"id": "200",
+			"address": "Via Isole Figi, 1 Lido di Ostia (Roma)",
+			"shop_type": "Caffetteria",
+			"city": "Lido di Ostia (Roma)",
+			"lat": "41.73892398203752",
+			"lon": "12.281397222540454",
+			"name": "L'Angolo del Caffè",
+			"website": "https://www.instagram.com/angolodelcaffe1998/",
+			"type": "0"
+	},
+ { 
+			"id": "201",
+			"address": "Via De' Giudei, 2 (BO)",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.494940651551815",
+			"lon": "11.346997066809319",
+			"name": "Pappare'",
+			"website": "http://www.pappa-reale.it/",
+			"type": "0"
+	},
+			"id": "202",
+			"address": "Via dell'Olmo, 19 Frascati (Roma)",
+			"shop_type": "Caffetteria",
+			"city": "Frascati (Roma)",
+			"lat": "41.80940440539149",
+			"lon": "12.680971549527236",
+			"name": "Koru'",
+			"website": "https://www.korucaffefrascati.it/",
+			"type": "0"
+	},
 	],
 	"ratio": [
 	 	{
