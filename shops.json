@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "13" 
+		"content_version": "14" 
 	},
 	"shops": [
 		{ 
@@ -1492,17 +1492,6 @@
 			"name": "Kuntrawant",
 			"website": "Kuntrawant online shop",
 			"type": "0,1"
-		},
- { 
-			"id": "138",
-			"address": "Via g.verdi, 29 (TV)",
-			"shop_type": "pasticceria/caffeteria",
-			"city": "Candelù (TV)",
-			"lat": "45.73220140097297",
-			"lon": "12.38148313060979",
-			"name": "Caffetin",
-			"website": "Caffettin online shop",
-			"type": "1"
 		},
  { 
 			"id": "139",
