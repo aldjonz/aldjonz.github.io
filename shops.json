@@ -1,10 +1,9 @@
 {
 	"info": {
-		"content_version": "12" 
+		"content_version": "13" 
 	},
 	"shops": [
-		
-	{ 
+		{ 
 			"id": "0",
 			"address": "via Cavour 45-49 - Alessandria (AL)",
 			"shop_type": "Pasticceria/Caffetteria",
@@ -69,13 +68,13 @@
 			"type": "0,1"
 		}, { 
 			"id": "6",
-			"address": "Via Domenico Nicolai, 3 (BA)",
+			"address": "Via Milano, 47 Bolzano (BZ)",
 			"shop_type": "Caffetteria",
-			"city": "Bari (BA)",
-			"lat": "41.12139742698269",
-			"lon": "16.868708734970195",
-			"name": "Aurelio Caffè",
-			"website": "",
+			"city": "Bolzano/Bozen (BZ)",
+			"lat": "46.489818785039695",
+			"lon": "11.335810949148842",
+			"name": "Laboratorio Espresso",
+			"website": "https://www.laboratorioespressobz.it/",
 			"type": "0"
 		}, { 
 			"id": "7",
@@ -1111,7 +1110,7 @@
 		},
  { 
 			"id": "102",
-			"address": "Viale Kennedy, 33 - Ciampino (Roma)",
+			"address": "Via Lucrezia Romana, 40/E - Ciampino (Roma)",
 			"shop_type": "Caffetteria/Torrefazione",
 			"city": "Ciampino (Roma)",
 			"lat": "41.80432201835606,",
@@ -1617,18 +1616,18 @@
 		},
  { 
 			"id": "149",
-			"address": "a",
+			"address": "Via G. Rossa, 14 b",
 			"shop_type": "pasticceria/caffeteria",
 			"city": "Firenze (FI)",
 			"lat": "43.732006622599705",
 			"lon": "11.257127581604763",
 			"name": "La Sosta Specialty Coffee",
-			"website": "La Sosta online shop",
+			"website": "https://lasosta.coffee/it/shop",
 			"type": "1"
 		},
  { 
 			"id": "150",
-			"address": "Via Doganali, 3 (FI)",
+			"address": "Via Dogali, 3r (FI)",
 			"shop_type": "pasticceria/caffeteria",
 			"city": "Firenze (FI)",
 			"lat": "43.78550430755077",
@@ -2035,13 +2034,13 @@
 	},
  { 
 			"id": "188",
-			"address": "Corso Vittorio Alfieri, 174, 14100 Asti AT",
+			"address": "Via del Popolo, 28 - Vigevano (PV)",
 			"shop_type": "Caffetteria/Torrefazione",
-			"city": "Asti (AT)",
-			"lat": "45.31617436804289",
-			"lon": "8.856191105462413",
+			"city": "Vigevano (PV)",
+			"lat": "45.31660442124652",
+			"lon": "8.856856295231157",
 			"name": "Caffè Diem",
-			"website": "Link caffè Diem",
+			"website": "https://www.torrefazionevigevano.it/",
 			"type": "0,1"
 	},
  { 
@@ -2209,17 +2208,140 @@
 			"website": "http://www.pappa-reale.it/",
 			"type": "0"
 	},
-	{
+ { 
 			"id": "202",
 			"address": "Via dell'Olmo, 19 Frascati (Roma)",
 			"shop_type": "Caffetteria",
 			"city": "Frascati (Roma)",
 			"lat": "41.80940440539149",
 			"lon": "12.680971549527236",
-			"name": "Koru'",
+			"name": "Koru",
 			"website": "https://www.korucaffefrascati.it/",
 			"type": "0"
+	},
+ { 
+			"id": "203",
+			"address": "Viale Cadorna, 6/A-8 Treviso TV",
+			"shop_type": "Caffetteria",
+			"city": "Treviso (TV)",
+			"lat": "45.663285563135574",
+			"lon": "12.243840607139242",
+			"name": "Filò",
+			"website": "https://www.facebook.com/filobar",
+			"type": "0"
+	},
+{ 
+			"id": "204",
+			"address": "Piazza della Libertà, 10d - Scandiano (RE)",
+			"shop_type": "Ristorante",
+			"city": "Scandiano (RE)",
+			"lat": "44.59975562431817",
+			"lon": "10.686865549074344",
+			"name": "Il Piccolo",
+			"website": "https://website--6397993579600301650149-bar.business.site/",
+			"type": "0"
+	},
+{ 
+			"id": "205",
+			"address": "Piazza G. Garibaldi, 10 Soncino (CR)",
+			"shop_type": "Caffetteria",
+			"city": "Soncino (CR)",
+			"lat": "45.39992460850182",
+			"lon": "9.873532220636816",
+			"name": "Bar Torre",
+			"website": "",
+			"type": "0"
+	},
+{ 
+			"id": "206",
+			"address": "Via Riva di Reno, 65/M (BO)",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.49910048596055",
+			"lon": "11.339575063106867",
+			"name": "Mister Coffee Bistrò",
+			"website": "https://www.instagram.com/vladigal_mistercoffeebistro/?utm_medium=copy_link",
+			"type": "0"
+	},
+{ 
+			"id": "207",
+			"address": "Via Francesco Genala, 13",
+			"shop_type": "Caffetteria",
+			"city": "Diano Marina (IM)",
+			"lat": "43.90976856733408",
+			"lon": "8.082865897477213",
+			"name": "Il caffè del Caprice",
+			"website": "https://www.facebook.com/ilCaffedelCaprice",
+			"type": "0"
+	},
+{ 
+			"id": "208",
+			"address": "Via G. Verdi, 29 Candelù (TV)",
+			"shop_type": "Torrefazione",
+			"city": "Candelù (TV)",
+			"lat": "45.73220140097297",
+			"lon": "12.381955199389473",
+			"name": "Caffettin",
+			"website": "www.caffettin.it",
+			"type": "1"
+	},
+{ 
+			"id": "209",
+			"address": "Località torre del parco (MC)",
+			"shop_type": "Torrefazione",
+			"city": "Macerata (MC)",
+			"lat": "43.193081995529276",
+			"lon": "13.0529853972258",
+			"name": "Artieri Coffee",
+			"website": "https://artiericoffee.com/it/collections/espresso",
+			"type": "1"
+	},
+{ 
+			"id": "210",
+			"address": "Via Alberto La Rosa, 8 - Civitavecchia (Roma)",
+			"shop_type": "Torrefazione",
+			"city": "Civitavecchia (Roma)",
+			"lat": "42.12355747012045",
+			"lon": "11.780401032342288",
+			"name": "Torrefazione '68",
+			"website": "https://www.torrefazione68.com/",
+			"type": "1"
+	},
+{ 
+			"id": "211",
+			"address": "Viale Tica, 141, 96100 Siracusa (SR)",
+			"shop_type": "Torrefazione",
+			"city": "Siracusa (SR)",
+			"lat": "37.08369589079715",
+			"lon": "15.286166190327572",
+			"name": "Fiume Torrefazione",
+			"website": "https://www.fiumecaffe.com/10-fiume-monorigini",
+			"type": "1"
+	},
+{ 
+			"id": "212",
+			"address": "Via Mazzini, 146N, 40138 Bologna BO)",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.486321403092774",
+			"lon": "11.367943493000537",
+			"name": "Delledue",
+			"website": "https://www.delledue.it/",
+			"type": "0"
+	},
+{ 
+			"id": "213",
+			"address": "Piazza del Popolo, 68, 63900 Fermo (FM)",
+			"shop_type": "Gelateria & Coffee",
+			"city": "Fermo (FM)",
+			"lat": "43.1619969739551",
+			"lon": "13.718723812796323",
+			"name": "La Veneta",
+			"website": "https://www.tripadvisor.it/Restaurant_Review-g1025201-d8026202-Reviews-Gelateria_Veneta-Fermo_Province_of_Fermo_Marche.html",
+			"type": "0"
 	}
+
+
 	],
 	"ratio": [
 	 	{
