@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "14" 
+		"content_version": "15" 
 	},
 	"shops": [
 		{ 
@@ -2168,7 +2168,7 @@
 			"id": "199",
 			"address": "Viale di Trastevere, 192 (Roma)",
 			"shop_type": "Whiskey & Coffee",
-			"city": "Trastevere (Roma)",
+			"city": "Roma, Trastevere (Roma)",
 			"lat": "41.87919195506251",
 			"lon": "12.466307768575717",
 			"name": "Treefolk's Public House",
@@ -2328,6 +2328,39 @@
 			"name": "La Veneta",
 			"website": "https://www.tripadvisor.it/Restaurant_Review-g1025201-d8026202-Reviews-Gelateria_Veneta-Fermo_Province_of_Fermo_Marche.html",
 			"type": "0"
+	},
+{ 
+			"id": "138",
+			"address": "Via Giglio Padovan, 4 (TS)",
+			"shop_type": "Torrefazione",
+			"city": "Trieste (TS)",
+			"lat": "45.642023007042894",
+			"lon": "13.788604350680297",
+			"name": "Guatemala Torrefattori Trieste",
+			"website": "https://www.caffeguatemala.com/shop",
+			"type": "1"
+	},
+{ 
+			"id": "214",
+			"address": "Corso XI Settembre, 15 Pesaro (PU)",
+			"shop_type": "Caffetteria",
+			"city": "Pesaro (PU)",
+			"lat": "43.91062951780686",
+			"lon": "12.913037248260723",
+			"name": "Caffè Barrier",
+			"website": "hhttp://www.caffebarrier.com/",
+			"type": "0"
+	},
+{ 
+			"id": "215",
+			"address": "via Calice, 52",
+			"shop_type": "Torrefazione",
+			"city": "Finale Ligure (SV)",
+			"lat": "43.91062951780686",
+			"lon": "12.913037248260723",
+			"name": "Giovannacci Caffè",
+			"website": "https://giovannaccicaffe.it/monoorigini",
+			"type": "1"
 	}
 
 
