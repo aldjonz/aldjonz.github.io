@@ -1424,7 +1424,7 @@
 			"lat": "43.45038193320462",
 			"lon": "13.581720966774919",
 			"name": "The Smoking Tiger",
-			"website": "The Smoking tiger online shop",
+			"website": "https://thesmokingtiger.coffee/",
 			"type": "1"
 		},
  { 
@@ -2286,17 +2286,6 @@
 			"type": "1"
 	},
 { 
-			"id": "210",
-			"address": "Via Alberto La Rosa, 8 - Civitavecchia (Roma)",
-			"shop_type": "Torrefazione",
-			"city": "Civitavecchia (Roma)",
-			"lat": "42.12355747012045",
-			"lon": "11.780401032342288",
-			"name": "Torrefazione '68",
-			"website": "https://www.torrefazione68.com/",
-			"type": "1"
-	},
-{ 
 			"id": "211",
 			"address": "Viale Tica, 141, 96100 Siracusa (SR)",
 			"shop_type": "Torrefazione",
@@ -2360,6 +2349,28 @@
 			"lon": "12.913037248260723",
 			"name": "Giovannacci Caffè",
 			"website": "https://giovannaccicaffe.it/monoorigini",
+			"type": "1"
+	},
+{ 
+			"id": "216",
+			"address": "Via Ameglia, 114",
+			"shop_type": "Torrefazione",
+			"city": "Arcola (SP)",
+			"lat": "44.094877755331595",
+			"lon": "9.940701418380879",
+			"name": "Crastan Caffè",
+			"website": "https://www.noteamare.com/collections/all/specialty",
+			"type": "1"
+	},
+{ 
+			"id": "217",
+			"address": "Via Della Vecchia Casina, 7",
+			"shop_type": "Torrefazione",
+			"city": "Livorno (LI)",
+			"lat": "43.546710444416064",
+			"lon": "10.306568929852824",
+			"name": "Earthspresso",
+			"website": "https://www.earthspresso.com/collections/all",
 			"type": "1"
 	}
 
