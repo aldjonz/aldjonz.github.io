@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "15" 
+		"content_version": "16" 
 	},
 	"shops": [
 		{ 
@@ -54,7 +54,7 @@
 			"lat": "43.45959387132391",
 			"lon": "11.836275576564836",
 			"name": "Caffè River",
-			"website": "https://www.cafferiver.com/index.php/it/caffe",
+			"website": "https://www.cafferiver.com",
 			"type": "0,1"
 		}, { 
 			"id": "5",
@@ -64,7 +64,7 @@
 			"lat": "42.85508455386302",
 			"lon": "13.578044580804804",
 			"name": "Tama Caffè",
-			"website": "https://www.tamacaffe.it/caffe-in-grani/",
+			"website": "https://www.tamacaffe.it",
 			"type": "0,1"
 		}, { 
 			"id": "6",
@@ -423,7 +423,7 @@
 			"lat": "43.76914940104489",
 			"lon": "11.261670334791255",
 			"name": "Ditta Artigianale - Via dè Neri",
-			"website": "https://www.dittaartigianale.it/default?lan=it",
+			"website": "https://www.dittaartigianale.it",
 			"type": "0,1"
 		},
  { 
@@ -434,7 +434,7 @@
 			"lat": "43.7678397870791",
 			"lon": "11.250900891494824",
 			"name": "Ditta Artigianale - Via dello Sprone",
-			"website": "https://www.dittaartigianale.it/default?lan=it",
+			"website": "https://www.dittaartigianale.it",
 			"type": "0,1"
 		},
  { 
@@ -445,7 +445,7 @@
 			"lat": "43.771911865483474",
 			"lon": "11.267035664801138",
 			"name": "Ditta Artigianale - Via Carducci",
-			"website": "https://www.dittaartigianale.it/default?lan=it",
+			"website": "https://www.dittaartigianale.it",
 			"type": "0,1"
 		},
  { 
@@ -2371,6 +2371,28 @@
 			"lon": "10.306568929852824",
 			"name": "Earthspresso",
 			"website": "https://www.earthspresso.com/collections/all",
+			"type": "1"
+	},
+{ 
+			"id": "218",
+			"address": "Viale Regina Elena, 14",
+			"shop_type": "Caffetteria e Torrefazione",
+			"city": "Camucia (AR)",
+			"lat": "43.26243885497308",
+			"lon": "11.976821364010835",
+			"name": "Vannelli Coffee",
+			"website": "https://vannelli.coffee/it/",
+			"type": "0,1"
+	},
+{ 
+			"id": "219",
+			"address": "Via Lago di Pusiano, 20",
+			"shop_type": "Torrefazione",
+			"city": "Schio (VI)",
+			"lat": "45.71537553708466",
+			"lon": "11.407624212881231",
+			"name": "Carraro 1927",
+			"website": "https://carraro1927.com/",
 			"type": "1"
 	}
 
