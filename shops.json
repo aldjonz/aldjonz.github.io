@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "16" 
+		"content_version": "17" 
 	},
 	"shops": [
 		{ 
@@ -1396,7 +1396,7 @@
 		},
  { 
 			"id": "129",
-			"address": "Viale Galileo Galilei, 30/1 (VE)",
+			"address": "Fondamenta dei Ormesini, 2804 (VE)",
 			"shop_type": "Caffetteria/Torrefazione",
 			"city": "Venezia (VE)",
 			"lat": "45.44577705883802",
@@ -2265,7 +2265,7 @@
 	},
 { 
 			"id": "208",
-			"address": "Via G. Verdi, 29 Candelù (TV)",
+			"address": "Via G. Verdi, 29 (TV)",
 			"shop_type": "Torrefazione",
 			"city": "Candelù (TV)",
 			"lat": "45.73220140097297",
@@ -2287,7 +2287,7 @@
 	},
 { 
 			"id": "211",
-			"address": "Viale Tica, 141, 96100 Siracusa (SR)",
+			"address": "Viale Tica, 141, 96100 (SR)",
 			"shop_type": "Torrefazione",
 			"city": "Siracusa (SR)",
 			"lat": "37.08369589079715",
@@ -2298,7 +2298,7 @@
 	},
 { 
 			"id": "212",
-			"address": "Via Mazzini, 146N, 40138 Bologna BO)",
+			"address": "Via Mazzini, 146N, 40138 (BO)",
 			"shop_type": "Caffetteria",
 			"city": "Bologna (BO)",
 			"lat": "44.486321403092774",
@@ -2331,7 +2331,7 @@
 	},
 { 
 			"id": "214",
-			"address": "Corso XI Settembre, 15 Pesaro (PU)",
+			"address": "Corso XI Settembre, 15",
 			"shop_type": "Caffetteria",
 			"city": "Pesaro (PU)",
 			"lat": "43.91062951780686",
@@ -2393,6 +2393,17 @@
 			"lon": "11.407624212881231",
 			"name": "Carraro 1927",
 			"website": "https://carraro1927.com/",
+			"type": "1"
+	},
+{ 
+			"id": "220",
+			"address": "Via Laura Ciceri Visconti, 4 (MI)",
+			"shop_type": "Torrefazione",
+			"city": "Milano (MI)",
+			"lat": "45.45519230238584",
+			"lon": "9.2203316416049",
+			"name": "Carnera",
+			"website": "https://www.caffecarnera.com/",
 			"type": "1"
 	}
 
