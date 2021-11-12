@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "17" 
+		"content_version": "18" 
 	},
 	"shops": [
 		{ 
@@ -160,7 +160,7 @@
 			"lon": "11.33401483304387",
 			"name": "Forno Brisa",
 			"website": "https://www.fornobrisa.it/content/25-nostri-caffe",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "15",
@@ -171,7 +171,7 @@
 			"lon": "11.349249780024369",
 			"name": "Forno Brisa",
 			"website": "https://www.fornobrisa.it/content/25-nostri-caffe",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "16",
@@ -435,7 +435,7 @@
 			"lon": "11.250900891494824",
 			"name": "Ditta Artigianale - Via dello Sprone",
 			"website": "https://www.dittaartigianale.it",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "41",
@@ -446,7 +446,7 @@
 			"lon": "11.267035664801138",
 			"name": "Ditta Artigianale - Via Carducci",
 			"website": "https://www.dittaartigianale.it",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "42",
@@ -534,7 +534,7 @@
 			"lon": "8.942189305760182",
 			"name": "Tazze Pazze Caffetteria Gourmet",
 			"website": "https://www.tazzepazze.com/",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "50",
@@ -549,7 +549,7 @@
 		},
  { 
 			"id": "51",
-			"address": "Via Italo Balbo, 147 - Itri (LT)",
+			"address": "Via Italo Balbo, 147",
 			"shop_type": "Caffetteria",
 			"city": "Itri (LT)",
 			"lat": "41.290012516328495",
@@ -560,7 +560,7 @@
 		},
  { 
 			"id": "52",
-			"address": "Viale dellla Vittoria, 93/C - Jesi (AN)",
+			"address": "Viale dellla Vittoria, 93/C",
 			"shop_type": "Caffetteria",
 			"city": "Jesi (AN)",
 			"lat": "43.521746253078874",
@@ -802,7 +802,7 @@
 		},
  { 
 			"id": "74",
-			"address": "Via Fontana, 1 - Vignola (MO)",
+			"address": "Via Fontana, 1",
 			"shop_type": "Caffetteria",
 			"city": "Vignola (MO)",
 			"lat": "44.477908549919846",
@@ -890,7 +890,7 @@
 		},
  { 
 			"id": "82",
-			"address": "Via A. Manzoni, 174 - Ponte San Giovanni (PG)",
+			"address": "Via A. Manzoni, 174",
 			"shop_type": "Caffetteria",
 			"city": "Ponte San Giovanni (PG)",
 			"lat": "43.09187343894961",
@@ -901,7 +901,7 @@
 		},
  { 
 			"id": "83",
-			"address": "S.S. Adriatica 16, 56 - Pesaro (PU)",
+			"address": "S.S. Adriatica 16",
 			"shop_type": "Caffetteria",
 			"city": "Pesaro (PU)",
 			"lat": "43.910662086192886",
@@ -912,7 +912,7 @@
 		},
  { 
 			"id": "84",
-			"address": "Corso italia, 99 - Piombino (LI)",
+			"address": "Corso italia, 99",
 			"shop_type": "Caffetteria",
 			"city": "Piombino (LI)",
 			"lat": "42.92573454420823",
@@ -972,7 +972,7 @@
 			"city": "Ragusa (RG)",
 			"lat": "36.92035072795533",
 			"lon": "14.723395966574973",
-			"name": "Lorefice",
+			"name": "Lorefice Fiori Cafè",
 			"website": "https://www.instagram.com/loreficefioricafe/?igshid=6451zsk623f8",
 			"type": "0"
 		},
@@ -984,7 +984,7 @@
 			"lat": "44.0628340406643",
 			"lon": "12.446053310974566",
 			"name": "Donminzoni 54",
-			"website": "donminzoni54.com",
+			"website": "https://www.donminzoni54.com/",
 			"type": "0"
 		},
  { 
@@ -1303,7 +1303,7 @@
 			"lat": "45.10479311641491",
 			"lon": "7.664389859524661",
 			"name": "Gocce di Cioccolato",
-			"website": "Gocce di Cioccolato online shop",
+			"website": "http://www.goccedicioccolato.net/",
 			"type": "0,1"
 		},
  { 
@@ -1325,7 +1325,7 @@
 			"lat": "45.05826747709034",
 			"lon": "7.684631430053931",
 			"name": "Orso",
-			"website": "Orso Laboratorio Caffè online shop",
+			"website": "https://www.orsolaboratoriocaffe.it/",
 			"type": "0,1"
 		},
  { 
@@ -1336,7 +1336,7 @@
 			"lat": "45.666256413817834",
 			"lon": "12.247094512542919",
 			"name": "Taste Coffee & More",
-			"website": "Taste online shop",
+			"website": "https://www.tastecoffee.it/",
 			"type": "0,1"
 		},
  { 
@@ -1347,7 +1347,7 @@
 			"lat": "45.6487788800899",
 			"lon": "13.767652264996808",
 			"name": "Adoro Cafè",
-			"website": "",
+			"website": "https://www.facebook.com/adorocafetrieste/",
 			"type": "0"
 		},
  { 
@@ -1457,7 +1457,7 @@
 			"lat": "45.698554621596735",
 			"lon": "9.67389180119999",
 			"name": "Critical Coffee",
-			"website": "Critical coffee online shop",
+			"website": "https://www.critical.coffee/",
 			"type": "1"
 		},
  { 
@@ -1468,7 +1468,7 @@
 			"lat": "45.598083902093514",
 			"lon": "9.699828053354125",
 			"name": "Spirit of Coffee",
-			"website": "Spirit of Coffee online shop",
+			"website": "https://spiritofcoffee.it/",
 			"type": "1"
 		},
  { 
@@ -1479,7 +1479,7 @@
 			"lat": "46.527720656823064",
 			"lon": "11.51010869941666",
 			"name": "Caroma",
-			"website": "Caroma online shop",
+			"website": "https://caroma.info/it/home-caroma-torrefazione-centro-di-formazione-bottega-del-caffe.html",
 			"type": "1"
 		},
  { 
@@ -1490,7 +1490,7 @@
 			"lat": "46.624259368308635",
 			"lon": "10.617805262430464",
 			"name": "Kuntrawant",
-			"website": "Kuntrawant online shop",
+			"website": "https://www.kuntrawant.com/it/cafe/",
 			"type": "0,1"
 		},
  { 
@@ -1501,7 +1501,7 @@
 			"lat": "41.20375955385758",
 			"lon": "13.849244261357368",
 			"name": "Caffè Verrè",
-			"website": "Verrè online shop",
+			"website": "https://www.caffeverre.it/it/",
 			"type": "1"
 		},
  { 
@@ -1512,7 +1512,7 @@
 			"lat": "45.154050263469294",
 			"lon": "10.104448418949259",
 			"name": "Street Coffee",
-			"website": "Street Coffee School online shop",
+			"website": "https://streetcoffeeschool.business.site/",
 			"type": "1"
 		},
  { 
@@ -1523,7 +1523,7 @@
 			"lat": "45.13797706149003",
 			"lon": "10.03252407382658",
 			"name": "Torrefazione Vittoria",
-			"website": "Torrefazione Vittoria online shop",
+			"website": "https://torrefazionevittoria.com/",
 			"type": "1"
 		},
  { 
@@ -1534,7 +1534,7 @@
 			"lat": "44.848776245025356",
 			"lon": "11.59747285240328",
 			"name": "Penazzi",
-			"website": "Penazzi online shop",
+			"website": "Phttps://www.caffepenazzi.it/",
 			"type": "1"
 		},
  { 
@@ -1545,7 +1545,7 @@
 			"lat": "43.77463137094554",
 			"lon": "11.205790522606016",
 			"name": "Caffelab",
-			"website": "Caffelab online shop",
+			"website": "https://www.caffelab.it/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5leCURmcy7hfelk14NIOrWX3nihW5uxn6bwf4K8Q7-amhvzPJhkp7rxoCc-8QAvD_BwE",
 			"type": "1"
 		},
  { 
@@ -1556,7 +1556,7 @@
 			"lat": "43.763533746767834",
 			"lon": "11.269544601240383",
 			"name": "Dini Caffè",
-			"website": "Dinicaffè online shop",
+			"website": "https://dinicaffe.it/",
 			"type": "1"
 		},
  { 
@@ -1567,7 +1567,7 @@
 			"lat": "43.77923347429218",
 			"lon": "11.24291085019886",
 			"name": "D612",
-			"website": "D612 online shop",
+			"website": "https://d612coffeeroasters.com/",
 			"type": "1"
 		},
  { 
@@ -1578,7 +1578,7 @@
 			"lat": "43.959493838123045",
 			"lon": "11.358768158853277",
 			"name": "Gearbox Coffee Roaster",
-			"website": "Gearbox online shop",
+			"website": "https://gearboxcoffeeroasters.coffee/it/",
 			"type": "1"
 		},
  { 
@@ -1589,7 +1589,7 @@
 			"lat": "43.86958924376267",
 			"lon": "10.987502522040227",
 			"name": "Oriental Caffè",
-			"website": "Oriental caffè online shop",
+			"website": "Ohttps://orientalcaffe.it/",
 			"type": "1"
 		},
  { 
@@ -1600,7 +1600,7 @@
 			"lat": "43.7358257174708",
 			"lon": "11.293835183104989",
 			"name": "Torrefazione Piansa",
-			"website": "Piansa online shop",
+			"website": "https://www.caffepiansa.com/",
 			"type": "1"
 		},
  { 
@@ -1622,7 +1622,7 @@
 			"lat": "43.78550430755077",
 			"lon": "11.272391153293553",
 			"name": "Spazio Caffè Firenze",
-			"website": "Spazio caffè Firenze online shop",
+			"website": "https://www.spaziocaffefirenze.it/",
 			"type": "1"
 		},
  { 
@@ -1633,7 +1633,7 @@
 			"lat": "43.79390272364961",
 			"lon": "11.102747676042702",
 			"name": "La Tosteria",
-			"website": "La Tosteria online shop",
+			"website": "https://www.latosteria.it/",
 			"type": "1"
 		},
  { 
@@ -1644,7 +1644,7 @@
 			"lat": "45.93009525274182",
 			"lon": "13.624603471093453",
 			"name": "Torrefazione Goriziana",
-			"website": "Torrefazione Goriziana online shop",
+			"website": "https://caffegoriziana.com/",
 			"type": "1"
 		},
  { 
@@ -1655,7 +1655,7 @@
 			"lat": "40.81667647082307",
 			"lon": "16.419113566908546",
 			"name": "Pierre Caffè",
-			"website": "Pièrre online shop",
+			"website": "https://www.pierrecafe.com/",
 			"type": "1"
 		},
  { 
@@ -1666,7 +1666,7 @@
 			"lat": "40.82347050362402",
 			"lon": "16.416139999863415",
 			"name": "Son of Coffee",
-			"website": "Son of Coffee online shop",
+			"website": "https://www.pierrecafe.com/specialty-coffee-torrefazione-artigianale-caffe/",
 			"type": "1"
 		},
  { 
@@ -1677,7 +1677,7 @@
 			"lat": "45.52508261135368",
 			"lon": "11.335808195679848",
 			"name": "Young Cup of Coffee",
-			"website": "Young Cup of Coffee online shop",
+			"website": "https://youngcup.coffee/prodotti/",
 			"type": "1"
 		},
  { 
@@ -1688,7 +1688,7 @@
 			"lat": "40.37332018972198",
 			"lon": "18.136392799971933",
 			"name": "Edo Quarta",
-			"website": "Edo Quarta online shop",
+			"website": "https://eshop.edoquarta.it/",
 			"type": "1"
 		},
  { 
@@ -1699,7 +1699,7 @@
 			"lat": "43.57442799139015",
 			"lon": "10.337546605359629",
 			"name": "Le Piantagioni del Caffè",
-			"website": "Le Piantagioni del caffè online shop",
+			"website": "https://shop.lepiantagionidelcaffe.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5lds_lJLdUlQCgHMgrdlYoyhb9AQVJnXFLWoB1PH4NBWCKBl4ofswkBoC5MMQAvD_BwE",
 			"type": "1"
 		},
  { 
@@ -1710,7 +1710,7 @@
 			"lat": "45.45705012158514",
 			"lon": "9.163249669837901",
 			"name": "Lotzero",
-			"website": "Lotzero online shop",
+			"website": "https://lotzero.com/it/",
 			"type": "1"
 		},
  { 
@@ -1721,7 +1721,7 @@
 			"lat": "45.611948748740055",
 			"lon": "9.250472538010968",
 			"name": "Peacocks",
-			"website": "Peacocks online shop",
+			"website": "peacockscoffee.com",
 			"type": "1"
 		},
  { 
@@ -1732,7 +1732,7 @@
 			"lat": "45.506336162938986",
 			"lon": "9.431012076204203",
 			"name": "Zar Caffè",
-			"website": "Zar cafè online shop",
+			"website": "https://www.zarcafe.it/",
 			"type": "1"
 		},
  { 
@@ -1743,7 +1743,7 @@
 			"lat": "43.524899042705435",
 			"lon": "11.567131310956855",
 			"name": "Pacamara Coffee Lab",
-			"website": "Pacamara online shop",
+			"website": "https://pacamaracoffeelab.com/?lang=it",
 			"type": "1"
 		},
  { 
@@ -1754,7 +1754,7 @@
 			"lat": "45.60254866046352",
 			"lon": "9.30602874780032",
 			"name": "His Majesty the Coffee",
-			"website": "His Majestry the Coffee online shop",
+			"website": "https://www.hmcmonza.com/",
 			"type": "1"
 		},
  { 
@@ -1765,7 +1765,7 @@
 			"lat": "45.646095750514284",
 			"lon": "9.139484241605304",
 			"name": "Il Griso",
-			"website": "Il Griso online shop",
+			"website": "https://www.grisocoffee.com/",
 			"type": "1"
 		},
  { 
@@ -1776,7 +1776,7 @@
 			"lat": "40.839569202075985",
 			"lon": "14.240283182466694",
 			"name": "Sansone",
-			"website": "Sansone",
+			"website": "https://caffesansone.com/it/",
 			"type": "1"
 		},
  { 
@@ -1787,7 +1787,7 @@
 			"lat": "44.95152182904139",
 			"lon": "9.013355766824553",
 			"name": "Little Bean",
-			"website": "Little bean online shop",
+			"website": "https://www.littlebean.it/",
 			"type": "1"
 		},
  { 
@@ -1798,7 +1798,7 @@
 			"lat": "38.158788627578204",
 			"lon": "13.319633427037509",
 			"name": "La Musa Nera",
-			"website": "La Musa Nera online shop",
+			"website": "https://lamusanera.it/",
 			"type": "1"
 		},
  { 
@@ -1809,7 +1809,7 @@
 			"lat": "44.912514929376144",
 			"lon": "10.242908490105226",
 			"name": "Lady Caffè",
-			"website": "Lady caffè online shop",
+			"website": "https://www.torrefazioneladycafe.com/",
 			"type": "1"
 		},
  { 
@@ -1820,7 +1820,7 @@
 			"lat": "43.07905684457928",
 			"lon": "12.43907860357051",
 			"name": "Primo Crack",
-			"website": "",
+			"website": "https://www.facebook.com/Torrefazione-Primocrack-111377843651803/",
 			"type": "1"
 		},
  { 
@@ -1831,7 +1831,7 @@
 			"lat": "44.455680175166485",
 			"lon": "11.796642759402811",
 			"name": "Torrefazione Paradiso",
-			"website": "Paradiso online shop",
+			"website": "https://www.torrefazioneparadiso.it/",
 			"type": "1"
 		},
  { 
@@ -1842,7 +1842,7 @@
 			"lat": "38.35174513724364",
 			"lon": "16.073346721513374",
 			"name": "Cannizzaro",
-			"website": "Cannizzaro online shop",
+			"website": "https://www.caffecannizzaro.it/",
 			"type": "1"
 		},
  { 
@@ -1853,7 +1853,7 @@
 			"lat": "44.58963482829856",
 			"lon": "10.726405418930382",
 			"name": "Santa Fara Caffè",
-			"website": "SantaFara caffè online shop",
+			"website": "https://www.santafaracaffe.it/",
 			"type": "1"
 		},
  { 
@@ -1864,7 +1864,7 @@
 			"lat": "42.14641680926725",
 			"lon": "12.621534672819918",
 			"name": "Caffè Italia",
-			"website": "Caffè Italia online shop",
+			"website": "",
 			"type": "1"
 		},
  { 
@@ -1875,7 +1875,7 @@
 			"lat": "44.05527932041531",
 			"lon": "8.192387932404882",
 			"name": "La Genovese",
-			"website": "La Genovese online shop",
+			"website": "https://www.lagenovese.it/",
 			"type": "1"
 		},
  { 
@@ -1886,7 +1886,7 @@
 			"lat": "44.95807182819166",
 			"lon": "7.800507544271841",
 			"name": "Vergnano",
-			"website": "Vergnano online shop",
+			"website": "",
 			"type": "1"
 		},
  { 
@@ -1897,7 +1897,7 @@
 			"lat": "46.157968736870785",
 			"lon": "11.075289526388596",
 			"name": "I Druper",
-			"website": "I Druper coffee online shop",
+			"website": "https://www.idrupercoffee.com/",
 			"type": "1"
 		},
  { 
@@ -1908,7 +1908,7 @@
 			"lat": "45.65935146261693",
 			"lon": "13.772917390130447",
 			"name": "Bloom Coffee",
-			"website": "Bloom online shop",
+			"website": "https://www.bloomcoffee.shop/",
 			"type": "1"
 		},
  { 
@@ -1919,7 +1919,7 @@
 			"lat": "43.795380608394794",
 			"lon": "7.604413944037358",
 			"name": "Coffeel",
-			"website": "Coffeel online shop",
+			"website": "https://coffeelshop.net/",
 			"type": "1"
 		},
  { 
@@ -1930,7 +1930,7 @@
 			"lat": "45.42103136903462",
 			"lon": "10.980474246531083",
 			"name": "Garage Coffee Bros",
-			"website": "Garage coffee bros online shop",
+			"website": "https://garagecoffeebros.com/",
 			"type": "1"
 		},
  { 
@@ -1941,7 +1941,7 @@
 			"lat": "45.50091515655216",
 			"lon": "11.022695628217507",
 			"name": "Manifattura Caffè",
-			"website": "Manifattura caffè online shop",
+			"website": "https://www.manifatturacaffe.it/",
 			"type": "1"
 		},
  { 
@@ -2177,7 +2177,7 @@
 	},
  { 
 			"id": "200",
-			"address": "Via Isole Figi, 1 Lido di Ostia (Roma)",
+			"address": "Via Isole Figi, 1",
 			"shop_type": "Caffetteria",
 			"city": "Lido di Ostia (Roma)",
 			"lat": "41.73892398203752",
@@ -2404,6 +2404,50 @@
 			"lon": "9.2203316416049",
 			"name": "Carnera",
 			"website": "https://www.caffecarnera.com/",
+			"type": "1"
+	},
+{ 
+			"id": "221",
+			"address": "Via Laura Ciceri Visconti, 4 (MI)",
+			"shop_type": "Torrefazione",
+			"city": "Roma (Roma)",
+			"lat": "",
+			"lon": "",
+			"name": "Blue Roastery",
+			"website": "https://www.instagram.com/blue_roastery/",
+			"type": "1"
+	},
+{ 
+			"id": "222",
+			"address": "Via G. Puccini, 50/f",
+			"shop_type": "Caffetteria",
+			"city": "Imola (BO)",
+			"lat": "44.34568193066398",
+			"lon": "11.685608607281289",
+			"name": "Mamma Mia Caffè",
+			"website": "https://www.instagram.com/mammamiacafeimola/",
+			"type": "0"
+	},
+{ 
+			"id": "223",
+			"address": "Via Michelangelo, 178",
+			"shop_type": "Caffetteria",
+			"city": "Aversa (CE)",
+			"lat": "40.96733685224141",
+			"lon": "14.198554777002611",
+			"name": "Alleria Bar",
+			"website": "https://www.instagram.com/alleria.aversa/",
+			"type": "0"
+	},
+{ 
+			"id": "224",
+			"address": "Via Valle Corteno, 58",
+			"shop_type": "Torrefazione",
+			"city": "Roma (Roma)",
+			"lat": "41.93647581368443",
+			"lon": "12.52910071043799",
+			"name": "Aliena Coffee Roasters",
+			"website": "https://aliena.space/",
 			"type": "1"
 	}
 
