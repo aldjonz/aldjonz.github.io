@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "18" 
+		"content_version": "19" 
 	},
 	"shops": [
 		{ 
@@ -595,11 +595,11 @@
 			"id": "55",
 			"address": "Via Giovanni Marradi, 147 (LI)",
 			"shop_type": "Caffetteria",
-			"city": "Firenze (FI)",
+			"city": "Livorno (LI)",
 			"lat": "43.54273709434863",
 			"lon": "10.315043674716273",
-			"name": "Drupa Caffè",
-			"website": "https://www.instagram.com/drupacaffe/",
+			"name": "Drupa Coffee and Spirits",
+			"website": "https://instagram.com/drupa_coffee_and_spirits?utm_medium=copy_link",
 			"type": "0"
 		},
  { 
@@ -1407,7 +1407,7 @@
 		},
  { 
 			"id": "130",
-			"address": "Viale Galileo Galilei, 30/1 (VE)",
+			"address": "Piazza Niccolò Tommaseo, 11",
 			"shop_type": "Caffetteria",
 			"city": "Montebelluna (TV)",
 			"lat": "45.77712118460494",
@@ -2449,6 +2449,28 @@
 			"name": "Aliena Coffee Roasters",
 			"website": "https://aliena.space/",
 			"type": "1"
+	},
+{ 
+			"id": "225",
+			"address": "Via Romeo 21/23",
+			"shop_type": "Caffetteria",
+			"city": "Acireale (CT)",
+			"lat": "37.612796953167724",
+			"lon": "15.167133053102656",
+			"name": "Sketch Urban Art Café",
+			"website": "https://www.instagram.com/sketchurbanartcafe/",
+			"type": "0"
+	},
+{ 
+			"id": "226",
+			"address": "Piazza Luigi da Porto, 2",
+			"shop_type": "Caffetteria",
+			"city": "Padova (PD)",
+			"lat": "45.41097545833049",
+			"lon": "11.901925103138504",
+			"name": "Caffetteria al porto",
+			"website": "https://www.instagram.com/caffetteriaalporto/",
+			"type": "0"
 	}
 
 
