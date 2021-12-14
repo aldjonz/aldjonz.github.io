@@ -1067,13 +1067,13 @@
  { 
 			"id": "98",
 			"address": "Via Piave, 55 (Roma)",
-			"shop_type": "Caffetteria/Torrefazione",
+			"shop_type": "Caffetteria",
 			"city": "Roma (Roma)",
 			"lat": "41.91033420269979",
 			"lon": "12.498995783920273",
 			"name": "Faro - Caffè Specialty",
 			"website": "https://www.farorome.com/",
-			"type": "0,1"
+			"type": "0"
 		},
  { 
 			"id": "99",
@@ -1731,7 +1731,7 @@
 			"city": "Melzo (MI)",
 			"lat": "45.506336162938986",
 			"lon": "9.431012076204203",
-			"name": "Zar Caffè",
+			"name": "Zar Cafè",
 			"website": "https://www.zarcafe.it/",
 			"type": "1"
 		},
@@ -2470,6 +2470,39 @@
 			"lon": "11.901925103138504",
 			"name": "Caffetteria al porto",
 			"website": "https://www.instagram.com/caffetteriaalporto/",
+			"type": "0"
+	},
+{ 
+			"id": "227",
+			"address": "Via Cavallotti, 29",
+			"shop_type": "Caffetteria",
+			"city": "Luino (VA)",
+			"lat": "46.00331363334223",
+			"lon": "8.744050429052349",
+			"name": "The Blend Post al Bistro",
+			"website": "https://www.instagram.com/theblendpost/?hl=it",
+			"type": "0"
+	},
+{ 
+			"id": "228",
+			"address": "-",
+			"shop_type": "Torrefazione",
+			"city": "Roma (Roma)",
+			"lat": "-",
+			"lon": "-",
+			"name": "Wet Caffè",
+			"website": "https://www.wetcaffe.it/",
+			"type": "1"
+	},
+{ 
+			"id": "229",
+			"address": "Via Defendente Sacchi",
+			"shop_type": "Caffetteria",
+			"city": "Pavia (PV)",
+			"lat": "45.18690508788236",
+			"lon": "9.159370995764267",
+			"name": "Il Voltino",
+			"website": "https://www.instagram.com/voltinocaffe/?hl=it",
 			"type": "0"
 	}
 
