@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "20" 
+		"content_version": "21" 
 	},
 	"shops": [
 		{ 
@@ -1777,7 +1777,7 @@
 			"lon": "14.240283182466694",
 			"name": "Sansone",
 			"website": "https://caffesansone.com/it/",
-			"type": "1"
+			"type": "0,1"
 		},
  { 
 			"id": "165",
@@ -2485,11 +2485,11 @@
 	},
 { 
 			"id": "228",
-			"address": "",
+			"address": "-",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "",
-			"lon": "",
+			"lat": "-",
+			"lon": "-",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
