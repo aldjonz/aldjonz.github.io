@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "21" 
+		"content_version": "22" 
 	},
 	"shops": [
 		{ 
@@ -422,7 +422,7 @@
 			"city": "Firenze (FI)",
 			"lat": "43.76914940104489",
 			"lon": "11.261670334791255",
-			"name": "Ditta Artigianale - Via dè Neri",
+			"name": "Ditta Artigianale",
 			"website": "https://www.dittaartigianale.it",
 			"type": "0,1"
 		},
@@ -2485,18 +2485,18 @@
 	},
 { 
 			"id": "228",
-			"address": "",
+			"address": "-",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "",
-			"lon": "",
+			"lat": "-",
+			"lon": "-",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
 	},
 { 
 			"id": "229",
-			"address": "Via Defendente Sacchi",
+			"address": "Via Defendente Sacchi, 21",
 			"shop_type": "Caffetteria",
 			"city": "Pavia (PV)",
 			"lat": "45.18690508788236",
@@ -2504,6 +2504,83 @@
 			"name": "Il Voltino",
 			"website": "https://www.instagram.com/voltinocaffe/?hl=it",
 			"type": "0"
+	},
+{ 
+			"id": "230",
+			"address": "Vicolo dell’Arco, 1 A/B",
+			"shop_type": "Caffetteria",
+			"city": "Alba (CN)",
+			"lat": "44.70026411318158",
+			"lon": "8.03587073429946",
+			"name": "Monviso Italian Coffee Factory",
+			"website": "https://www.instagram.com/monvisocoffee/",
+			"type": "0"
+	},
+{ 
+			"id": "231",
+			"address": "Via Felice Orsini, 16/A",
+			"shop_type": "Caffetteria",
+			"city": "Imola (BO)",
+			"lat": "44.35525207695425",
+			"lon": "11.71379383196434",
+			"name": "Bar ai Giardini Imola",
+			"website": "https://www.instagram.com/bar_ai_giardini_imola/",
+			"type": "0"
+	},
+{ 
+			"id": "232",
+			"address": "Via Francesco Dolzino, 121",
+			"shop_type": "Torrefazione/Caffetteria",
+			"city": "Chiavenna (SO)",
+			"lat": "46.32224337563451",
+			"lon": "9.404812705496655",
+			"name": "Sierra Nevada Caffè",
+			"website": "https://www.instagram.com/sierranevada_caffe/",
+			"type": "0,1"
+	},
+{ 
+			"id": "233",
+			"address": "Via Claudio Luigi Berthollet, 30",
+			"shop_type": "Gelateria/Caffetteria",
+			"city": "Torino (TO)",
+			"lat": "45.05868516688033",
+			"lon": "7.685969601024485",
+			"name": "Mara dei Boschi",
+			"website": "https://www.maradeiboschi.it/",
+			"type": "0"
+	},
+{ 
+			"id": "234",
+			"address": "Piazza Carlo Emanuele II, 21",
+			"shop_type": "Gelateria/Caffetteria",
+			"city": "Torino (TO)",
+			"lat": "45.067616948366584",
+			"lon": "7.691977592681626",
+			"name": "Mara dei Boschi",
+			"website": "https://www.maradeiboschi.it/",
+			"type": "0"
+	},
+{ 
+			"id": "235",
+			"address": "Corso Alcide De Gasperi, 57",
+			"shop_type": "Gelateria/Caffetteria",
+			"city": "Torino (TO)",
+			"lat": "45.05460275676446",
+			"lon": "7.660907692669371",
+			"name": "Mara dei Boschi",
+			"website": "https://www.maradeiboschi.it/",
+			"type": "0"
+	},
+{ 
+			"id": "236",
+			"address": "Vicolo S. Giovanni, 1",
+			"shop_type": "Torrefazione/Caffetteria",
+			"city": "Barolo (CN)",
+			"lat": "44.610524833095546",
+			"lon": "7.941411896054275",
+			"name": "Ialty",
+			"website": "https://www.ialty.it/",
+			"type": "0,1"
 	}
 
 
