@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "22" 
+		"content_version": "23" 
 	},
 	"shops": [
 		{ 
@@ -2485,11 +2485,11 @@
 	},
 { 
 			"id": "228",
-			"address": "",
+			"address": "-",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "",
-			"lon": "",
+			"lat": "-",
+			"lon": "-",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
@@ -2581,6 +2581,72 @@
 			"name": "Ialty",
 			"website": "https://www.ialty.it/",
 			"type": "0,1"
+	},
+{ 
+			"id": "237",
+			"address": "Viale XXV Aprile, 6",
+			"shop_type": "Caffetteria/Pasticceria",
+			"city": "Fermo (FM)",
+			"lat": "43.15928806071607",
+			"lon": "13.707261113214006",
+			"name": "Mon Plasir",
+			"website": "https://www.facebook.com/pasticceriamonplaisir/",
+			"type": "0"
+	},
+{ 
+			"id": "238",
+			"address": "Via Enzo Biagi, 3/5",
+			"shop_type": "Caffetteria/Torrefazione",
+			"city": "Palermo (PA)",
+			"lat": "38.162104460382636",
+			"lon": "13.320249802364149",
+			"name": "Caffè Morettino",
+			"website": "https://morettino.com/",
+			"type": "0,1"
+	},
+{ 
+			"id": "239",
+			"address": "Via Roma, 116",
+			"shop_type": "Torrefazione",
+			"city": "Alba Adriatica (TE)",
+			"lat": "42.83282683989659",
+			"lon": "13.922361571527963",
+			"name": "Francaffè",
+			"website": "https://francaffe.com/it/",
+			"type": "1"
+	},
+{ 
+			"id": "240",
+			"address": "via giovanni da empoli, 37",
+			"shop_type": "Ristorante/Torrefazione/Panificio",
+			"city": "Roma",
+			"lat": "41.87337437803589",
+			"lon": "12.47878422862642",
+			"name": "Chicchi by Marigold",
+			"website": "https://chicchibymarigold.com/pages/contact",
+			"type": "0,1"
+	},
+{ 
+			"id": "241",
+			"address": "SP20, 41",
+			"shop_type": "",
+			"city": "Poviglio RE",
+			"lat": "44.86166176846683",
+			"lon": "10.51885310683982",
+			"name": "Naked Coffee Roasters",
+			"website": "https://www.facebook.com/nakedcoffeeroaster/?ref=settings",
+			"type": "1"
+	},
+{ 
+			"id": "242",
+			"address": "Via XXV Aprile, 25",
+			"shop_type": "Pasticceria/Torrefazione",
+			"city": "Sorbolo Mezzani (PR)",
+			"lat": "44.868989214439694",
+			"lon": "10.530220047196625",
+			"name": "Da Teo",
+			"website": "https://www.facebook.com/Da-Teo-Pasticceria-Torrefazione-202602053113484/",
+			"type": "0"
 	}
 
 
