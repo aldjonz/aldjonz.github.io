@@ -1285,17 +1285,6 @@
 			"type": "0,1"
 		},
  { 
-			"id": "118",
-			"address": "Via San Francesco da Paola 29/F (TO)",
-			"shop_type": "Caffetteria",
-			"city": "Torino (TO)",
-			"lat": "45.06253550482346",
-			"lon": "7.685020732833766",
-			"name": "Docg Coffee",
-			"website": "https://www.facebook.com/Docg-Coffee-478339752359682/",
-			"type": "0"
-		},
- { 
 			"id": "119",
 			"address": "Via Stradella 242 (TO)",
 			"shop_type": "Cioccolateria/Caffetteria",
@@ -1388,8 +1377,8 @@
 			"address": "Via Sandro Botticelli, 5/7, 05100 Terni TR",
 			"shop_type": "Caffetteria",
 			"city": "Terni (TR)",
-			"lat": "45.442531703808285",
-			"lon": "11.000546017107691",
+			"lat": "42.56417001137596",
+			"lon": "12.643218637692865",
 			"name": "Caffè Divino",
 			"website": "https://caffedivinoshop.it/",
 			"type": "0"
@@ -2080,7 +2069,7 @@
 			"id": "193",
 			"address": "Via Cupra, 50, 00157 Roma RM",
 			"shop_type": "Caffetteria",
-			"city": "Roma",
+			"city": "Roma (Roma)",
 			"lat": "41.90945252090889",
 			"lon": "12.537107486304675",
 			"name": "Pouring happiness",
@@ -2168,7 +2157,7 @@
 			"id": "199",
 			"address": "Viale di Trastevere, 192 (Roma)",
 			"shop_type": "Whiskey & Coffee",
-			"city": "Roma, Trastevere (Roma)",
+			"city": "Roma (Roma)",
 			"lat": "41.87919195506251",
 			"lon": "12.466307768575717",
 			"name": "Treefolk's Public House",
@@ -2485,11 +2474,11 @@
 	},
 { 
 			"id": "228",
-			"address": "",
+			"address": "-",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "",
-			"lon": "",
+			"lat": "-",
+			"lon": "-",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
@@ -2619,7 +2608,7 @@
 			"id": "240",
 			"address": "via giovanni da empoli, 37",
 			"shop_type": "Ristorante/Torrefazione/Panificio",
-			"city": "Roma",
+			"city": "Roma (Roma)",
 			"lat": "41.87337437803589",
 			"lon": "12.47878422862642",
 			"name": "Chicchi by Marigold",
@@ -2647,7 +2636,63 @@
 			"name": "Da Teo",
 			"website": "https://www.facebook.com/Da-Teo-Pasticceria-Torrefazione-202602053113484/",
 			"type": "0"
+	},
+{ 
+			"id": "243",
+			"address": "Via Sant'Isaia, 57/D",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.494506599930006",
+			"lon": "11.331102074547955",
+			"name": "Burō",
+			"website": "https://www.burocafe.it/",
+			"type": "1"
+	},
+{ 
+			"id": "244",
+			"address": "Via Gianforma Margione, 46",
+			"shop_type": "Pasticceria/Torrefazione",
+			"city": "Modica (RG)",
+			"lat": "36.9244213802109",
+			"lon": "14.831258216068349",
+			"name": "Kaffa Street Bar",
+			"website": "https://www.facebook.com/Kaffa.StreetBar/menu/?ref=page_internal",
+			"type": "1"
+	},
+{ 
+			"id": "118",
+			"address": "Lungarno Soderini, 7R",
+			"shop_type": "Caffetteria",
+			"city": "Firenze (FI)",
+			"lat": "43.769848621036466",
+			"lon": "11.246195896914115",
+			"name": "Ditta Artigianale Riva d'Arno",
+			"website": "https://dittaartigianale.com/",
+			"type": "1"
+	},
+{ 
+			"id": "245",
+			"address": "Borgo la Croce, 59r",
+			"shop_type": "Caffetteria",
+			"city": "Firenze (FI)",
+			"lat": "43.77119408701836",
+			"lon": "11.268341680878187",
+			"name": "FLUID - Specialty Coffee & Sharing",
+			"website": "https://fluidspecialty.com/home",
+			"type": "1"
+	},
+{ 
+			"id": "246",
+			"address": "Via Nizza, 16",
+			"shop_type": "Caffetteria",
+			"city": "Verona (VR)",
+			"lat": "45.442569341956194",
+			"lon": "11.000717678329607",
+			"name": "Nizza Café",
+			"website": "https://nizza-cafe.business.site/",
+			"type": "1"
 	}
+
 
 
 	],
