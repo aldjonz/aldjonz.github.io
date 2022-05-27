@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "23" 
+		"content_version": "24" 
 	},
 	"shops": [
 		{ 
@@ -1920,7 +1920,7 @@
 			"lon": "10.980474246531083",
 			"name": "Garage Coffee Bros",
 			"website": "https://garagecoffeebros.com/",
-			"type": "1"
+			"type": "0,1"
 		},
  { 
 			"id": "180",
@@ -2690,6 +2690,28 @@
 			"lon": "11.000717678329607",
 			"name": "Nizza Café",
 			"website": "https://nizza-cafe.business.site/",
+			"type": "1"
+	},
+{ 
+			"id": "247",
+			"address": "Vicolo San Silvestro, 29",
+			"shop_type": "Caffetteria",
+			"city": "Verona (VR)",
+			"lat": "45.438786711048756",
+			"lon": "10.987082923841001",
+			"name": "Garage Coffee Bros. - Flagship Store",
+			"website": "https://garagecoffeebros.com/",
+			"type": "1"
+	},
+{ 
+			"id": "248",
+			"address": "Via Giuseppe Sapeto, 3",
+			"shop_type": "Caffetteria",
+			"city": "Milano (MI)",
+			"lat": "45.45862948857928",
+			"lon": "9.177039208955119",
+			"name": "Hygge Milano",
+			"website": "http://www.hyggecorner.com/",
 			"type": "1"
 	}
 
