@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "24" 
+		"content_version": "25" 
 	},
 	"shops": [
 		{ 
@@ -2713,8 +2713,40 @@
 			"name": "Hygge Milano",
 			"website": "http://www.hyggecorner.com/",
 			"type": "1"
+	},
+{ 
+			"id": "249",
+			"address": "Via Garibaldi, 72",
+			"shop_type": "Caffetteria",
+			"city": "Foligno (PG)",
+			"lat": "42.9568438770657",
+			"lon": "12.705934670018669",
+			"name": "Kuro",
+			"website": "https://www.instagram.com/kuro_specialtycoffee/?hl=it",
+			"type": "1"
+	},
+{ 
+			"id": "250",
+			"address": "Via Massimiliano Kolbe, 37/d",
+			"shop_type": "Caffetteria",
+			"city": "Desenzano del Garda (BS)",
+			"lat": "45.47390057747911",
+			"lon": "10.531293701570355",
+			"name": "Hub Coffee Lab",
+			"website": "https://www.hubcoffeelab.com/",
+			"type": "1"
+	},
+{ 
+			"id": "251",
+			"address": "Vicolo San Silvestro, 29",
+			"shop_type": "Caffetteria",
+			"city": "Verona (VR)",
+			"lat": "45.43892689738994",
+			"lon": "10.987985748867636",
+			"name": "Garage Coffee Bros. - Flagship Store",
+			"website": "https://garagecoffeebros.com/pages/flagship-verona",
+			"type": "1,0"
 	}
-
 
 
 	],
