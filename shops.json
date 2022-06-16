@@ -2646,7 +2646,7 @@
 			"lon": "11.331102074547955",
 			"name": "Burō",
 			"website": "https://www.burocafe.it/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "244",
@@ -2657,18 +2657,18 @@
 			"lon": "14.831258216068349",
 			"name": "Kaffa Street Bar",
 			"website": "https://www.facebook.com/Kaffa.StreetBar/menu/?ref=page_internal",
-			"type": "1"
+			"type": "0,1"
 	},
 { 
 			"id": "118",
 			"address": "Lungarno Soderini, 7R",
 			"shop_type": "Caffetteria",
 			"city": "Firenze (FI)",
-			"lat": "43.769848621036466",
-			"lon": "11.246195896914115",
+			"lat": "43.7699327587197",
+			"lon": "11.246464061808098",
 			"name": "Ditta Artigianale Riva d'Arno",
 			"website": "https://dittaartigianale.com/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "245",
@@ -2679,7 +2679,7 @@
 			"lon": "11.268341680878187",
 			"name": "FLUID - Specialty Coffee & Sharing",
 			"website": "https://fluidspecialty.com/home",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "246",
@@ -2690,7 +2690,7 @@
 			"lon": "11.000717678329607",
 			"name": "Nizza Café",
 			"website": "https://nizza-cafe.business.site/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "247",
@@ -2701,7 +2701,7 @@
 			"lon": "10.987082923841001",
 			"name": "Garage Coffee Bros. - Flagship Store",
 			"website": "https://garagecoffeebros.com/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "248",
@@ -2712,7 +2712,7 @@
 			"lon": "9.177039208955119",
 			"name": "Hygge Milano",
 			"website": "http://www.hyggecorner.com/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "249",
@@ -2723,7 +2723,7 @@
 			"lon": "12.705934670018669",
 			"name": "Kuro",
 			"website": "https://www.instagram.com/kuro_specialtycoffee/?hl=it",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "250",
@@ -2734,7 +2734,7 @@
 			"lon": "10.531293701570355",
 			"name": "Hub Coffee Lab",
 			"website": "https://www.hubcoffeelab.com/",
-			"type": "1"
+			"type": "0"
 	},
 { 
 			"id": "251",
@@ -2746,6 +2746,28 @@
 			"name": "Garage Coffee Bros. - Flagship Store",
 			"website": "https://garagecoffeebros.com/pages/flagship-verona",
 			"type": "1,0"
+	},
+{ 
+			"id": "252",
+			"address": "Via Luigi Einaudi, 18",
+			"shop_type": "Caffetteria",
+			"city": "Arcireale (CT)",
+			"lat": "37.61866064633705",
+			"lon": "15.161392582794964",
+			"name": "Caffeina coffee lab",
+			"website": "https://www.caffeinalab18.com/",
+			"type": "0"
+	},
+{ 
+			"id": "253",
+			"address": "Via della Giuliana, 33",
+			"shop_type": "Caffetteria",
+			"city": "Roma (Roma)",
+			"lat": "41.91175034610263",
+			"lon": "12.454749333978985",
+			"name": "MAE Café et cuisine",
+			"website": "",
+			"type": "0"
 	}
 
 
