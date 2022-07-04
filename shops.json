@@ -2474,11 +2474,11 @@
 	},
 { 
 			"id": "228",
-			"address": "-",
+			"address": "",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "-",
-			"lon": "-",
+			"lat": "",
+			"lon": "",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
