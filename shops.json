@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "25" 
+		"content_version": "26" 
 	},
 	"shops": [
 		{ 
@@ -279,7 +279,7 @@
 			"city": "Cagliari (CA)",
 			"lat": "39.21808281576149",
 			"lon": "9.108327228016718",
-			"name": "Caffè dell’Arte",
+			"name": "Caffè dell’Arte Specialty Coffee",
 			"website": "https://www.caffedellartecagliari.com/",
 			"type": "0"
 		},
@@ -2474,11 +2474,11 @@
 	},
 { 
 			"id": "228",
-			"address": "",
+			"address": "-",
 			"shop_type": "Torrefazione",
 			"city": "Roma (Roma)",
-			"lat": "",
-			"lon": "",
+			"lat": "-",
+			"lon": "-",
 			"name": "Wet Caffè",
 			"website": "https://www.wetcaffe.it/",
 			"type": "1"
@@ -2767,6 +2767,39 @@
 			"lon": "12.454749333978985",
 			"name": "MAE Café et cuisine",
 			"website": "",
+			"type": "0"
+	},
+{ 
+			"id": "254",
+			"address": "Viale Premuda, 14",
+			"shop_type": "Caffetteria/Torrefazione",
+			"city": "Milano (MI)",
+			"lat": "45.46489521062482",
+			"lon": "9.208650955301367",
+			"name": "Cafezal Coffee Hub",
+			"website": "http://www.cafezal.it/",
+			"type": "0,1"
+	},
+{ 
+			"id": "255",
+			"address": "Via Torrearsa, 115",
+			"shop_type": "Caffetteria",
+			"city": "Trapani (TP)",
+			"lat": "38.01741497669876",
+			"lon": "12.509517545838994",
+			"name": "BrigBar Trapani",
+			"website": "https://brigantes.eu/",
+			"type": "0"
+	},
+{ 
+			"id": "256",
+			"address": "Via Madonna di Mezzopiano 25/GH",
+			"shop_type": "Caffetteria",
+			"city": "Gubbio (PG)",
+			"lat": "43.35434990982115",
+			"lon": "12.568544099310323",
+			"name": "Viate",
+			"website": "https://www.vitaecoffeeandmore.com/",
 			"type": "0"
 	}
 
