@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "26" 
+		"content_version": "27" 
 	},
 	"shops": [
 		{ 
@@ -2800,6 +2800,17 @@
 			"lon": "12.568544099310323",
 			"name": "Viate",
 			"website": "https://www.vitaecoffeeandmore.com/",
+			"type": "0"
+	},
+{ 
+			"id": "257",
+			"address": "Via XX Settembre, 75",
+			"shop_type": "Caffetteria",
+			"city": "Genova (GE)",
+			"lat": "44.40582219539213",
+			"lon": "8.942349210719307",
+			"name": "Ops... Coffee by Mistake",
+			"website": "https://moggenova.it/le-cucine/ops-coffee-by-mistakes/",
 			"type": "0"
 	}
 
