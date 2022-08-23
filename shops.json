@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "27" 
+		"content_version": "28" 
 	},
 	"shops": [
 		{ 
@@ -2811,6 +2811,17 @@
 			"lon": "8.942349210719307",
 			"name": "Ops... Coffee by Mistake",
 			"website": "https://moggenova.it/le-cucine/ops-coffee-by-mistakes/",
+			"type": "0"
+	},
+{ 
+			"id": "258",
+			"address": "Via Roma, 178",
+			"shop_type": "Caffetteria",
+			"city": "Ravenna (RA)",
+			"lat": "44.418907520320566",
+			"lon": "12.20361284849822",
+			"name": "Grinder Coffee Lab",
+			"website": "https://www.grindercoffeelab.com/",
 			"type": "0"
 	}
 
