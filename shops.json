@@ -1,13 +1,13 @@
 {
 	"info": {
-		"content_version": "29" 
+		"content_version": "30" 
 	},
 	"shops": [
 		{ 
 			"id": "0",
 			"address": "via Cavour 45-49 - Alessandria (AL)",
 			"shop_type": "Pasticceria/Caffetteria",
-			"city": "Alessandria",
+			"city": "Alessandria (AL)",
 			"lat": "44.91012718470593",
 			"lon": "8.61589495714236",
 			"name": "Mezzaro",
