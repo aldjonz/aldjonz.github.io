@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "28" 
+		"content_version": "29" 
 	},
 	"shops": [
 		{ 
@@ -2822,6 +2822,39 @@
 			"lon": "12.20361284849822",
 			"name": "Grinder Coffee Lab",
 			"website": "https://www.grindercoffeelab.com/",
+			"type": "0"
+	},
+{ 
+			"id": "259",
+			"address": "Via A. Gramsci, 34",
+			"shop_type": "Torrefazione",
+			"city": "Papozze (RO)",
+			"lat": "44.98890201523985",
+			"lon": "12.031527656587599",
+			"name": "Coffeeriff",
+			"website": "https://coffeeriff.com/",
+			"type": "1"
+	},
+{ 
+			"id": "260",
+			"address": "Via Ferrara, 2",
+			"shop_type": "Caffetteria",
+			"city": "Alessandria (AL)",
+			"lat": "8.6150642581054",
+			"lon": "12.20361284849822",
+			"name": "Fanciot",
+			"website": "https://linktr.ee/fanciot",
+			"type": "0"
+	},
+{ 
+			"id": "261",
+			"address": "Via Francesco Valori, 4r",
+			"shop_type": "Caffetteria",
+			"city": "Firenze (FI)",
+			"lat": "43.7817132653231",
+			"lon": "11.265732533203455",
+			"name": "Fancy",
+			"website": "https://www.canva.com/design/DAFKyFbjMVM/TV05JLTni0j2wWO5R60KBQ/view?website#2",
 			"type": "0"
 	}
 
