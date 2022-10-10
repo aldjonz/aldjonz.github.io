@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "30" 
+		"content_version": "31" 
 	},
 	"shops": [
 		{ 
@@ -8,8 +8,8 @@
 			"address": "via Cavour 45-49 - Alessandria (AL)",
 			"shop_type": "Pasticceria/Caffetteria",
 			"city": "Alessandria (AL)",
-			"lat": "44.91012718470593",
-			"lon": "8.61589495714236",
+			"lat": "44.91101921444756",
+			"lon": "8.615453466404988",
 			"name": "Mezzaro",
 			"website": "http://www.mezzaro.eu/",
 			"type": "0,1"
@@ -2840,8 +2840,8 @@
 			"address": "Via Ferrara, 2",
 			"shop_type": "Caffetteria",
 			"city": "Alessandria (AL)",
-			"lat": "8.6150642581054",
-			"lon": "12.20361284849822",
+			"lat": "44.91393685119187",
+			"lon": "8.616569265346767",
 			"name": "Fanciot",
 			"website": "https://linktr.ee/fanciot",
 			"type": "0"
