@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "31" 
+		"content_version": "32" 
 	},
 	"shops": [
 		{ 
@@ -1913,11 +1913,11 @@
 		},
  { 
 			"id": "179",
-			"address": "Via Anton Maria Lorgna, 21 (VR)",
+			"address": "Via Basso Acquar, 30/C (VR)",
 			"shop_type": "pasticceria/caffeteria",
 			"city": "Verona (VR)",
-			"lat": "45.42103136903462",
-			"lon": "10.980474246531083",
+			"lat": "45.42354469073222",
+			"lon": "10.990448874685578",
 			"name": "Garage Coffee Bros",
 			"website": "https://garagecoffeebros.com/",
 			"type": "0,1"
