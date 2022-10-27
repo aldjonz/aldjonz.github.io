@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "33" 
+		"content_version": "34" 
 	},
 	"shops": [
 		{ 
@@ -2866,6 +2866,17 @@
 			"lon": "11.068153899142025",
 			"name": "Biofficina Mirandola",
 			"website": "https://www.biofficinamirandola.it/",
+			"type": "0"
+	},
+{ 
+			"id": "263",
+			"address": "Corso Umberto I, 173",
+			"shop_type": "Caffetteria",
+			"city": "Modica (RG)",
+			"lat": "36.860724477999725",
+			"lon": "14.760034060616704",
+			"name": "Martin Cafè",
+			"website": "https://www.menudigitale.io/wzkfv",
 			"type": "0"
 	}
 
