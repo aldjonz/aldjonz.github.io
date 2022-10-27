@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "32" 
+		"content_version": "33" 
 	},
 	"shops": [
 		{ 
@@ -2855,6 +2855,17 @@
 			"lon": "11.265732533203455",
 			"name": "Fancy",
 			"website": "https://www.canva.com/design/DAFKyFbjMVM/TV05JLTni0j2wWO5R60KBQ/view?website#2",
+			"type": "0"
+	},
+{ 
+			"id": "262",
+			"address": "Via Eugenio Curiel, 12",
+			"shop_type": "Caffetteria",
+			"city": "Mirandola (MO)",
+			"lat": "44.89028053858306",
+			"lon": "11.068153899142025",
+			"name": "Biofficina Mirandola",
+			"website": "https://www.biofficinamirandola.it/",
 			"type": "0"
 	}
 
