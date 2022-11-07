@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "34" 
+		"content_version": "35" 
 	},
 	"shops": [
 		{ 
@@ -2877,6 +2877,17 @@
 			"lon": "14.760034060616704",
 			"name": "Martin Cafè",
 			"website": "https://www.menudigitale.io/wzkfv",
+			"type": "0"
+	},
+{ 
+			"id": "264",
+			"address": "Via A Volta, 16",
+			"shop_type": "Caffetteria",
+			"city": "Milano (MI)",
+			"lat": "45.48023079532435",
+			"lon": "9.184047714753858",
+			"name": "The Pure Café",
+			"website": "https://www.thepurecafe.it/it",
 			"type": "0"
 	}
 
