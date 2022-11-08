@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "35" 
+		"content_version": "36" 
 	},
 	"shops": [
 		{ 
@@ -2059,8 +2059,8 @@
 			"address": "Viale Giuseppe de Vito - Poggio Mirteto (RI)",
 			"shop_type": "",
 			"city": "Poggio Mirteto - Rieti (RI)",
-			"lat": "42.265708471922224",
-			"lon": "12.688122113300608",
+			"lat": "42.26567469267282",
+			"lon": "12.689165458828551",
 			"name": "OM Roastery",
 			"website": "https://omroastery.com/",
 			"type": "1"
@@ -2888,6 +2888,50 @@
 			"lon": "9.184047714753858",
 			"name": "The Pure Café",
 			"website": "https://www.thepurecafe.it/it",
+			"type": "0"
+	},
+{ 
+			"id": "265",
+			"address": "Via Luigi Santini, 22 (Roma)",
+			"shop_type": "Pasticceria",
+			"city": "Roma (Roma)",
+			"lat": "41.887167240828994",
+			"lon": "12.46951513183244",
+			"name": "Le Levain",
+			"website": "http://www.lelevainroma.it/",
+			"type": "0"
+	},
+{ 
+			"id": "266",
+			"address": "Viale dei Colli Portuensi, 596 (Roma)",
+			"shop_type": "Caffetteria, forno",
+			"city": "Roma (Roma)",
+			"lat": "41.86418572672644",
+			"lon": "12.44217319302536",
+			"name": "Giuffrè - Forno & Gelato",
+			"website": "https://www.gelateriagiuffre.it/",
+			"type": "0"
+	},
+{ 
+			"id": "267",
+			"address": "Piazza Tarquinia, 4 a/b (Roma)",
+			"shop_type": "Pizzeria",
+			"city": "Roma (Roma)",
+			"lat": "41.88144253429387",
+			"lon": "12.510059657493622",
+			"name": "SantoPalato",
+			"website": "https://santopalato.superbexperience.com/",
+			"type": "0"
+	},
+{ 
+			"id": "268",
+			"address": "Via Genazzano, 32 (Roma)",
+			"shop_type": "Pizzeria",
+			"city": "Roma (Roma)",
+			"lat": "41.89360962057551",
+			"lon": "12.556654479041464",
+			"name": "180gr",
+			"website": "https://180gpizzeriaromana.com/",
 			"type": "0"
 	}
 
