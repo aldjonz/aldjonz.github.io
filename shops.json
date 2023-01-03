@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "37" 
+		"content_version": "38" 
 	},
 	"shops": [
 		{ 
@@ -2933,7 +2933,33 @@
 			"name": "180gr",
 			"website": "https://180gpizzeriaromana.com/",
 			"type": "0"
+	},
+{ 
+			"id": "269",
+			"address": "Viale Domenico Rivalta, 69 (BO)",
+			"shop_type": "Caffetteria",
+			"city": "Imola (BO)",
+			"lat": "44.35202466028008",
+			"lon": "11.714049085572038",
+			"name": "Antico Bar Fiat",
+			"website": "https://www.anticobarfiat.it/",
+			"type": "0"
+	},
+{ 
+			"id": "270",
+			"address": "Piazza Giovanni XXIII, 9",
+			"shop_type": "Caffetteria/Torrefazione",
+			"city": "Gallarate (VA)",
+			"lat": "45.65917382258545",
+			"lon": "8.798509570607443",
+			"name": "La Milanesa Torrefazione caffè",
+			"website": "https://www.lamilanesacaffe.com/",
+			"type": "0,1"
 	}
+
+
+
+
 
 
 	],
