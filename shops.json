@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "38" 
+		"content_version": "39" 
 	},
 	"shops": [
 		{ 
@@ -2334,8 +2334,8 @@
 			"address": "via Calice, 52",
 			"shop_type": "Torrefazione",
 			"city": "Finale Ligure (SV)",
-			"lat": "43.91062951780686",
-			"lon": "12.913037248260723",
+			"lat": "44.18101367672104",
+			"lon": "8.312771352642406",
 			"name": "Giovannacci Caffè",
 			"website": "https://giovannaccicaffe.it/monoorigini",
 			"type": "1"
@@ -2892,7 +2892,7 @@
 	},
 { 
 			"id": "265",
-			"address": "Via Luigi Santini, 22 (Roma)",
+			"address": "Via Luigi Santini, 22",
 			"shop_type": "Pasticceria",
 			"city": "Roma (Roma)",
 			"lat": "41.887167240828994",
@@ -2903,7 +2903,7 @@
 	},
 { 
 			"id": "266",
-			"address": "Viale dei Colli Portuensi, 596 (Roma)",
+			"address": "Viale dei Colli Portuensi, 596",
 			"shop_type": "Caffetteria, forno",
 			"city": "Roma (Roma)",
 			"lat": "41.86418572672644",
@@ -2914,7 +2914,7 @@
 	},
 { 
 			"id": "267",
-			"address": "Piazza Tarquinia, 4 a/b (Roma)",
+			"address": "Piazza Tarquinia, 4 a/b",
 			"shop_type": "Pizzeria",
 			"city": "Roma (Roma)",
 			"lat": "41.88144253429387",
@@ -2925,7 +2925,7 @@
 	},
 { 
 			"id": "268",
-			"address": "Via Genazzano, 32 (Roma)",
+			"address": "Via Genazzano, 32",
 			"shop_type": "Pizzeria",
 			"city": "Roma (Roma)",
 			"lat": "41.89360962057551",
@@ -2936,11 +2936,11 @@
 	},
 { 
 			"id": "269",
-			"address": "Viale Domenico Rivalta, 69 (BO)",
+			"address": "Viale Domenico Rivalta, 69",
 			"shop_type": "Caffetteria",
 			"city": "Imola (BO)",
-			"lat": "44.35202466028008",
-			"lon": "11.714049085572038",
+			"lat": "44.35188136051625",
+			"lon": "11.713101912175423",
 			"name": "Antico Bar Fiat",
 			"website": "https://www.anticobarfiat.it/",
 			"type": "0"
@@ -2955,6 +2955,61 @@
 			"name": "La Milanesa Torrefazione caffè",
 			"website": "https://www.lamilanesacaffe.com/",
 			"type": "0,1"
+	},
+{ 
+			"id": "271",
+			"address": "Via Acciaioli, 9",
+			"shop_type": "Ristorazione",
+			"city": "Roma (Roma)",
+			"lat": "41.900097768727335",
+			"lon": "12.464511766014716",
+			"name": "Écru",
+			"website": "https://www.ecrurawfood.it/",
+			"type": "0"
+	},
+{ 
+			"id": "272",
+			"address": "Corso Magenta, 96",
+			"shop_type": "Caffetteria/Torrefazione",
+			"city": "Milano (MI)",
+			"lat": "45.46611358382322",
+			"lon": "9.166331249467774",
+			"name": "Cafezal Magenta",
+			"website": "http://www.cafezal.it/",
+			"type": "0,1"
+	},
+{ 
+			"id": "273",
+			"address": "Vicolo Volto Cittadella, 12/A",
+			"shop_type": "Caffetteria",
+			"city": "Verona (VR)",
+			"lat": "45.43612921588566",
+			"lon": "10.991610131799387",
+			"name": "Ammazzacaffè",
+			"website": "https://www.amzcaffe.com/",
+			"type": "0"
+	},
+{ 
+			"id": "274",
+			"address": "Lungarno Cellini, 1R",
+			"shop_type": "Caffetteria/Torrefazione",
+			"city": "Firenze (FI)",
+			"lat": "43.76384392861162",
+			"lon": "11.27030804642333",
+			"name": "Ditta Artigianale - Ferrucci",
+			"website": "https://www.dittaartigianale.it/",
+			"type": "0,1"
+	},
+{ 
+			"id": "275",
+			"address": "Via della Torricella, 45/D - Antella",
+			"shop_type": "Torrefazione",
+			"city": "Firenze (FI)",
+			"lat": "43.72977641784993",
+			"lon": "11.315421101253843",
+			"name": "Ditta Artigianale - Torrefazione",
+			"website": "https://www.dittaartigianale.it/",
+			"type": "1"
 	}
 
 
