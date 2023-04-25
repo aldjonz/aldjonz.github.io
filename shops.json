@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "39" 
+		"content_version": "40" 
 	},
 	"shops": [
 		{ 
@@ -3010,6 +3010,17 @@
 			"name": "Ditta Artigianale - Torrefazione",
 			"website": "https://www.dittaartigianale.it/",
 			"type": "1"
+	},
+{ 
+			"id": "276",
+			"address": "Piazza della Torre, 63",
+			"shop_type": "Caffetteria",
+			"city": "Torre a Mare (BA)",
+			"lat": "41.088177179820526",
+			"lon": "17.00125265248133",
+			"name": "Cambusa",
+			"website": "http://www.cambusatorreamare.com/",
+			"type": "0"
 	}
 
 
