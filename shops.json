@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "41" 
+		"content_version": "42" 
 	},
 	"shops": [
 		{ 
@@ -2939,8 +2939,8 @@
 			"address": "Viale Domenico Rivalta, 69",
 			"shop_type": "Caffetteria",
 			"city": "Imola (BO)",
-			"lat": "44.35187368875412",
-			"lon": "11.713112641011401",
+			"lat": "44.35175141990957",
+			"lon": "11.713095206652941",
 			"name": "Antico Bar Fiat",
 			"website": "https://www.anticobarfiat.it/",
 			"type": "0"
