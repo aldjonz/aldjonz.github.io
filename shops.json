@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "43" 
+		"content_version": "44" 
 	},
 	"shops": [
 		{ 
@@ -3031,6 +3031,39 @@
 			"lon": "11.713122649022408",
 			"name": "Antico Bar Fiat",
 			"website": "https://www.anticobarfiat.it/",
+			"type": "0"
+	},
+{ 
+			"id": "278",
+			"address": "Via al Forte, 20",
+			"shop_type": "Torrefazione",
+			"city": "Montecchio Emilia (RE)",
+			"lat": "44.70029717375467",
+			"lon": "10.450322010342335",
+			"name": "Manfredini Coffee Lab",
+			"website": "https://www.manfredinicoffeelab.com/",
+			"type": "1"
+	},
+{ 
+			"id": "279",
+			"address": "Via C. Battisti, 40",
+			"shop_type": "Caffetteria",
+			"city": "Porto Sant'Elpidio (FM)",
+			"lat": "43.25747294359835",
+			"lon": "13.759373704180565",
+			"name": "Juta Caffè",
+			"website": "",
+			"type": "0"
+	},
+{ 
+			"id": "280",
+			"address": "Via Zanardi, 9/C",
+			"shop_type": "Caffetteria",
+			"city": "Bologna (BO)",
+			"lat": "44.504183648155575",
+			"lon": "11.332868292606904",
+			"name": "Melée Café",
+			"website": "https://www.instagram.com/meleecafebologna/",
 			"type": "0"
 	}
 
