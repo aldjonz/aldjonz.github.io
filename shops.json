@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "45" 
+		"content_version": "46" 
 	},
 	"shops": [
 		{ 
@@ -3097,6 +3097,17 @@
 			"lon": "12.504466997855802",
 			"name": "Pasticceria Bompiani",
 			"website": "https://www.pasticceriawaltermusco.it/",
+			"type": "0"
+	},
+{ 
+			"id": "284",
+			"address": "Viale Adriatico 1 b/f",
+			"shop_type": "Torrefazione",
+			"city": "Roma (Roma)",
+			"lat": "41.93850874208289",
+			"lon": "12.534880461373522",
+			"name": "PTorrefazione Adriatica Bertini",
+			"website": "",
 			"type": "0"
 	}
 
