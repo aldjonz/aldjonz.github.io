@@ -1,6 +1,6 @@
 {
 	"info": {
-		"content_version": "44" 
+		"content_version": "45" 
 	},
 	"shops": [
 		{ 
@@ -3064,6 +3064,39 @@
 			"lon": "11.332868292606904",
 			"name": "Melée Café",
 			"website": "https://www.instagram.com/meleecafebologna/",
+			"type": "0"
+	},
+{ 
+			"id": "281",
+			"address": "Via Pisana, 48r",
+			"shop_type": "Caffetteria",
+			"city": "Firenze (FI)",
+			"lat": "43.770964745238516",
+			"lon": "11.238709356264431",
+			"name": "MANLY the Office",
+			"website": "https://www.instagram.com/manly_the_office/?hl=it",
+			"type": "0"
+	},
+{ 
+			"id": "282",
+			"address": "Corso Camillo Benso Conte di Cavour, 84",
+			"shop_type": "Caffetteria",
+			"city": "Foligno (PG)",
+			"lat": "42.95407775779465",
+			"lon": "12.706003640877492",
+			"name": "Drip Specialty Coffee",
+			"website": "https://www.instagram.com/drip.specialtycoffee/",
+			"type": "0"
+	},
+{ 
+			"id": "283",
+			"address": "Largo Benedetto Bompiani, 8",
+			"shop_type": "Pasticceria/Caffetteria",
+			"city": "Roma (Roma)",
+			"lat": "41.859701068389185",
+			"lon": "12.504466997855802",
+			"name": "Pasticceria Bompiani",
+			"website": "https://www.pasticceriawaltermusco.it/",
 			"type": "0"
 	}
 
