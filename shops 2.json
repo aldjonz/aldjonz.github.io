@@ -1,0 +1,2812 @@
+{
+  "info": {
+    "content_version": 47
+  },
+  "ratio": [
+    {
+      "deletable": "0",
+      "ratio": "60",
+      "title": "Base"
+    }
+  ],
+  "shops": [
+    {
+      "id": "1",
+      "address": "Via Camillo Cavour, 45, 15121 Alessandria AL, Italy",
+      "shop_type": "Pasticceria/Caffetteria",
+      "city": "Alessandria",
+      "lat": "44.9100816",
+      "lon": "8.615873500000001",
+      "name": "F.Lli Mezzaro Mezzaro Filippo Di Matteo Snc &",
+      "type": ""
+    },
+    {
+      "id": "2",
+      "address": "Piazza Dante Alighieri, 22, 15052 Casalnoceto AL, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Casalnoceto",
+      "lat": "44.9133051",
+      "lon": "8.9817296",
+      "name": "Bar Fortuna",
+      "type": ""
+    },
+    {
+      "id": "3",
+      "address": "Viale Santuario, 15048 Valenza AL, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Valenza",
+      "lat": "45.0071252",
+      "lon": "8.6346018",
+      "name": "Bar Pausa Caffe Di Stefano Checchin",
+      "type": ""
+    },
+    {
+      "id": "4",
+      "address": "Via G. Verdi, 24, 04011 Aprilia LT, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Aprilia",
+      "lat": "41.5903186",
+      "lon": "12.6541562",
+      "name": "caos caffè",
+      "type": ""
+    },
+    {
+      "id": "5",
+      "address": "Via Piero Gobetti, 64, 52100 Arezzo AR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Arezzo",
+      "lat": "43.45948509999999",
+      "lon": "11.836053",
+      "name": "Caffè River SpA",
+      "type": ""
+    },
+    {
+      "id": "6",
+      "address": "Corso Giuseppe Mazzini, 225, 63100 Ascoli Piceno AP, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Ascoli Piceno",
+      "lat": "42.855069",
+      "lon": "13.578",
+      "name": "TAMA caffè CAFFETTERIA",
+      "type": ""
+    },
+    {
+      "id": "7",
+      "address": "Via Milano, 47, 39100 Bolzano BZ, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bolzano",
+      "lat": "46.4896563",
+      "lon": "11.334899",
+      "name": "Laboratorio Espresso",
+      "type": ""
+    },
+    {
+      "id": "8",
+      "address": "Via Salvatore Cognetti, 52, 70121 Bari BA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bari",
+      "lat": "41.1234383",
+      "lon": "16.8755207",
+      "name": "La Briocheria",
+      "type": ""
+    },
+    {
+      "id": "9",
+      "address": "Via Salvatore Cognetti, 17/19, 70121 Bari BA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Bari",
+      "lat": "41.12311400000001",
+      "lon": "16.8732082",
+      "name": "Caffé Cognetti - Microtorrefazione",
+      "type": ""
+    },
+    {
+      "id": "10",
+      "address": "Via de Deo Emanuele, 38, 70054 Giovinazzo BA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Giovinazzo",
+      "lat": "41.18778210000001",
+      "lon": "16.6710452",
+      "name": "Vecchio Caffè",
+      "type": ""
+    },
+    {
+      "id": "11",
+      "address": "Piazza Castello, 16, 32100 Belluno BL, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Belluno",
+      "lat": "46.1386149",
+      "lon": "12.215674",
+      "name": "Black soul caffé",
+      "type": ""
+    },
+    {
+      "id": "12",
+      "address": "Via Bartolomeo Colleoni, 18, 24129 Bergamo BG, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Bergamo",
+      "lat": "45.7046767",
+      "lon": "9.6618671",
+      "name": "Bugan Coffee Lab - Via Colleoni - Città Alta",
+      "type": ""
+    },
+    {
+      "id": "13",
+      "address": "Via Giacomo Quarenghi, 32, 24122 Bergamo BG, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Bergamo",
+      "lat": "45.6912428",
+      "lon": "9.666817799999999",
+      "name": "Bugan Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "14",
+      "address": "Via Galliera, 34d, 40121 Bologna BO, Italy",
+      "shop_type": "Panificio/Torrefazione",
+      "city": "Bologna",
+      "lat": "44.500307",
+      "lon": "11.342944",
+      "name": "Forno Brisa",
+      "type": ""
+    },
+    {
+      "id": "15",
+      "address": "Via S. Felice, 91a, 40122 Bologna BO, Italy",
+      "shop_type": "Panificio/Torrefazione",
+      "city": "Bologna",
+      "lat": "44.4978094",
+      "lon": "11.3315497",
+      "name": "Forno Brisa San Felice",
+      "type": ""
+    },
+    {
+      "id": "16",
+      "address": "Via Castiglione, 43b, 40124 Bologna BO, Italy",
+      "shop_type": "Panificio/Torrefazione",
+      "city": "Bologna",
+      "lat": "44.48871539999999",
+      "lon": "11.3474296",
+      "name": "Forno Brisa - Castiglione",
+      "type": ""
+    },
+    {
+      "id": "17",
+      "address": "Via Guglielmo Oberdan, 10d, 40126 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.4953373",
+      "lon": "11.3455496",
+      "name": "Caffè Terzi Bologna",
+      "type": ""
+    },
+    {
+      "id": "18",
+      "address": "Via Barberia, 34c, 40123 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.493132",
+      "lon": "11.3358487",
+      "name": "Lampadina",
+      "type": ""
+    },
+    {
+      "id": "19",
+      "address": "Via Antonio Gramsci, 6, 25121 Brescia BS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Brescia",
+      "lat": "45.5366788",
+      "lon": "10.2187032",
+      "name": "Café Gramsci",
+      "type": ""
+    },
+    {
+      "id": "20",
+      "address": "Via Corsica, 225, 25125 Brescia BS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Brescia",
+      "lat": "45.5277331",
+      "lon": "10.2055398",
+      "name": "Checchi Brunch & Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "21",
+      "address": "Corsetto Sant'Agata, 27, 25122 Brescia BS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Brescia",
+      "lat": "45.5391719",
+      "lon": "10.2185299",
+      "name": "Così è - Brunch, Lunch, Dinner",
+      "type": ""
+    },
+    {
+      "id": "22",
+      "address": "Corso Martiri della Libertà, 36, 25122 Brescia BS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Brescia",
+      "lat": "45.537051",
+      "lon": "10.2147906",
+      "name": "ESTRATTO",
+      "type": ""
+    },
+    {
+      "id": "23",
+      "address": "Via Fratelli Porcellaga, 28, 25121 Brescia BS, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Brescia",
+      "lat": "45.5381585",
+      "lon": "10.2170756",
+      "name": "Tostato",
+      "type": ""
+    },
+    {
+      "id": "24",
+      "address": "Via Isernia, 23, 86100 Campobasso CB, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Campobasso",
+      "lat": "41.5613572",
+      "lon": "14.6601766",
+      "name": "Anima Caffè",
+      "type": ""
+    },
+    {
+      "id": "25",
+      "address": "Viale Nicolò Biondo, 1, 41012 Carpi MO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Carpi",
+      "lat": "44.7760776",
+      "lon": "10.8842402",
+      "name": "B.officina Carpi",
+      "type": ""
+    },
+    {
+      "id": "26",
+      "address": "Via Caprera, 3, 09123 Cagliari CA, Italy",
+      "shop_type": "Caffeteria",
+      "city": "Cagliari",
+      "lat": "39.2180579",
+      "lon": "9.1076835",
+      "name": "Caffè dell'Arte Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "27",
+      "address": "Via Giuseppe Garibaldi, 367, 95019 Zafferana Etnea CT, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Zafferana Etnea",
+      "lat": "37.6933965",
+      "lon": "15.1059441",
+      "name": "Etna Roaster",
+      "type": ""
+    },
+    {
+      "id": "28",
+      "address": "Via della Libertà, 64, 66026 Ortona CH, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Ortona",
+      "lat": "42.3500313",
+      "lon": "14.4023038",
+      "name": "Rossopepe Caffetteria Artigianale",
+      "type": ""
+    },
+    {
+      "id": "29",
+      "address": "Via Armando Diaz, 16, 22100 Como CO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Como",
+      "lat": "45.8104294",
+      "lon": "9.0803244",
+      "name": "Cucinantica",
+      "type": ""
+    },
+    {
+      "id": "30",
+      "address": "Piazza Garibaldi, 34, 26013 Crema CR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Crema",
+      "lat": "45.36350849999999",
+      "lon": "9.6927872",
+      "name": "16.99",
+      "type": ""
+    },
+    {
+      "id": "31",
+      "address": "Viale Po, 15, 26100 Cremona CR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Cremona",
+      "lat": "45.1322741",
+      "lon": "10.0150422",
+      "name": "LOOM",
+      "type": ""
+    },
+    {
+      "id": "32",
+      "address": "Via Pollenzo, 6, 12042 Bra CN, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bra",
+      "lat": "44.695",
+      "lon": "7.854722199999999",
+      "name": "Bottega Delle Delizie",
+      "type": ""
+    },
+    {
+      "id": "33",
+      "address": "Piazza Trieste, 1, 50062 Dicomano FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Dicomano",
+      "lat": "43.890934",
+      "lon": "11.5230627",
+      "name": "caffè Grandangolo",
+      "type": ""
+    },
+    {
+      "id": "34",
+      "address": "Piazza del Mercato, 29, 28845 Domodossola VB, Italy",
+      "shop_type": "Gelateria e Specialty",
+      "city": "Domodossola",
+      "lat": "46.116254",
+      "lon": "8.2916918",
+      "name": "Sensolato",
+      "type": ""
+    },
+    {
+      "id": "35",
+      "address": "Via Faleria, 34/B, 63821 Porto Sant'Elpidio FM, Italy",
+      "shop_type": "Chalet mare/Caffetteria",
+      "city": "Porto Sant'Elpidio",
+      "lat": "43.2534588",
+      "lon": "13.7649643",
+      "name": "Controvento",
+      "type": ""
+    },
+    {
+      "id": "36",
+      "address": "Via Don Leonardo Piciotti 24, SP239 Fermana-Falerienze, 63831 Rapagnano FM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Rapagnano",
+      "lat": "43.1581882",
+      "lon": "13.6330907",
+      "name": "Nero Espresso Caffè Laboratory Shop",
+      "type": ""
+    },
+    {
+      "id": "37",
+      "address": "Via Piave, 5, 63824 Marina di Altidona FM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Marina di Altidona",
+      "lat": "43.0992927",
+      "lon": "13.814084",
+      "name": "Perfero Caffè",
+      "type": ""
+    },
+    {
+      "id": "38",
+      "address": "Via dell'Oche, 7, 50122 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.77217100000001",
+      "lon": "11.2563543",
+      "name": "BEN Caffè",
+      "type": ""
+    },
+    {
+      "id": "39",
+      "address": "Via dei Neri, 30/32 R, 50122 Firenze FI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Firenze",
+      "lat": "43.7681001",
+      "lon": "11.2586342",
+      "name": "Ditta Artigianale Neri",
+      "type": ""
+    },
+    {
+      "id": "40",
+      "address": "Via dello Sprone, 5/R, 50121 Firenze FI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Firenze",
+      "lat": "43.7669563",
+      "lon": "11.2508928",
+      "name": "Ditta Artigianale Sprone",
+      "type": ""
+    },
+    {
+      "id": "41",
+      "address": "Via Giosuè Carducci, 2/4r, 50121 Firenze FI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Firenze",
+      "lat": "43.77165569999999",
+      "lon": "11.2664731",
+      "name": "Ditta Artigianale & Hario Cafe Piazza Sant'Ambrogio",
+      "type": ""
+    },
+    {
+      "id": "42",
+      "address": "19/red, Via Mannelli, 50136 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7731585",
+      "lon": "11.2796412",
+      "name": "Caffetteria Emmeti",
+      "type": ""
+    },
+    {
+      "id": "43",
+      "address": "Borgo La Croce 71r, Via della Mattonaia, 24r, 50121 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.77122660000001",
+      "lon": "11.2679448",
+      "name": "Coffee Mantra",
+      "type": ""
+    },
+    {
+      "id": "44",
+      "address": "Lungarno delle Grazie, 18, 50122 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7668496",
+      "lon": "11.2600481",
+      "name": "Melaleuca bakery + bistrot",
+      "type": ""
+    },
+    {
+      "id": "45",
+      "address": "Via Vincenzo Gioberti, 51/red, 50121 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7701556",
+      "lon": "11.2754294",
+      "name": "Caffetteria Piansa",
+      "type": ""
+    },
+    {
+      "id": "46",
+      "address": "Via de' Ginori, 64r, 50123 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7770518",
+      "lon": "11.2562294",
+      "name": "SimBIOsi Organic Cafe &Lovely Bistro",
+      "type": ""
+    },
+    {
+      "id": "47",
+      "address": "Via Camillo Versari, 2, 47121 Forlì FC, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Forlì",
+      "lat": "44.2182594",
+      "lon": "12.040809",
+      "name": "Gardelli Specialty Coffees",
+      "type": ""
+    },
+    {
+      "id": "48",
+      "address": "Via Faliero Vezzani, 60r, 16159 Genova GE, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Genova",
+      "lat": "44.43769",
+      "lon": "8.8956631",
+      "name": "Tazze Pazze",
+      "type": ""
+    },
+    {
+      "id": "49",
+      "address": "Piazza Cinque Lampadi, 71R, 16123 Genova GE, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Genova",
+      "lat": "44.4086532",
+      "lon": "8.929903000000001",
+      "name": "TAZZE PAZZE Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "50",
+      "address": "Piazza Giovanni Fabbrini, 58100 Grosseto GR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Grosseto",
+      "lat": "42.7643547",
+      "lon": "11.1201906",
+      "name": "Bristol cafe",
+      "type": ""
+    },
+    {
+      "id": "51",
+      "address": "Via Italo Balbo, 147, 04020 Itri LT, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Itri",
+      "lat": "41.2899082",
+      "lon": "13.5232793",
+      "name": "Bix Cafè",
+      "type": ""
+    },
+    {
+      "id": "52",
+      "address": "Viale della Vittoria, 93c, 60035 Jesi AN, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Jesi",
+      "lat": "43.5217061",
+      "lon": "13.2395124",
+      "name": "Gara Caffetteria e Specialità",
+      "type": ""
+    },
+    {
+      "id": "53",
+      "address": "Pza. L. Ariosto, 35 (LE)",
+      "shop_type": "Caffetteria",
+      "city": "Lecce (LE)",
+      "name": "Chantilly",
+      "type": ""
+    },
+    {
+      "id": "54",
+      "address": "Piazza Attias, 29/33, 57125 Livorno LI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Livorno",
+      "lat": "43.54405649999999",
+      "lon": "10.314142",
+      "name": "Coffee Square 33",
+      "type": ""
+    },
+    {
+      "id": "55",
+      "address": "Via Giovanni Marradi, 147, 57125 Livorno LI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Livorno",
+      "lat": "43.5426749",
+      "lon": "10.3148291",
+      "name": "DrupaCaffè Bar & Caffetteria",
+      "type": ""
+    },
+    {
+      "id": "56",
+      "address": "Via XX Settembre, 39, 46100 Mantova MN, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Mantova",
+      "lat": "45.1544289",
+      "lon": "10.7936889",
+      "name": "Sketch",
+      "type": ""
+    },
+    {
+      "id": "57",
+      "address": "Viale Marina, 127, 54038 Montignoso MS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Capanne-Prato-Cinquale",
+      "lat": "43.987026",
+      "lon": "10.1482521",
+      "name": "IQOS RESELLER - Caffetteria Tabacchi Sabrina",
+      "type": ""
+    },
+    {
+      "id": "58",
+      "address": "Via Alessandro Astesani, 15, 20161 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.5173158",
+      "lon": "9.171217799999999",
+      "name": "Via Alessandro Astesani, 15",
+      "type": ""
+    },
+    {
+      "id": "59",
+      "address": "Via Rembrandt, 12, 20148 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4675795",
+      "lon": "9.1386789",
+      "name": "Il Cafetero Specialty Coffee Milan",
+      "type": ""
+    },
+    {
+      "id": "60",
+      "address": "Via Solferino, 27, 20121 Milano MI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Milano",
+      "lat": "45.4786284",
+      "lon": "9.188206",
+      "name": "Cafezal Torrefazione Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "61",
+      "address": "Piazza S. Fedele, 2, 20121 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4660922",
+      "lon": "9.190979999999998",
+      "name": "Flagship Store Lavazza",
+      "type": ""
+    },
+    {
+      "id": "62",
+      "address": "Via Giovanni Cena, 21, 20135 Milano MI, Italy",
+      "shop_type": "Caffetteria/Gelateria/Dolci",
+      "city": "Milano",
+      "lat": "45.4607851",
+      "lon": "9.2192081",
+      "name": "Cortinovis Dolci e Gelati",
+      "type": ""
+    },
+    {
+      "id": "63",
+      "address": "Piazzale Medaglie D'Oro (mezzanino M3), 20135, 20135, 20135 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4520068",
+      "lon": "9.2027651",
+      "name": "Kōhī Tokyo 1982",
+      "type": ""
+    },
+    {
+      "id": "64",
+      "address": "Via Francesco Guicciardini, 3, 20129 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4670758",
+      "lon": "9.2087922",
+      "name": "Loste Café",
+      "type": ""
+    },
+    {
+      "id": "65",
+      "address": "Via Edmondo de Amicis, 7, 20123 Milano MI, Italy",
+      "shop_type": "Dolci e Caffetteria",
+      "city": "Milano",
+      "lat": "45.457329",
+      "lon": "9.1804828",
+      "name": "Mascherpa tiramisù + coffee",
+      "type": ""
+    },
+    {
+      "id": "66",
+      "address": "Piazzale Medaglie D'Oro, 3, 20135 Milano MI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Milano",
+      "lat": "45.452197",
+      "lon": "9.203125",
+      "name": "Milano Roastery",
+      "type": ""
+    },
+    {
+      "id": "67",
+      "address": "Piazza Luigi Vittorio Bertarelli, 4, 20122 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.45814349999999",
+      "lon": "9.187515399999999",
+      "name": "Bar Nicol",
+      "type": ""
+    },
+    {
+      "id": "68",
+      "address": "Via Caminadella, 15, 20123 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.459893",
+      "lon": "9.176893200000002",
+      "name": "NOWHERE - Coffee & Community",
+      "type": ""
+    },
+    {
+      "id": "69",
+      "address": "Via Gerolamo Turroni, 2, 20129 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4669517",
+      "lon": "9.222672099999999",
+      "name": "O|NEST",
+      "type": ""
+    },
+    {
+      "id": "70",
+      "address": "Via Giuseppe Broggi, 15, 20129 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4777424",
+      "lon": "9.2112972",
+      "name": "Orsonero Coffee",
+      "type": ""
+    },
+    {
+      "id": "71",
+      "address": "Via Melzo, 22, 20129 Milano MI, Italy",
+      "shop_type": "Dolci e Caffetteria",
+      "city": "Milano",
+      "lat": "45.47402",
+      "lon": "9.209380999999999",
+      "name": "Via Melzo, 22",
+      "type": ""
+    },
+    {
+      "id": "72",
+      "address": "Piazza Cordusio, 3, 20123 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4649459",
+      "lon": "9.1861863",
+      "name": "Starbucks Reserve Roastery",
+      "type": ""
+    },
+    {
+      "id": "73",
+      "address": "Via Teodosio, 44, 20131 Milano MI, Italy",
+      "shop_type": "Caffetteria/Gelateria",
+      "city": "Milano",
+      "lat": "45.4855832",
+      "lon": "9.230106500000002",
+      "name": "Between the lines - Gelato & Friends",
+      "type": ""
+    },
+    {
+      "id": "74",
+      "address": "Via Fontana, 1, 41058 Vignola MO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Vignola",
+      "lat": "44.47774129999999",
+      "lon": "11.0098553",
+      "name": "Caffè Terzi Vignola",
+      "type": ""
+    },
+    {
+      "id": "75",
+      "address": "Corso Canalchiaro, 136/a, 41121 Modena MO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Modena",
+      "lat": "44.6439524",
+      "lon": "10.9221092",
+      "name": "Menomoka Coffee & More",
+      "type": ""
+    },
+    {
+      "id": "76",
+      "address": "Via Traversa Maglione 78/80, Via Fratelli Rosselli, 78/80, 80144 Napoli NA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Napoli",
+      "lat": "40.88709900000001",
+      "lon": "14.2690908",
+      "name": "Gran Caffè Secondigliano",
+      "type": ""
+    },
+    {
+      "id": "77",
+      "address": "Via Gian Lorenzo Bernini, 64a, 80129 Napoli NA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Napoli",
+      "lat": "40.8454342",
+      "lon": "14.2316548",
+      "name": "Ventimetriquadri - Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "78",
+      "address": "Prato della Valle, 2, 35123 Padova PD, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Padova",
+      "lat": "45.4001488",
+      "lon": "11.8760842",
+      "name": "Caffè Diemme Italian Attitude",
+      "type": ""
+    },
+    {
+      "id": "79",
+      "address": "Via Michele Cipolla, 83/85, 90123 Palermo PA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Palermo",
+      "lat": "38.1100609",
+      "lon": "13.3714439",
+      "name": "Bar Vabres",
+      "type": ""
+    },
+    {
+      "id": "80",
+      "address": "Piazzale del Fante, 54/55, 90146 Palermo PA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Palermo",
+      "lat": "38.1481472",
+      "lon": "13.341549",
+      "name": "Histo Caffè",
+      "type": ""
+    },
+    {
+      "id": "81",
+      "address": "Via Villaermosa, 9, 90133 Palermo PA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Palermo",
+      "lat": "38.1220185",
+      "lon": "13.3597693",
+      "name": "Caffetteria Rizzuto Specialty coffee",
+      "type": ""
+    },
+    {
+      "id": "82",
+      "address": "Via Alessandro Manzoni, 174, 06135 Perugia PG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Perugia",
+      "lat": "43.09115429999999",
+      "lon": "12.4383017",
+      "name": "Pasticceria Luca",
+      "type": ""
+    },
+    {
+      "id": "83",
+      "address": "SS16 Adriatica, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pesaro (PU)",
+      "lat": "42.3704901",
+      "lon": "14.3817395",
+      "name": "Strada Statale 16 Adriatica",
+      "type": ""
+    },
+    {
+      "id": "84",
+      "address": "Corso Italia, 99, 57025 Piombino LI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Piombino",
+      "lat": "42.9256003",
+      "lon": "10.5288486",
+      "name": "Caffetteria del Corso",
+      "type": ""
+    },
+    {
+      "id": "85",
+      "address": "Via Corsica 14, Via Corsica, 8a, 56126 Pisa PI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pisa",
+      "lat": "43.719753",
+      "lon": "10.399274",
+      "name": "Cavalieri - Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "86",
+      "address": "Via Santa Maria, 30, 56126 Pisa PI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pisa",
+      "lat": "43.7185439",
+      "lon": "10.3972567",
+      "name": "Filter Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "87",
+      "address": "Via Vicinale Fonda di Vicofaro, 6/8, 51100 Pistoia PT, Italy",
+      "shop_type": "Caffetteria ed Eventi",
+      "city": "Pistoia",
+      "lat": "43.92642839999999",
+      "lon": "10.8969471",
+      "name": "Loft68",
+      "type": ""
+    },
+    {
+      "id": "88",
+      "address": "Via Sacra, 44, 80045 Pompei NA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Pompei",
+      "lat": "40.7468225",
+      "lon": "14.5008291",
+      "name": "Campana Roastery",
+      "type": ""
+    },
+    {
+      "id": "89",
+      "address": "Via Giosuè Carducci, 125, 97100 Ragusa RG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Ragusa",
+      "lat": "36.9202037",
+      "lon": "14.7228355",
+      "name": "Lorefice Fiori Cafè",
+      "type": ""
+    },
+    {
+      "id": "90",
+      "address": "Via Don Giovanni Minzoni, 54, 47822 Santarcangelo di Romagna RN, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Santarcangelo di Romagna",
+      "lat": "44.062703",
+      "lon": "12.4455276",
+      "name": "Donminzoni54 Wine & Spirits Coffee",
+      "type": ""
+    },
+    {
+      "id": "91",
+      "address": "Piazza Perin del Vaga, 13, 00196 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.92517849999999",
+      "lon": "12.4648079",
+      "name": "Etablino - Caffè Due Fontane",
+      "type": ""
+    },
+    {
+      "id": "92",
+      "address": "Via del Pellegrino, 87 (Roma)",
+      "shop_type": "Caffetteria",
+      "city": "Roma (Roma)",
+      "name": "Barnum",
+      "type": ""
+    },
+    {
+      "id": "93",
+      "address": "Corso Giacomo Matteotti, 184, 00041 Albano laziale RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Albano Laziale",
+      "lat": "41.72727769999999",
+      "lon": "12.6599525",
+      "name": "BAR BISTR",
+      "type": ""
+    },
+    {
+      "id": "94",
+      "address": "Viale Aventino, 91/93, 00153 Roma RM, Italy",
+      "shop_type": "Pasticceria",
+      "city": "Roma",
+      "lat": "41.8809421",
+      "lon": "12.4851289",
+      "name": "Casa Manfredi",
+      "type": ""
+    },
+    {
+      "id": "95",
+      "address": "Via Tuscolana, 1677, 00133 Roma RM, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Roma",
+      "lat": "41.8193112",
+      "lon": "12.6479095",
+      "name": "Caffè Conti",
+      "type": ""
+    },
+    {
+      "id": "96",
+      "address": "Via Prato della Madonna, 00038 Valmontone RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Valmontone",
+      "lat": "41.7783173",
+      "lon": "12.9178833",
+      "name": "DeGustibus Club",
+      "type": ""
+    },
+    {
+      "id": "97",
+      "address": "Via Mura dei Francesi, 197/C, 00043 Ciampino RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Ciampino",
+      "lat": "41.7972551",
+      "lon": "12.6073225",
+      "name": "E'stratto",
+      "type": ""
+    },
+    {
+      "id": "98",
+      "address": "Via Piave, 55, 00187 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.9101357",
+      "lon": "12.4984435",
+      "name": "Faro - Luminaries of Coffee",
+      "type": ""
+    },
+    {
+      "id": "99",
+      "address": "Via Antonio Raimondi, 87, 00176 Roma RM, Italy",
+      "shop_type": "Caffetteria/Galleria d'Arte",
+      "city": "Roma",
+      "lat": "41.8911845",
+      "lon": "12.5327544",
+      "name": "Fax Factory",
+      "type": ""
+    },
+    {
+      "id": "100",
+      "address": "Piazza del Risorgimento, 7, 00192 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.90660090000001",
+      "lon": "12.4566024",
+      "name": "Pergamino Caffè",
+      "type": ""
+    },
+    {
+      "id": "101",
+      "address": "Fiumicino (Roma)",
+      "shop_type": "",
+      "city": "Fiumicino (Roma)",
+      "name": "Picapau",
+      "type": ""
+    },
+    {
+      "id": "102",
+      "address": "Via Lucrezia Romana, 40/E - Ciampino (Roma)",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Ciampino (Roma)",
+      "name": "Rinaldi",
+      "type": ""
+    },
+    {
+      "id": "103",
+      "address": "Piazza Benedetto Cairoli, 16, 00186 Roma RM, Italy",
+      "shop_type": "Pasticceria/Caffeteria",
+      "city": "Roma",
+      "lat": "41.8941457",
+      "lon": "12.4744403",
+      "name": "Roscioli Caffè Pasticceria",
+      "type": ""
+    },
+    {
+      "id": "104",
+      "address": "Via Marmorata, 13, 00153 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.8785469",
+      "lon": "12.4795071",
+      "name": "Tram Depot",
+      "type": ""
+    },
+    {
+      "id": "105",
+      "address": "Via Marmorata, 13, 00153 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.8785469",
+      "lon": "12.4795071",
+      "name": "Tram Depot",
+      "type": ""
+    },
+    {
+      "id": "106",
+      "address": "Circonvallazione Ostiense, 201, 00154 Roma RM, Italy",
+      "shop_type": "Pasticceria",
+      "city": "Roma",
+      "lat": "41.8674526",
+      "lon": "12.4899657",
+      "name": "Nero Vaniglia",
+      "type": ""
+    },
+    {
+      "id": "107",
+      "address": "Corso Vittorio Emanuele, 21, 84123 Salerno SA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Salerno",
+      "lat": "40.67530379999999",
+      "lon": "14.7707173",
+      "name": "Amore Espresso Specialty Coffee Shop",
+      "type": ""
+    },
+    {
+      "id": "108",
+      "address": "Via Giacinto Vicinanza, 38, 84123 Salerno SA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Salerno",
+      "lat": "40.6750322",
+      "lon": "14.7709213",
+      "name": "Zero - Healthy Bar & Poke",
+      "type": ""
+    },
+    {
+      "id": "109",
+      "address": "P. tta Filippo Buonaccorsi 5, 53037 San Gimignano SI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "San Gimignano",
+      "lat": "43.4696354",
+      "lon": "11.0413003",
+      "name": "Magnino",
+      "type": ""
+    },
+    {
+      "id": "110",
+      "address": "Via Pier Paolo Pasolini, 8, 53048 Sinalunga SI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Sinalunga",
+      "lat": "43.216491",
+      "lon": "11.752947",
+      "name": "Loscuro",
+      "type": ""
+    },
+    {
+      "id": "111",
+      "address": "Via Moso, 40 (SR)",
+      "shop_type": "Caffetteria",
+      "city": "Siracusa (SR)",
+      "name": "Insolito",
+      "type": ""
+    },
+    {
+      "id": "112",
+      "address": "Via Aurelia Nord, 175, 19021 Arcola SP, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Arcola",
+      "lat": "44.1197844",
+      "lon": "9.9126952",
+      "name": "caffetteria Al175",
+      "type": ""
+    },
+    {
+      "id": "113",
+      "address": "Via Giuseppe Aprile, 12, 74015 Martina Franca TA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Martina Franca",
+      "lat": "40.7050633",
+      "lon": "17.3400909",
+      "name": "Caffè Caroli dal 1963",
+      "type": ""
+    },
+    {
+      "id": "114",
+      "address": "Corso Adriatico, 342/B, 64016 Sant'Egidio alla Vibrata TE, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Sant'Egidio alla Vibrata",
+      "lat": "42.8173717",
+      "lon": "13.7228074",
+      "name": "The Brothers",
+      "type": ""
+    },
+    {
+      "id": "115",
+      "address": "Via Giacomo Medici, 93, 10145 Torino TO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Torino",
+      "lat": "45.0796194",
+      "lon": "7.6441049",
+      "name": "La Chicca Torino",
+      "type": ""
+    },
+    {
+      "id": "116",
+      "address": "Via Michele Amari, 6, 10127 Torino TO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Torino",
+      "lat": "45.018263",
+      "lon": "7.6543168",
+      "name": "BARISTA FORMATO Coffee School",
+      "type": ""
+    },
+    {
+      "id": "117",
+      "address": "Via Teofilo Rossi di Montelera, 2, 10123 Torino TO, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Torino",
+      "lat": "45.06603",
+      "lon": "7.6824575",
+      "name": "Costadoro Coffee Lab Diamond",
+      "type": ""
+    },
+    {
+      "id": "118",
+      "address": "Via Stradella, 242, 10147 Torino TO, Italy",
+      "shop_type": "Cioccolateria/Caffetteria",
+      "city": "Torino",
+      "lat": "45.104719",
+      "lon": "7.664301",
+      "name": "Pasticceria Gocce di Cioccolato",
+      "type": ""
+    },
+    {
+      "id": "119",
+      "address": "Via S. Secondo, 17, 10128 Torino TO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Torino",
+      "lat": "45.06071480000001",
+      "lon": "7.674481200000001",
+      "name": "La Hacienda",
+      "type": ""
+    },
+    {
+      "id": "120",
+      "address": "Via Claudio Luigi Berthollet, 30h, 10125 Torino TO, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Torino",
+      "lat": "45.0580174",
+      "lon": "7.6839126",
+      "name": "Orso Laboratorio del Caffè",
+      "type": ""
+    },
+    {
+      "id": "121",
+      "address": "Vicolo Trevisi, 16/21, 31100 Treviso TV, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Treviso",
+      "lat": "45.6662624",
+      "lon": "12.2470254",
+      "name": "Taste Coffee & More",
+      "type": ""
+    },
+    {
+      "id": "122",
+      "address": "Via di Cavana, 8, 34121 Trieste TS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Trieste",
+      "lat": "45.6486396",
+      "lon": "13.7672404",
+      "name": "Adoro Caffè Cavana",
+      "type": ""
+    },
+    {
+      "id": "123",
+      "address": "Piazza Attilio Hortis, 6, 34124 Trieste TS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Trieste",
+      "lat": "45.647392",
+      "lon": "13.7653676",
+      "name": "Mug",
+      "type": ""
+    },
+    {
+      "id": "124",
+      "address": "Corso Italia, 14, 28100 Novara NO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Novara",
+      "lat": "45.4468447",
+      "lon": "8.6205687",
+      "name": "Umberto I",
+      "type": ""
+    },
+    {
+      "id": "125",
+      "address": "Piazza Chiara Gambacorti, 43, 56125 Pisa PI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pisa",
+      "lat": "43.714002",
+      "lon": "10.401359",
+      "name": "Chicchessia",
+      "type": ""
+    },
+    {
+      "id": "126",
+      "address": "Via Sandro Botticelli, 5/7, 05100 Terni TR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Terni",
+      "lat": "42.56404359999999",
+      "lon": "12.6427573",
+      "name": "Caffe' Divino",
+      "type": ""
+    },
+    {
+      "id": "127",
+      "address": "Fondamenta dei Ormesini, 2804, 30121 Venezia VE, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Venezia",
+      "lat": "45.4457396",
+      "lon": "12.3278974",
+      "name": "Fondamenta dei Ormesini, 2804",
+      "type": ""
+    },
+    {
+      "id": "128",
+      "address": "P.za Nicolò Tommaseo, 11, 31044 Montebelluna TV, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Montebelluna",
+      "lat": "45.7769491",
+      "lon": "12.0464593",
+      "name": "Wake Cup - a different coffee story",
+      "type": ""
+    },
+    {
+      "id": "129",
+      "address": "Via Enzo Ferrari, 8, 60022 Castelfidardo AN, Italy",
+      "shop_type": "",
+      "city": "Castelfidardo",
+      "lat": "43.45021060000001",
+      "lon": "13.5812489",
+      "name": "The Smoking Tiger",
+      "type": ""
+    },
+    {
+      "id": "130",
+      "address": "Via del Terziario, 63076 Zona Artigianale AP, Italy",
+      "shop_type": "",
+      "city": "Zona Artigianale",
+      "lat": "42.8962536",
+      "lon": "13.8697025",
+      "name": "Orlandi Passion",
+      "type": ""
+    },
+    {
+      "id": "131",
+      "address": "Viale Venezia, 16b, 36061 Bassano del Grappa VI, Italy",
+      "shop_type": "",
+      "city": "Bassano del Grappa",
+      "lat": "45.7685519",
+      "lon": "11.741551",
+      "name": "Viale Venezia, 16b",
+      "type": ""
+    },
+    {
+      "id": "132",
+      "address": "Via Giacomo Matteotti, 78, 40024 Castel San Pietro Terme BO, Italia",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Bergamo (BG)",
+      "lat": "44.39778820000001",
+      "lon": "11.5899409",
+      "name": "Coffee",
+      "type": ""
+    },
+    {
+      "id": "133",
+      "address": "Via Roma, 133, 24059 Urgnano BG, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Urgnano",
+      "lat": "45.5979488",
+      "lon": "9.6993238",
+      "name": "Spirit of Coffee",
+      "type": ""
+    },
+    {
+      "id": "134",
+      "address": "Handwerkerzone, 92, 39050 Fiè allo Sciliar BZ, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Zona Artigianale Sant'Antonio",
+      "lat": "46.5276321",
+      "lon": "11.5094757",
+      "name": "Caroma Sas Di Hofer Valentin & Co.",
+      "type": ""
+    },
+    {
+      "id": "135",
+      "address": "Via Mühlbach, 25, 39026 Prato Allo Stelvio BZ, Italy",
+      "shop_type": "Torrefazione/Caffetteria",
+      "city": "Prato Allo Stelvio",
+      "lat": "46.6170798",
+      "lon": "10.592144",
+      "name": "Kuntrawant Caffeebar",
+      "type": ""
+    },
+    {
+      "id": "136",
+      "address": "Via delle Monache, 7, 81030 Cellole CE, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Cellole",
+      "lat": "41.20369749999999",
+      "lon": "13.8491117",
+      "name": "Torrefazione Caffè Verrè",
+      "type": ""
+    },
+    {
+      "id": "137",
+      "address": "Via Cesare Battisti, 26030 Ardole San Marino CR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Ardole San Marino",
+      "lat": "45.1538687",
+      "lon": "10.1041802",
+      "name": "Street Coffee School",
+      "type": ""
+    },
+    {
+      "id": "138",
+      "address": "Via Ferrabò, 4, 26100 Cremona CR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Cremona",
+      "lat": "45.13778680000001",
+      "lon": "10.0323419",
+      "name": "TORREFAZIONE VITTORIA di Pietrogrande Giovanni & C. S.a.s.",
+      "type": ""
+    },
+    {
+      "id": "139",
+      "address": "Via Giuseppe Bongiovanni, 32, 44122 Ferrara FE, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Ferrara",
+      "lat": "44.84870209999999",
+      "lon": "11.5974668",
+      "name": "Torrefazione Caffè Penazzi",
+      "type": ""
+    },
+    {
+      "id": "140",
+      "address": "Via delle Torri, 55, 50142 Firenze FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Firenze",
+      "lat": "43.7744728",
+      "lon": "11.2053682",
+      "name": "Mokaflor",
+      "type": ""
+    },
+    {
+      "id": "141",
+      "address": "Via dei Bastioni, 38, 50125 Firenze FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Firenze",
+      "lat": "43.76349889999999",
+      "lon": "11.269465",
+      "name": "DiniCaffè",
+      "type": ""
+    },
+    {
+      "id": "142",
+      "address": "Via Cittadella, 2R, 50144 Firenze FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Firenze",
+      "lat": "43.77920999999999",
+      "lon": "11.2427499",
+      "name": "D612 Coffee Roasters",
+      "type": ""
+    },
+    {
+      "id": "143",
+      "address": "Via del Bagnone, 24, 50032 La Torre FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "La Torre",
+      "lat": "43.9593394",
+      "lon": "11.3580386",
+      "name": "Gearbox Coffee Roasters",
+      "type": ""
+    },
+    {
+      "id": "144",
+      "address": "Via Statale, 240, 51039 Vignole PT, Italy",
+      "shop_type": "",
+      "city": "Vignole",
+      "lat": "43.8693557",
+      "lon": "10.9871547",
+      "name": "Orientalcaffe",
+      "type": ""
+    },
+    {
+      "id": "145",
+      "address": "Via A. Meucci, 1, 50012 Bagno a Ripoli FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Grassina",
+      "lat": "43.7357028",
+      "lon": "11.2933353",
+      "name": "Torrefazione Piansa",
+      "type": ""
+    },
+    {
+      "id": "146",
+      "address": "Via G. Rossa, 14 b, 50023 Impruneta FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Firenze (FI)",
+      "lat": "43.7317559",
+      "lon": "11.2568557",
+      "name": "LA SOSTA Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "147",
+      "address": "Via Dogali, 3, 50131 Firenze FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Firenze",
+      "lat": "43.7854257",
+      "lon": "11.2717748",
+      "name": "Spazio Caffè Firenze Roastery",
+      "type": ""
+    },
+    {
+      "id": "148",
+      "address": "Via Piero Gobetti, 9/11, 50058 Signa FI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Signa",
+      "lat": "43.7936859",
+      "lon": "11.1019001",
+      "name": "La Tosteria Torrefazione",
+      "type": ""
+    },
+    {
+      "id": "149",
+      "address": "Via Terza Armata, 91, 34170 Gorizia GO, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Gorizia",
+      "lat": "45.92994729999999",
+      "lon": "13.6246582",
+      "name": "Torrefazione Goriziana S.r.l.",
+      "type": ""
+    },
+    {
+      "id": "150",
+      "address": "Via Annibale Moles, 60, 70024 Gravina in Puglia BA, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Gravina in Puglia",
+      "lat": "40.8234957",
+      "lon": "16.4162226",
+      "name": "Pierre Cafe'",
+      "type": ""
+    },
+    {
+      "id": "151",
+      "address": "Annibale Mores, 60 - Gravina di Puglia (BA)",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Gravina di Puglia (BA)",
+      "name": "Son of Coffee",
+      "type": ""
+    },
+    {
+      "id": "152",
+      "address": "Via U. Foscolo, 4, 36071 Arzignano VI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Arzignano",
+      "lat": "45.5249865",
+      "lon": "11.3353175",
+      "name": "Young Cup Coffee",
+      "type": ""
+    },
+    {
+      "id": "153",
+      "address": "SS16 Adriatica, Provincia di Lecce, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Lecce (LE)",
+      "lat": "40.3136231",
+      "lon": "18.189885",
+      "name": "Strada Statale 16 Adriatica",
+      "type": ""
+    },
+    {
+      "id": "154",
+      "address": "Via Provinciale Pisana, 583/b, 57121 Livorno LI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Livorno",
+      "lat": "43.5743999",
+      "lon": "10.337453",
+      "name": "Le Piantagioni del Caffè",
+      "type": ""
+    },
+    {
+      "id": "155",
+      "address": "Via Valparaiso, 9, 20144 Milano MI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Milano",
+      "lat": "45.456992",
+      "lon": "9.163255699999999",
+      "name": "Sevengrams S.r.l / Coffee Studio 7Gr.",
+      "type": ""
+    },
+    {
+      "id": "156",
+      "address": "Via L. Da Vinci, 6, 20851 Lissone MB, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Lissone",
+      "lat": "45.605209",
+      "lon": "9.246044999999999",
+      "name": "Peacocks",
+      "type": ""
+    },
+    {
+      "id": "157",
+      "address": "Via Marino Zanutel, 2, 20066 Melzo MI, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Melzo",
+      "lat": "45.5062955",
+      "lon": "9.4308955",
+      "name": "Specialty Coffee Milano Zar Cafè",
+      "type": ""
+    },
+    {
+      "id": "158",
+      "address": "Via Poggio Bracciolini, 4, 52025 Montevarchi AR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Montevarchi",
+      "lat": "43.5247357",
+      "lon": "11.5666056",
+      "name": "Pacamara Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "159",
+      "address": "Via Benvenuto Cellini, 17, 20852 Villasanta MB, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Villasanta",
+      "lat": "45.60221089999999",
+      "lon": "9.305749800000001",
+      "name": "Torrefazione \"His Majesty the Coffee\"",
+      "type": ""
+    },
+    {
+      "id": "160",
+      "address": "Via Nicolò Tommaseo, 13, 20822 Seveso MB, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Seveso",
+      "lat": "45.6460622",
+      "lon": "9.1393852",
+      "name": "C.I.T. Compagnia Italiana Torrefazione Il Griso S.N.C.",
+      "type": ""
+    },
+    {
+      "id": "161",
+      "address": "C.so Vittorio Emanuele, 610, 80121 Napoli NA, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Napoli",
+      "lat": "40.8395366",
+      "lon": "14.2402868",
+      "name": "Caffè Sansone Microtorrefazione Artigianale & Specialty coffee",
+      "type": ""
+    },
+    {
+      "id": "162",
+      "address": "Via Francesco Baracca, 6, 27055 Rivanazzano PV, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Valghiaia",
+      "lat": "44.9513933",
+      "lon": "9.0128513",
+      "name": "Little Bean",
+      "type": ""
+    },
+    {
+      "id": "163",
+      "address": "Via Enzo Biagi, 3/5, 90146 Palermo PA, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Palermo",
+      "lat": "38.15872979999999",
+      "lon": "13.3194064",
+      "name": "Caffè Morettino",
+      "type": ""
+    },
+    {
+      "id": "164",
+      "address": "Str. di Mezzo, 5, 43017 San secondo parmense PR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "San Secondo Parmense (PR)",
+      "lat": "44.91241",
+      "lon": "10.2421429",
+      "name": "Torrefazione Lady Café (TLcafè Hospitality B&B)",
+      "type": ""
+    },
+    {
+      "id": "165",
+      "address": "Via della Scienza, 50, 06135 Ponte San Giovanni PG, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Ponte San Giovanni",
+      "lat": "43.07865229999999",
+      "lon": "12.4393169",
+      "name": "Torrefazione primocrack",
+      "type": ""
+    },
+    {
+      "id": "166",
+      "address": "Via Martiri della Libertà, 203/C, 48024 Massa Lombarda RA, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Massa Lombarda",
+      "lat": "44.45549639999999",
+      "lon": "11.7964711",
+      "name": "Torrefazione Caffè Paradiso - L'Oasi del Caffè",
+      "type": ""
+    },
+    {
+      "id": "167",
+      "address": "Via Nazionale, 167, 89022 Cittanova RC, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Cittanova",
+      "lat": "38.3517322",
+      "lon": "16.0730625",
+      "name": "Caffè Cannizzaro Shop",
+      "type": ""
+    },
+    {
+      "id": "168",
+      "address": "Via Statale, 467/n°5/38, 42013 Casalgrande RE, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Casalgrande",
+      "lat": "44.5895038",
+      "lon": "10.7261546",
+      "name": "Santa Fara caffè",
+      "type": ""
+    },
+    {
+      "id": "169",
+      "address": "Via San Sebastiano, 00065 Fiano Romano RM, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Fiano Romano",
+      "lat": "42.1462278",
+      "lon": "12.6213321",
+      "name": "Caffè Italia",
+      "type": ""
+    },
+    {
+      "id": "170",
+      "address": "Reg. Bottino 1, M, 17031 Albenga SV, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Albenga",
+      "lat": "44.055102",
+      "lon": "8.192151899999999",
+      "name": "La Genovese Caffè dal 1936",
+      "type": ""
+    },
+    {
+      "id": "171",
+      "address": "Via Asti, 38, 10026 Santena TO, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Santena",
+      "lat": "44.9551633",
+      "lon": "7.789007900000002",
+      "name": "CAFFÈ VERGNANO 1882",
+      "type": ""
+    },
+    {
+      "id": "172",
+      "address": "Via per Zambana Vecchia, 9, 38097 Terre d'Adige TN, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Zambana Vecchia",
+      "lat": "46.1580228",
+      "lon": "11.0746675",
+      "name": "I DRUPER COFFEE",
+      "type": ""
+    },
+    {
+      "id": "173",
+      "address": "Campo del Belvedere, 6, 34135 Trieste TS, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Trieste",
+      "lat": "45.6592925",
+      "lon": "13.7727668",
+      "name": "BLOOM COFFEE SCHOOL",
+      "type": ""
+    },
+    {
+      "id": "174",
+      "address": "Via XXV Aprile, 4, 18039 Ventimiglia IM, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Ventimiglia",
+      "lat": "43.795218",
+      "lon": "7.604285200000001",
+      "name": "Coffeel Oromo Tribu sas",
+      "type": ""
+    },
+    {
+      "id": "175",
+      "address": "Via Basso Acquar, 30/C, 37135 Verona VR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Verona",
+      "lat": "45.42351249999999",
+      "lon": "10.9900399",
+      "name": "Torrefazione - Garage Coffee Bros.",
+      "type": ""
+    },
+    {
+      "id": "176",
+      "address": "Via Marcantonio della Torre, 27, 37131 Verona VR, Italy",
+      "shop_type": "pasticceria/caffeteria",
+      "city": "Verona",
+      "lat": "45.43818809999999",
+      "lon": "11.0303425",
+      "name": "Manifattura Caffé",
+      "type": ""
+    },
+    {
+      "id": "177",
+      "address": "Via Sparano da Bari, 120, 70121 Bari BA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bari",
+      "lat": "41.1224933",
+      "lon": "16.8697547",
+      "name": "Caffè Cognetti - Specialty Coffee & Bakery",
+      "type": ""
+    },
+    {
+      "id": "178",
+      "address": "Via Francesco Rubichi, 35, 73100 Lecce LE, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Lecce",
+      "lat": "40.3532",
+      "lon": "18.1716",
+      "name": "Caffè Cittadino",
+      "type": ""
+    },
+    {
+      "id": "179",
+      "address": "Via Giuseppe Mazzini, 44, 80038 Pomigliano D'arco NA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pomigliano d'Arco",
+      "lat": "40.9117535",
+      "lon": "14.4017463",
+      "name": "Azalè - Flower Bar",
+      "type": ""
+    },
+    {
+      "id": "180",
+      "address": "Via Vincenzo Forcella, 7, 20144 Milano MI, Italy",
+      "shop_type": "Spazio polifunzionale",
+      "city": "Milano",
+      "lat": "45.45245360000001",
+      "lon": "9.1679239",
+      "name": "Faema Flagship Store",
+      "type": ""
+    },
+    {
+      "id": "181",
+      "address": "Corso Vittorio Alfieri, 174, 14100 Asti AT, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Asti",
+      "lat": "44.9012284",
+      "lon": "8.208002500000001",
+      "name": "Caffe lo spuntino",
+      "type": ""
+    },
+    {
+      "id": "182",
+      "address": "Viale dei Pini, 1, 80131 Napoli NA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Napoli",
+      "lat": "40.8701165",
+      "lon": "14.2408916",
+      "name": "Specialty Coffee Ubar Coffee & Bistrot",
+      "type": ""
+    },
+    {
+      "id": "183",
+      "address": "Via dei Mille, 36, 27100 Pavia PV, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pavia",
+      "lat": "45.17892579999999",
+      "lon": "9.151671099999998",
+      "name": "Miccone",
+      "type": ""
+    },
+    {
+      "id": "184",
+      "address": "Via del Popolo, 28, 27029 Vigevano PV, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Vigevano",
+      "lat": "45.3160914",
+      "lon": "8.8558907",
+      "name": "Caffè Diem",
+      "type": ""
+    },
+    {
+      "id": "185",
+      "address": "Via F. Brunelleschi, 33, 41012 Carpi MO, Italy",
+      "shop_type": "Panificio/Caffetteria",
+      "city": "Carpi",
+      "lat": "44.8027294",
+      "lon": "10.8817399",
+      "name": "Farina Del Tuo Sacco",
+      "type": ""
+    },
+    {
+      "id": "186",
+      "address": "Via Casilina Nord, 63, 03030 Villa Santa Lucia FR, Italy",
+      "shop_type": "Specialty Truck",
+      "city": "Cassino",
+      "lat": "41.4817318",
+      "lon": "13.8007721",
+      "name": "Croque Croissanterie",
+      "type": ""
+    },
+    {
+      "id": "187",
+      "address": "Via Ospedale, 6, 12051 Alba CN, Italy",
+      "shop_type": "Enoteca/Caffetteria",
+      "city": "Alba",
+      "lat": "44.701436",
+      "lon": "8.0318509",
+      "name": "Petricore Enoteca con Cucina",
+      "type": ""
+    },
+    {
+      "id": "188",
+      "address": "Viale Giuseppe De Vito, 02047 Poggio Mirteto RI, Italy",
+      "shop_type": "",
+      "city": "Poggio Mirteto",
+      "lat": "42.26549209999999",
+      "lon": "12.6884359",
+      "name": "Om Caffetteria Gourmet",
+      "type": ""
+    },
+    {
+      "id": "189",
+      "address": "Via Cupra, 50, 00157 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.9092689",
+      "lon": "12.5370002",
+      "name": "Pouring Happiness",
+      "type": ""
+    },
+    {
+      "id": "190",
+      "address": "Via Palazzo di Città, 22d, 10122 Torino TO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Torino",
+      "lat": "45.0727906",
+      "lon": "7.682240000000002",
+      "name": "Infusion",
+      "type": ""
+    },
+    {
+      "id": "191",
+      "address": "Via San Liberale, 10, 31100 Treviso TV, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Treviso",
+      "lat": "45.6662881",
+      "lon": "12.2393763",
+      "name": "Bloom",
+      "type": ""
+    },
+    {
+      "id": "192",
+      "address": "via giacomo boni 25, Via Vetta D'Italia, 18, 20144 Milano MI, Italy",
+      "shop_type": "Pasticceria/Caffetteria",
+      "city": "Milano",
+      "lat": "45.46036159999999",
+      "lon": "9.157319399999999",
+      "name": "Clèa Pasticceria Culinaria",
+      "type": ""
+    },
+    {
+      "id": "193",
+      "address": "Str. Sammichele, 70010 Turi BA, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Turi",
+      "lat": "40.9084055",
+      "lon": "17.0088788",
+      "name": "Il Manovale",
+      "type": ""
+    },
+    {
+      "id": "194",
+      "address": "Via Bonvesin de la Riva, 3, 20129 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.46323379999999",
+      "lon": "9.2119892",
+      "name": "Orsonero Coffee",
+      "type": ""
+    },
+    {
+      "id": "195",
+      "address": "Via Porta Nova, 12b, 40123 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.4942568",
+      "lon": "11.3377414",
+      "name": "Aroma Specialty Coffees",
+      "type": ""
+    },
+    {
+      "id": "196",
+      "address": "Via Alberto La Rosa, 8, 00053 Civitavecchia RM, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Civitavecchia",
+      "lat": "42.123462",
+      "lon": "11.780165",
+      "name": "Torrefazione '68",
+      "type": ""
+    },
+    {
+      "id": "197",
+      "address": "Viale di Trastevere, 192, 00153 Roma RM, Italy",
+      "shop_type": "Whiskey & Coffee",
+      "city": "Roma",
+      "lat": "41.879039",
+      "lon": "12.4657607",
+      "name": "Treefolk's Public House",
+      "type": ""
+    },
+    {
+      "id": "198",
+      "address": "Via delle Baleari, 128, 00121 Lido di Ostia RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Lido di Ostia",
+      "lat": "41.7387892",
+      "lon": "12.2809387",
+      "name": "L' Angolo Del Caffe'-Specialty coffee shop",
+      "type": ""
+    },
+    {
+      "id": "199",
+      "address": "Via De' Giudei, 2d, 40126 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.494757",
+      "lon": "11.346525",
+      "name": "Pappare' - Bologna",
+      "type": ""
+    },
+    {
+      "id": "200",
+      "address": "Via dell'Olmo, 19, 00044 Frascati RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Frascati",
+      "lat": "41.8092125",
+      "lon": "12.6806175",
+      "name": "Koru Caffè",
+      "type": ""
+    },
+    {
+      "id": "201",
+      "address": "Viale Cadorna, 6/A-8, 31100 Treviso TV, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Treviso",
+      "lat": "45.6631356",
+      "lon": "12.2439012",
+      "name": "FILÒ specialty coffee, cicchetti, vino & cocktail",
+      "type": ""
+    },
+    {
+      "id": "202",
+      "address": "Piazza della Libertà, 10d, 42019 Scandiano RE, Italy",
+      "shop_type": "Ristorante",
+      "city": "Scandiano",
+      "lat": "44.5995366",
+      "lon": "10.6867091",
+      "name": "Piccolo Bar",
+      "type": ""
+    },
+    {
+      "id": "203",
+      "address": "Piazza Giuseppe Garibaldi, 10, 26029 Soncino CR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Soncino",
+      "lat": "45.3999164",
+      "lon": "9.8735337",
+      "name": "Piazza Giuseppe Garibaldi, 10",
+      "type": ""
+    },
+    {
+      "id": "204",
+      "address": "Via Riva di Reno, 65/M, 40122 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.4988727",
+      "lon": "11.3391422",
+      "name": "Mister Coffee Bistrò",
+      "type": ""
+    },
+    {
+      "id": "205",
+      "address": "Via Cristoforo Colombo, 54, 18013 Diano Marina IM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Diano Marina",
+      "lat": "43.91070709999999",
+      "lon": "8.083505299999999",
+      "name": "Il Caffè del Caprice",
+      "type": ""
+    },
+    {
+      "id": "206",
+      "address": "Via G. Verdi, 29, 31052 Candelù TV, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Candelù",
+      "lat": "45.73201419999999",
+      "lon": "12.3813222",
+      "name": "Caffettin Microtorrefazione",
+      "type": ""
+    },
+    {
+      "id": "207",
+      "address": "Località torre del parco (MC)",
+      "shop_type": "Torrefazione",
+      "city": "Macerata (MC)",
+      "name": "Artieri Coffee",
+      "type": ""
+    },
+    {
+      "id": "208",
+      "address": "Viale Tica, 141, 96100 Siracusa SR, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Siracusa",
+      "lat": "37.0834559",
+      "lon": "15.2850592",
+      "name": "Fiume Torrefazione Artigianale",
+      "type": ""
+    },
+    {
+      "id": "209",
+      "address": "Via Mazzini, 146n, 40138 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.48619120000001",
+      "lon": "11.3679377",
+      "name": "delledue",
+      "type": ""
+    },
+    {
+      "id": "210",
+      "address": "Piazza del Popolo, 68, 63900 Fermo FM, Italy",
+      "shop_type": "Gelateria & Coffee",
+      "city": "Fermo",
+      "lat": "43.161817",
+      "lon": "13.718123",
+      "name": "La Veneta",
+      "type": ""
+    },
+    {
+      "id": "211",
+      "address": "Via Giglio Padovan, 4, 34138 Trieste TS, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Trieste",
+      "lat": "45.6420118",
+      "lon": "13.7885508",
+      "name": "guatemala torrefazione caffè",
+      "type": ""
+    },
+    {
+      "id": "212",
+      "address": "Corso XI Settembre, 15, 61121 Pesaro PU, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pesaro",
+      "lat": "43.91044790000001",
+      "lon": "12.9124418",
+      "name": "Caffè Barrier",
+      "type": ""
+    },
+    {
+      "id": "213",
+      "address": "Via Calice, 52, 17024 Finale Ligure SV, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Finale Ligure",
+      "lat": "44.1808922",
+      "lon": "8.3128229",
+      "name": "Giovannacci Caffè",
+      "type": ""
+    },
+    {
+      "id": "214",
+      "address": "Via Ameglia, 114, 19021 Romito Magra SP, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Romito Magra",
+      "lat": "44.0946235",
+      "lon": "9.939875299999999",
+      "name": "Crastan Caffe'",
+      "type": ""
+    },
+    {
+      "id": "215",
+      "address": "Via della Vecchia Casina, 7, 57126 Livorno LI, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Livorno",
+      "lat": "43.5467106",
+      "lon": "10.3065498",
+      "name": "Earthspresso",
+      "type": ""
+    },
+    {
+      "id": "216",
+      "address": "Viale Regina Elena, 14, 52044 Camucia AR, Italy",
+      "shop_type": "Caffetteria e Torrefazione",
+      "city": "Camucia",
+      "lat": "43.2616263",
+      "lon": "11.9753837",
+      "name": "Vannelli Coffee & Academy",
+      "type": ""
+    },
+    {
+      "id": "217",
+      "address": "Via Lago di Pusiano, 20, 36015 Schio VI, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Schio",
+      "lat": "45.7152557",
+      "lon": "11.4070234",
+      "name": "Caffè Carraro S.p.A.",
+      "type": ""
+    },
+    {
+      "id": "218",
+      "address": "Via Laura Ciceri Visconti, 4 (MI)",
+      "shop_type": "Torrefazione",
+      "city": "Milano (MI)",
+      "name": "Carnera",
+      "type": ""
+    },
+    {
+      "id": "219",
+      "address": "Via Laura Ciceri Visconti, 4 (MI)",
+      "shop_type": "Torrefazione",
+      "city": "Roma (Roma)",
+      "name": "Blue Roastery",
+      "type": ""
+    },
+    {
+      "id": "220",
+      "address": "Via G. Puccini, 50/f, 40026 Imola BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Imola",
+      "lat": "44.34552849999999",
+      "lon": "11.6852331",
+      "name": "Mamma Mia Cafe",
+      "type": ""
+    },
+    {
+      "id": "222",
+      "address": "Via Valle Corteno, 58, 00141 Roma RM, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Roma",
+      "lat": "41.9363641",
+      "lon": "12.528575",
+      "name": "Aliena Coffee Roasters",
+      "type": ""
+    },
+    {
+      "id": "223",
+      "address": "Via Romeo, 21, 95024 Acireale CT, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Acireale",
+      "lat": "37.612593",
+      "lon": "15.1666288",
+      "name": "Sketch Urban Art Café",
+      "type": ""
+    },
+    {
+      "id": "224",
+      "address": "Piazza Luigi da Porto, 2, 35131 Padova PD, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Padova",
+      "lat": "45.41087",
+      "lon": "11.9015871",
+      "name": "Caffetteria Al Porto",
+      "type": ""
+    },
+    {
+      "id": "225",
+      "address": "Via Cavallotti, 29",
+      "shop_type": "Caffetteria",
+      "city": "Luino (VA)",
+      "name": "The Blend Post al Bistro",
+      "type": ""
+    },
+    {
+      "id": "226",
+      "address": "-",
+      "shop_type": "Torrefazione",
+      "city": "Roma (Roma)",
+      "name": "Wet Caffè",
+      "type": ""
+    },
+    {
+      "id": "227",
+      "address": "Via Defendente Sacchi, 21, 27100 Pavia PV, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Pavia",
+      "lat": "45.18633039999999",
+      "lon": "9.1589633",
+      "name": "Il Voltino",
+      "type": ""
+    },
+    {
+      "id": "228",
+      "address": "Vicolo dell' Arco, 1 A/B, 12051 Alba CN, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Alba",
+      "lat": "44.70019550000001",
+      "lon": "8.035559600000001",
+      "name": "Monviso Italian Coffee Factory",
+      "type": ""
+    },
+    {
+      "id": "229",
+      "address": "Via Felice Orsini, 16/A, 40026 Imola BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Imola",
+      "lat": "44.3550888",
+      "lon": "11.7135566",
+      "name": "Bar Ai Giardini",
+      "type": ""
+    },
+    {
+      "id": "230",
+      "address": "Via Francesco Dolzino, 121, 23022 Chiavenna SO, Italy",
+      "shop_type": "Torrefazione/Caffetteria",
+      "city": "Chiavenna",
+      "lat": "46.3220153",
+      "lon": "9.404642899999999",
+      "name": "Sierra Nevada Caffè",
+      "type": ""
+    },
+    {
+      "id": "231",
+      "address": "Via Claudio Luigi Berthollet, 30, 10125 Torino TO, Italy",
+      "shop_type": "Gelateria/Caffetteria",
+      "city": "Torino",
+      "lat": "45.0579782",
+      "lon": "7.683849000000001",
+      "name": "Mara dei Boschi",
+      "type": ""
+    },
+    {
+      "id": "232",
+      "address": "P.za Carlo Emanuele II, 21, 10123 Torino TO, Italy",
+      "shop_type": "Gelateria/Caffetteria",
+      "city": "Torino",
+      "lat": "45.0667762",
+      "lon": "7.688412700000001",
+      "name": "Mara dei Boschi",
+      "type": ""
+    },
+    {
+      "id": "233",
+      "address": "Corso Alcide De Gasperi, 57, 10129 Torino TO, Italy",
+      "shop_type": "Gelateria/Caffetteria",
+      "city": "Torino",
+      "lat": "45.0540104",
+      "lon": "7.657806300000002",
+      "name": "Mara dei Boschi",
+      "type": ""
+    },
+    {
+      "id": "234",
+      "address": "Via Alba, 17, 12060 Barolo CN, Italia",
+      "shop_type": "Torrefazione/Caffetteria",
+      "city": "Barolo (CN)",
+      "lat": "44.61213499999999",
+      "lon": "7.943352",
+      "name": "Ialty",
+      "type": ""
+    },
+    {
+      "id": "235",
+      "address": "Viale XXV Aprile, 6, 63900 Fermo FM, Italy",
+      "shop_type": "Caffetteria/Pasticceria",
+      "city": "Fermo",
+      "lat": "43.1590846",
+      "lon": "13.7072182",
+      "name": "Pasticceria Mon Plaisir",
+      "type": ""
+    },
+    {
+      "id": "236",
+      "address": "Via Enzo Biagi, 3/5, 90146 Palermo PA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Palermo",
+      "lat": "38.15872979999999",
+      "lon": "13.3194064",
+      "name": "Caffè Morettino",
+      "type": ""
+    },
+    {
+      "id": "237",
+      "address": "Via Roma, 116, 64011 Alba Adriatica TE, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Alba Adriatica",
+      "lat": "42.83131540000001",
+      "lon": "13.9204836",
+      "name": "Francaffè MAX s.r.l.",
+      "type": ""
+    },
+    {
+      "id": "238",
+      "address": "Via Giovanni da Empoli, 37, 00154 Roma RM, Italy",
+      "shop_type": "Ristorante/Torrefazione/Panificio",
+      "city": "Roma",
+      "lat": "41.8733505",
+      "lon": "12.4787423",
+      "name": "Marigold Roma",
+      "type": ""
+    },
+    {
+      "id": "239",
+      "address": "SP20, 41, 42041 Poviglio RE, Italy",
+      "shop_type": "",
+      "city": "Sorbolo A Levante",
+      "lat": "44.844567",
+      "lon": "10.4632632",
+      "name": "Naked Coffee Roaster Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "240",
+      "address": "Pasticceria Torrefazione, Via XXV Aprile, 25, 43058 Sorbolo Mezzani PR, Italy",
+      "shop_type": "Pasticceria/Torrefazione",
+      "city": "Sorbolo",
+      "lat": "44.8453625",
+      "lon": "10.447184",
+      "name": "da Teo",
+      "type": ""
+    },
+    {
+      "id": "241",
+      "address": "Via Sant'Isaia, 57d, 40122 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.49433059999999",
+      "lon": "11.3308875",
+      "name": "BURŌ Cafè - Specialty Coffee Shop",
+      "type": ""
+    },
+    {
+      "id": "242",
+      "address": "Via Gianforma Margione, 46, 97015 Frigintini RG, Italy",
+      "shop_type": "Pasticceria/Torrefazione",
+      "city": "Frigintini",
+      "lat": "36.92430989999999",
+      "lon": "14.8305072",
+      "name": "Kaffa Street bar",
+      "type": ""
+    },
+    {
+      "id": "243",
+      "address": "Lungarno Soderini, 7R, 50124 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7697128",
+      "lon": "11.2464655",
+      "name": "Ditta Artigianale Riva d'Arno",
+      "type": ""
+    },
+    {
+      "id": "244",
+      "address": "Borgo la Croce, 59/R, 50121 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7711801",
+      "lon": "11.2682498",
+      "name": "FLUID - Specialty Coffee & Sharing",
+      "type": ""
+    },
+    {
+      "id": "245",
+      "address": "Via Nizza, 16, 37121 Verona VR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Verona",
+      "lat": "45.4423887",
+      "lon": "11.0003529",
+      "name": "Nizza Café",
+      "type": ""
+    },
+    {
+      "id": "246",
+      "address": "Vicolo San Silvestro, 29, 37122 Verona VR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Verona",
+      "lat": "45.4387613",
+      "lon": "10.9870738",
+      "name": "Garage Coffee Bros. - Flagship Store",
+      "type": ""
+    },
+    {
+      "id": "247",
+      "address": "Via Giuseppe Sapeto, 3, 20123 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.4583983",
+      "lon": "9.176606800000002",
+      "name": "Hygge",
+      "type": ""
+    },
+    {
+      "id": "248",
+      "address": "Via Garibaldi, 72, 06034 Foligno PG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Foligno",
+      "lat": "42.95676160000001",
+      "lon": "12.7058937",
+      "name": "KURO - Specialty Coffee Shop & Brew Bar",
+      "type": ""
+    },
+    {
+      "id": "249",
+      "address": "Via S. Massimiliano Kolbe, 37/D, 25015 Desenzano del Garda BS, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Desenzano del Garda",
+      "lat": "45.4737723",
+      "lon": "10.5311597",
+      "name": "Hub Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "250",
+      "address": "Vicolo San Silvestro, 29, 37122 Verona VR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Verona",
+      "lat": "45.4387613",
+      "lon": "10.9870738",
+      "name": "Garage Coffee Bros. - Flagship Store",
+      "type": ""
+    },
+    {
+      "id": "251",
+      "address": "Via Luigi Einaudi, 18, 95024 Acireale CT, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Acireale",
+      "lat": "37.6186543",
+      "lon": "15.1613558",
+      "name": "Caffeina Lab",
+      "type": ""
+    },
+    {
+      "id": "252",
+      "address": "Via della Giuliana, 33, 00195 Roma RM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Roma",
+      "lat": "41.9115827",
+      "lon": "12.4544382",
+      "name": "MAE Café, Vin et Cuisine",
+      "type": ""
+    },
+    {
+      "id": "253",
+      "address": "Viale Premuda, 14, 20129 Milano MI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Milano",
+      "lat": "45.4641645",
+      "lon": "9.2076383",
+      "name": "Cafezal Brunch & Specialty Coffee Hub",
+      "type": ""
+    },
+    {
+      "id": "254",
+      "address": "Via Torrearsa, 115, 91100 Trapani TP, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Trapani",
+      "lat": "38.0169931",
+      "lon": "12.5096986",
+      "name": "Via Torrearsa, 115",
+      "type": ""
+    },
+    {
+      "id": "255",
+      "address": "Via Madonna di M. Piano, 25, 06024 Gubbio PG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Gubbio",
+      "lat": "43.3539254",
+      "lon": "12.5684445",
+      "name": "Via Madonna di M. Piano, 25",
+      "type": ""
+    },
+    {
+      "id": "256",
+      "address": "MOG, Via XX Settembre, 75, 16121 Genova GE, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Genova",
+      "lat": "44.4054795",
+      "lon": "8.942067299999998",
+      "name": "OPS...CoffeeByMistake",
+      "type": ""
+    },
+    {
+      "id": "257",
+      "address": "Via di Roma, 178, 48121 Ravenna RA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Ravenna",
+      "lat": "44.4187866",
+      "lon": "12.2033002",
+      "name": "Grinder Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "258",
+      "address": "Via A. Gramsci, 34, 45010 Papozze RO, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Papozze",
+      "lat": "44.98821909999999",
+      "lon": "12.0303904",
+      "name": "Coffeeriff",
+      "type": ""
+    },
+    {
+      "id": "259",
+      "address": "Via Ferrara, 2, 15121 Alessandria AL, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Alessandria",
+      "lat": "44.9130842",
+      "lon": "8.6149519",
+      "name": "Fanciot",
+      "type": ""
+    },
+    {
+      "id": "260",
+      "address": "Via Francesco Valori, 4r, 50132 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.7814756",
+      "lon": "11.2650542",
+      "name": "Fancy Pasticceria & Caffetteria",
+      "type": ""
+    },
+    {
+      "id": "261",
+      "address": "Via Eugenio Curiel, 12, 41037 Mirandola MO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Mirandola",
+      "lat": "44.8902563",
+      "lon": "11.0678696",
+      "name": "Biofficina Mirandola",
+      "type": ""
+    },
+    {
+      "id": "262",
+      "address": "Corso Umberto I, 173, 97015 Modica RG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Modica",
+      "lat": "36.8605614",
+      "lon": "14.7597873",
+      "name": "Martin Cafè",
+      "type": ""
+    },
+    {
+      "id": "263",
+      "address": "Via Alessandro Volta, 16, 20121 Milano MI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Milano",
+      "lat": "45.480128",
+      "lon": "9.183371300000001",
+      "name": "The Pure Café",
+      "type": ""
+    },
+    {
+      "id": "264",
+      "address": "Via Luigi Santini, 22, 00153 Roma RM, Italy",
+      "shop_type": "Pasticceria",
+      "city": "Roma",
+      "lat": "41.8871433",
+      "lon": "12.4687212",
+      "name": "Le Levain Roma",
+      "type": ""
+    },
+    {
+      "id": "265",
+      "address": "Viale dei Colli Portuensi, 596, 00151 Roma RM, Italy",
+      "shop_type": "Caffetteria, forno",
+      "city": "Roma",
+      "lat": "41.8617026",
+      "lon": "12.4430406",
+      "name": "Giuffrè - Forno & Gelato",
+      "type": ""
+    },
+    {
+      "id": "266",
+      "address": "Piazza Tarquinia, 4 a/b, 00183 Roma RM, Italy",
+      "shop_type": "Pizzeria",
+      "city": "Roma",
+      "lat": "41.881263",
+      "lon": "12.5098802",
+      "name": "SantoPalato",
+      "type": ""
+    },
+    {
+      "id": "267",
+      "address": "Via Genazzano, 32, 00177 Roma RM, Italy",
+      "shop_type": "Pizzeria",
+      "city": "Roma",
+      "lat": "41.8912031",
+      "lon": "12.5527832",
+      "name": "180grammi Pizzeria Romana",
+      "type": ""
+    },
+    {
+      "id": "268",
+      "address": "Viale Domenico Rivalta, 69, 40026 Imola BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Imola",
+      "lat": "44.35179699999999",
+      "lon": "11.713059",
+      "name": "Antico Bar Fiat",
+      "type": ""
+    },
+    {
+      "id": "269",
+      "address": "Piazza Giovanni XXIII, n.9, 21013 Gallarate VA, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Gallarate",
+      "lat": "45.6590201",
+      "lon": "8.797962400000001",
+      "name": "La Milanesa Torrefazione Caffè",
+      "type": ""
+    },
+    {
+      "id": "270",
+      "address": "Via Acciaioli, 13, 00186 Roma RM, Italy",
+      "shop_type": "Ristorazione",
+      "city": "Roma",
+      "lat": "41.89993010000001",
+      "lon": "12.4645976",
+      "name": "Écru",
+      "type": ""
+    },
+    {
+      "id": "271",
+      "address": "Corso Magenta, 96, 20123 Milano MI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Milano",
+      "lat": "45.46609900000001",
+      "lon": "9.1663055",
+      "name": "Cafezal Specialty Coffee - Magenta",
+      "type": ""
+    },
+    {
+      "id": "272",
+      "address": "Vicolo Volto Cittadella, 12/A, 37122 Verona VR, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Verona",
+      "lat": "45.43604779999999",
+      "lon": "10.9916013",
+      "name": "Ammazza Caffé - Craft Tonics & Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "273",
+      "address": "Lungarno Benvenuto Cellini, 1R, 50125 Firenze FI, Italy",
+      "shop_type": "Caffetteria/Torrefazione",
+      "city": "Firenze",
+      "lat": "43.7640932",
+      "lon": "11.2698971",
+      "name": "Ditta Artigianale Piazza Ferrucci",
+      "type": ""
+    },
+    {
+      "id": "274",
+      "address": "Via della Torricella, 45/D, 50012 Antella FI, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Antella",
+      "lat": "43.7296048",
+      "lon": "11.314764",
+      "name": "Ditta Artigianale Torrefazione",
+      "type": ""
+    },
+    {
+      "id": "275",
+      "address": "Piazza della Torre, 63, 70126 Torre A Mare BA, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Torre A Mare",
+      "lat": "41.088064",
+      "lon": "17.0013063",
+      "name": "Cambusa",
+      "type": ""
+    },
+    {
+      "id": "276",
+      "address": "Viale Domenico Rivalta, 69, 40026 Imola BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Imola",
+      "lat": "44.35179699999999",
+      "lon": "11.713059",
+      "name": "Antico Bar Fiat",
+      "type": ""
+    },
+    {
+      "id": "277",
+      "address": "Via al Forte, 20, 42027 Montecchio Emilia RE, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Montecchio Emilia",
+      "lat": "44.7000913",
+      "lon": "10.4503542",
+      "name": "Manfredini Coffee Lab",
+      "type": ""
+    },
+    {
+      "id": "278",
+      "address": "Via C. Battisti, 40, 63821 Porto Sant'Elpidio FM, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Porto Sant'Elpidio",
+      "lat": "43.25739",
+      "lon": "13.7590612",
+      "name": "Juta caffè specialty",
+      "type": ""
+    },
+    {
+      "id": "279",
+      "address": "Via Francesco Zanardi, 9/C, 40131 Bologna BO, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Bologna",
+      "lat": "44.5040689",
+      "lon": "11.3324606",
+      "name": "Melée Café",
+      "type": ""
+    },
+    {
+      "id": "280",
+      "address": "Via Pisana, 48r, 50143 Firenze FI, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Firenze",
+      "lat": "43.77088730000001",
+      "lon": "11.2386128",
+      "name": "Manly The Office",
+      "type": ""
+    },
+    {
+      "id": "281",
+      "address": "Corso Camillo Benso Conte di Cavour, 84, 06034 Foligno PG, Italy",
+      "shop_type": "Caffetteria",
+      "city": "Foligno",
+      "lat": "42.95396",
+      "lon": "12.70595",
+      "name": "Drip Specialty Coffee",
+      "type": ""
+    },
+    {
+      "id": "282",
+      "address": "Largo Benedetto Bompiani, 8, 00147 Roma RM, Italy",
+      "shop_type": "Pasticceria/Caffetteria",
+      "city": "Roma",
+      "lat": "41.858902",
+      "lon": "12.5022354",
+      "name": "Pasticceria Bompiani",
+      "type": ""
+    },
+    {
+      "id": "283",
+      "address": "Viale Adriatico, 1 b/f, 00141 Roma RM, Italy",
+      "shop_type": "Torrefazione",
+      "city": "Roma",
+      "lat": "41.9379022",
+      "lon": "12.5347088",
+      "name": "Torrefazione Adriatica F.lli Bertini Roma",
+      "type": ""
+    }
+  ]
+}
