@@ -12,23 +12,19 @@
   "shops": [
     {
       "id": "1",
-      "address": "Via Camillo Cavour, 45, 15121 Alessandria AL, Italy",
+      "address": "via Cavour 45-49 - Alessandria (AL)",
       "shop_type": "Pasticceria/Caffetteria",
-      "city": "Alessandria",
-      "lat": "44.9100816",
-      "lon": "8.615873500000001",
+      "city": "Alessandria (AL)",
       "name": "F.Lli Mezzaro Mezzaro Filippo Di Matteo Snc &",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "2",
-      "address": "Piazza Dante Alighieri, 22, 15052 Casalnoceto AL, Italy",
+      "address": "Pza. Dante Alighieri, 22 - Casalnoceto (AL)",
       "shop_type": "Caffetteria",
-      "city": "Casalnoceto",
-      "lat": "44.9133051",
-      "lon": "8.9817296",
+      "city": "Casalnoceto (AL)",
       "name": "Bar Fortuna",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "3",
@@ -38,7 +34,7 @@
       "lat": "45.0071252",
       "lon": "8.6346018",
       "name": "Bar Pausa Caffe Di Stefano Checchin",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "4",
@@ -48,7 +44,7 @@
       "lat": "41.5903186",
       "lon": "12.6541562",
       "name": "caos caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "5",
@@ -58,7 +54,7 @@
       "lat": "43.45948509999999",
       "lon": "11.836053",
       "name": "Caffè River SpA",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "6",
@@ -67,8 +63,8 @@
       "city": "Ascoli Piceno",
       "lat": "42.855069",
       "lon": "13.578",
-      "name": "TAMA caffè CAFFETTERIA",
-      "type": ""
+      "name": "TAMA caffè",
+      "type": "0,1"
     },
     {
       "id": "7",
@@ -78,7 +74,7 @@
       "lat": "46.4896563",
       "lon": "11.334899",
       "name": "Laboratorio Espresso",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "8",
@@ -88,7 +84,7 @@
       "lat": "41.1234383",
       "lon": "16.8755207",
       "name": "La Briocheria",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "9",
@@ -98,7 +94,7 @@
       "lat": "41.12311400000001",
       "lon": "16.8732082",
       "name": "Caffé Cognetti - Microtorrefazione",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "10",
@@ -108,7 +104,7 @@
       "lat": "41.18778210000001",
       "lon": "16.6710452",
       "name": "Vecchio Caffè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "11",
@@ -118,7 +114,7 @@
       "lat": "46.1386149",
       "lon": "12.215674",
       "name": "Black soul caffé",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "12",
@@ -128,7 +124,7 @@
       "lat": "45.7046767",
       "lon": "9.6618671",
       "name": "Bugan Coffee Lab - Via Colleoni - Città Alta",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "13",
@@ -138,7 +134,7 @@
       "lat": "45.6912428",
       "lon": "9.666817799999999",
       "name": "Bugan Coffee Lab",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "14",
@@ -148,7 +144,7 @@
       "lat": "44.500307",
       "lon": "11.342944",
       "name": "Forno Brisa",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "15",
@@ -158,7 +154,7 @@
       "lat": "44.4978094",
       "lon": "11.3315497",
       "name": "Forno Brisa San Felice",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "16",
@@ -168,7 +164,7 @@
       "lat": "44.48871539999999",
       "lon": "11.3474296",
       "name": "Forno Brisa - Castiglione",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "17",
@@ -178,7 +174,7 @@
       "lat": "44.4953373",
       "lon": "11.3455496",
       "name": "Caffè Terzi Bologna",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "18",
@@ -188,7 +184,7 @@
       "lat": "44.493132",
       "lon": "11.3358487",
       "name": "Lampadina",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "19",
@@ -198,7 +194,7 @@
       "lat": "45.5366788",
       "lon": "10.2187032",
       "name": "Café Gramsci",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "20",
@@ -208,7 +204,7 @@
       "lat": "45.5277331",
       "lon": "10.2055398",
       "name": "Checchi Brunch & Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "21",
@@ -218,7 +214,7 @@
       "lat": "45.5391719",
       "lon": "10.2185299",
       "name": "Così è - Brunch, Lunch, Dinner",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "22",
@@ -228,7 +224,7 @@
       "lat": "45.537051",
       "lon": "10.2147906",
       "name": "ESTRATTO",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "23",
@@ -238,7 +234,7 @@
       "lat": "45.5381585",
       "lon": "10.2170756",
       "name": "Tostato",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "24",
@@ -248,7 +244,7 @@
       "lat": "41.5613572",
       "lon": "14.6601766",
       "name": "Anima Caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "25",
@@ -258,7 +254,7 @@
       "lat": "44.7760776",
       "lon": "10.8842402",
       "name": "B.officina Carpi",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "26",
@@ -268,7 +264,7 @@
       "lat": "39.2180579",
       "lon": "9.1076835",
       "name": "Caffè dell'Arte Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "27",
@@ -278,7 +274,7 @@
       "lat": "37.6933965",
       "lon": "15.1059441",
       "name": "Etna Roaster",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "28",
@@ -288,7 +284,7 @@
       "lat": "42.3500313",
       "lon": "14.4023038",
       "name": "Rossopepe Caffetteria Artigianale",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "29",
@@ -298,7 +294,7 @@
       "lat": "45.8104294",
       "lon": "9.0803244",
       "name": "Cucinantica",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "30",
@@ -308,7 +304,7 @@
       "lat": "45.36350849999999",
       "lon": "9.6927872",
       "name": "16.99",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "31",
@@ -318,7 +314,7 @@
       "lat": "45.1322741",
       "lon": "10.0150422",
       "name": "LOOM",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "32",
@@ -328,7 +324,7 @@
       "lat": "44.695",
       "lon": "7.854722199999999",
       "name": "Bottega Delle Delizie",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "33",
@@ -338,7 +334,7 @@
       "lat": "43.890934",
       "lon": "11.5230627",
       "name": "caffè Grandangolo",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "34",
@@ -348,7 +344,7 @@
       "lat": "46.116254",
       "lon": "8.2916918",
       "name": "Sensolato",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "35",
@@ -358,7 +354,7 @@
       "lat": "43.2534588",
       "lon": "13.7649643",
       "name": "Controvento",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "36",
@@ -368,7 +364,7 @@
       "lat": "43.1581882",
       "lon": "13.6330907",
       "name": "Nero Espresso Caffè Laboratory Shop",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "37",
@@ -378,7 +374,7 @@
       "lat": "43.0992927",
       "lon": "13.814084",
       "name": "Perfero Caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "38",
@@ -388,7 +384,7 @@
       "lat": "43.77217100000001",
       "lon": "11.2563543",
       "name": "BEN Caffè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "39",
@@ -398,7 +394,7 @@
       "lat": "43.7681001",
       "lon": "11.2586342",
       "name": "Ditta Artigianale Neri",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "40",
@@ -408,7 +404,7 @@
       "lat": "43.7669563",
       "lon": "11.2508928",
       "name": "Ditta Artigianale Sprone",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "41",
@@ -418,7 +414,7 @@
       "lat": "43.77165569999999",
       "lon": "11.2664731",
       "name": "Ditta Artigianale & Hario Cafe Piazza Sant'Ambrogio",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "42",
@@ -428,7 +424,7 @@
       "lat": "43.7731585",
       "lon": "11.2796412",
       "name": "Caffetteria Emmeti",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "43",
@@ -438,7 +434,7 @@
       "lat": "43.77122660000001",
       "lon": "11.2679448",
       "name": "Coffee Mantra",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "44",
@@ -448,7 +444,7 @@
       "lat": "43.7668496",
       "lon": "11.2600481",
       "name": "Melaleuca bakery + bistrot",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "45",
@@ -458,7 +454,7 @@
       "lat": "43.7701556",
       "lon": "11.2754294",
       "name": "Caffetteria Piansa",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "46",
@@ -468,7 +464,7 @@
       "lat": "43.7770518",
       "lon": "11.2562294",
       "name": "SimBIOsi Organic Cafe &Lovely Bistro",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "47",
@@ -478,7 +474,7 @@
       "lat": "44.2182594",
       "lon": "12.040809",
       "name": "Gardelli Specialty Coffees",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "48",
@@ -488,7 +484,7 @@
       "lat": "44.43769",
       "lon": "8.8956631",
       "name": "Tazze Pazze",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "49",
@@ -498,7 +494,7 @@
       "lat": "44.4086532",
       "lon": "8.929903000000001",
       "name": "TAZZE PAZZE Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "50",
@@ -508,7 +504,7 @@
       "lat": "42.7643547",
       "lon": "11.1201906",
       "name": "Bristol cafe",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "51",
@@ -518,7 +514,7 @@
       "lat": "41.2899082",
       "lon": "13.5232793",
       "name": "Bix Cafè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "52",
@@ -528,7 +524,7 @@
       "lat": "43.5217061",
       "lon": "13.2395124",
       "name": "Gara Caffetteria e Specialità",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "53",
@@ -536,7 +532,7 @@
       "shop_type": "Caffetteria",
       "city": "Lecce (LE)",
       "name": "Chantilly",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "54",
@@ -546,7 +542,7 @@
       "lat": "43.54405649999999",
       "lon": "10.314142",
       "name": "Coffee Square 33",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "55",
@@ -556,7 +552,7 @@
       "lat": "43.5426749",
       "lon": "10.3148291",
       "name": "DrupaCaffè Bar & Caffetteria",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "56",
@@ -566,7 +562,7 @@
       "lat": "45.1544289",
       "lon": "10.7936889",
       "name": "Sketch",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "57",
@@ -576,7 +572,7 @@
       "lat": "43.987026",
       "lon": "10.1482521",
       "name": "IQOS RESELLER - Caffetteria Tabacchi Sabrina",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "58",
@@ -586,7 +582,7 @@
       "lat": "45.5173158",
       "lon": "9.171217799999999",
       "name": "Via Alessandro Astesani, 15",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "59",
@@ -596,7 +592,7 @@
       "lat": "45.4675795",
       "lon": "9.1386789",
       "name": "Il Cafetero Specialty Coffee Milan",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "60",
@@ -606,7 +602,7 @@
       "lat": "45.4786284",
       "lon": "9.188206",
       "name": "Cafezal Torrefazione Specialty Coffee",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "61",
@@ -616,7 +612,7 @@
       "lat": "45.4660922",
       "lon": "9.190979999999998",
       "name": "Flagship Store Lavazza",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "62",
@@ -626,7 +622,7 @@
       "lat": "45.4607851",
       "lon": "9.2192081",
       "name": "Cortinovis Dolci e Gelati",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "63",
@@ -636,7 +632,7 @@
       "lat": "45.4520068",
       "lon": "9.2027651",
       "name": "Kōhī Tokyo 1982",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "64",
@@ -646,7 +642,7 @@
       "lat": "45.4670758",
       "lon": "9.2087922",
       "name": "Loste Café",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "65",
@@ -656,7 +652,7 @@
       "lat": "45.457329",
       "lon": "9.1804828",
       "name": "Mascherpa tiramisù + coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "66",
@@ -666,7 +662,7 @@
       "lat": "45.452197",
       "lon": "9.203125",
       "name": "Milano Roastery",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "67",
@@ -676,7 +672,7 @@
       "lat": "45.45814349999999",
       "lon": "9.187515399999999",
       "name": "Bar Nicol",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "68",
@@ -686,7 +682,7 @@
       "lat": "45.459893",
       "lon": "9.176893200000002",
       "name": "NOWHERE - Coffee & Community",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "69",
@@ -696,7 +692,7 @@
       "lat": "45.4669517",
       "lon": "9.222672099999999",
       "name": "O|NEST",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "70",
@@ -706,7 +702,7 @@
       "lat": "45.4777424",
       "lon": "9.2112972",
       "name": "Orsonero Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "71",
@@ -716,7 +712,7 @@
       "lat": "45.47402",
       "lon": "9.209380999999999",
       "name": "Via Melzo, 22",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "72",
@@ -726,7 +722,7 @@
       "lat": "45.4649459",
       "lon": "9.1861863",
       "name": "Starbucks Reserve Roastery",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "73",
@@ -736,7 +732,7 @@
       "lat": "45.4855832",
       "lon": "9.230106500000002",
       "name": "Between the lines - Gelato & Friends",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "74",
@@ -746,7 +742,7 @@
       "lat": "44.47774129999999",
       "lon": "11.0098553",
       "name": "Caffè Terzi Vignola",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "75",
@@ -756,7 +752,7 @@
       "lat": "44.6439524",
       "lon": "10.9221092",
       "name": "Menomoka Coffee & More",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "76",
@@ -766,7 +762,7 @@
       "lat": "40.88709900000001",
       "lon": "14.2690908",
       "name": "Gran Caffè Secondigliano",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "77",
@@ -776,7 +772,7 @@
       "lat": "40.8454342",
       "lon": "14.2316548",
       "name": "Ventimetriquadri - Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "78",
@@ -786,7 +782,7 @@
       "lat": "45.4001488",
       "lon": "11.8760842",
       "name": "Caffè Diemme Italian Attitude",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "79",
@@ -796,7 +792,7 @@
       "lat": "38.1100609",
       "lon": "13.3714439",
       "name": "Bar Vabres",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "80",
@@ -806,7 +802,7 @@
       "lat": "38.1481472",
       "lon": "13.341549",
       "name": "Histo Caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "81",
@@ -816,7 +812,7 @@
       "lat": "38.1220185",
       "lon": "13.3597693",
       "name": "Caffetteria Rizzuto Specialty coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "82",
@@ -826,7 +822,7 @@
       "lat": "43.09115429999999",
       "lon": "12.4383017",
       "name": "Pasticceria Luca",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "83",
@@ -836,7 +832,7 @@
       "lat": "42.3704901",
       "lon": "14.3817395",
       "name": "Strada Statale 16 Adriatica",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "84",
@@ -846,7 +842,7 @@
       "lat": "42.9256003",
       "lon": "10.5288486",
       "name": "Caffetteria del Corso",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "85",
@@ -856,7 +852,7 @@
       "lat": "43.719753",
       "lon": "10.399274",
       "name": "Cavalieri - Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "86",
@@ -866,7 +862,7 @@
       "lat": "43.7185439",
       "lon": "10.3972567",
       "name": "Filter Coffee Lab",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "87",
@@ -876,7 +872,7 @@
       "lat": "43.92642839999999",
       "lon": "10.8969471",
       "name": "Loft68",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "88",
@@ -886,7 +882,7 @@
       "lat": "40.7468225",
       "lon": "14.5008291",
       "name": "Campana Roastery",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "89",
@@ -896,7 +892,7 @@
       "lat": "36.9202037",
       "lon": "14.7228355",
       "name": "Lorefice Fiori Cafè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "90",
@@ -906,7 +902,7 @@
       "lat": "44.062703",
       "lon": "12.4455276",
       "name": "Donminzoni54 Wine & Spirits Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "91",
@@ -916,7 +912,7 @@
       "lat": "41.92517849999999",
       "lon": "12.4648079",
       "name": "Etablino - Caffè Due Fontane",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "92",
@@ -924,7 +920,7 @@
       "shop_type": "Caffetteria",
       "city": "Roma (Roma)",
       "name": "Barnum",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "93",
@@ -934,7 +930,7 @@
       "lat": "41.72727769999999",
       "lon": "12.6599525",
       "name": "BAR BISTR",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "94",
@@ -944,7 +940,7 @@
       "lat": "41.8809421",
       "lon": "12.4851289",
       "name": "Casa Manfredi",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "95",
@@ -954,7 +950,7 @@
       "lat": "41.8193112",
       "lon": "12.6479095",
       "name": "Caffè Conti",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "96",
@@ -964,7 +960,7 @@
       "lat": "41.7783173",
       "lon": "12.9178833",
       "name": "DeGustibus Club",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "97",
@@ -974,7 +970,7 @@
       "lat": "41.7972551",
       "lon": "12.6073225",
       "name": "E'stratto",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "98",
@@ -984,7 +980,7 @@
       "lat": "41.9101357",
       "lon": "12.4984435",
       "name": "Faro - Luminaries of Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "99",
@@ -994,7 +990,7 @@
       "lat": "41.8911845",
       "lon": "12.5327544",
       "name": "Fax Factory",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "100",
@@ -1004,7 +1000,7 @@
       "lat": "41.90660090000001",
       "lon": "12.4566024",
       "name": "Pergamino Caffè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "101",
@@ -1012,7 +1008,7 @@
       "shop_type": "",
       "city": "Fiumicino (Roma)",
       "name": "Picapau",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "102",
@@ -1020,7 +1016,7 @@
       "shop_type": "Caffetteria/Torrefazione",
       "city": "Ciampino (Roma)",
       "name": "Rinaldi",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "103",
@@ -1030,7 +1026,7 @@
       "lat": "41.8941457",
       "lon": "12.4744403",
       "name": "Roscioli Caffè Pasticceria",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "104",
@@ -1040,7 +1036,7 @@
       "lat": "41.8785469",
       "lon": "12.4795071",
       "name": "Tram Depot",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "105",
@@ -1050,7 +1046,7 @@
       "lat": "41.8785469",
       "lon": "12.4795071",
       "name": "Tram Depot",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "106",
@@ -1060,7 +1056,7 @@
       "lat": "41.8674526",
       "lon": "12.4899657",
       "name": "Nero Vaniglia",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "107",
@@ -1070,7 +1066,7 @@
       "lat": "40.67530379999999",
       "lon": "14.7707173",
       "name": "Amore Espresso Specialty Coffee Shop",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "108",
@@ -1080,7 +1076,7 @@
       "lat": "40.6750322",
       "lon": "14.7709213",
       "name": "Zero - Healthy Bar & Poke",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "109",
@@ -1090,7 +1086,7 @@
       "lat": "43.4696354",
       "lon": "11.0413003",
       "name": "Magnino",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "110",
@@ -1100,7 +1096,7 @@
       "lat": "43.216491",
       "lon": "11.752947",
       "name": "Loscuro",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "111",
@@ -1108,7 +1104,7 @@
       "shop_type": "Caffetteria",
       "city": "Siracusa (SR)",
       "name": "Insolito",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "112",
@@ -1118,7 +1114,7 @@
       "lat": "44.1197844",
       "lon": "9.9126952",
       "name": "caffetteria Al175",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "113",
@@ -1128,7 +1124,7 @@
       "lat": "40.7050633",
       "lon": "17.3400909",
       "name": "Caffè Caroli dal 1963",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "114",
@@ -1138,7 +1134,7 @@
       "lat": "42.8173717",
       "lon": "13.7228074",
       "name": "The Brothers",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "115",
@@ -1148,7 +1144,7 @@
       "lat": "45.0796194",
       "lon": "7.6441049",
       "name": "La Chicca Torino",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "116",
@@ -1158,7 +1154,7 @@
       "lat": "45.018263",
       "lon": "7.6543168",
       "name": "BARISTA FORMATO Coffee School",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "117",
@@ -1168,7 +1164,7 @@
       "lat": "45.06603",
       "lon": "7.6824575",
       "name": "Costadoro Coffee Lab Diamond",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "118",
@@ -1178,7 +1174,7 @@
       "lat": "45.104719",
       "lon": "7.664301",
       "name": "Pasticceria Gocce di Cioccolato",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "119",
@@ -1188,7 +1184,7 @@
       "lat": "45.06071480000001",
       "lon": "7.674481200000001",
       "name": "La Hacienda",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "120",
@@ -1198,7 +1194,7 @@
       "lat": "45.0580174",
       "lon": "7.6839126",
       "name": "Orso Laboratorio del Caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "121",
@@ -1208,7 +1204,7 @@
       "lat": "45.6662624",
       "lon": "12.2470254",
       "name": "Taste Coffee & More",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "122",
@@ -1218,7 +1214,7 @@
       "lat": "45.6486396",
       "lon": "13.7672404",
       "name": "Adoro Caffè Cavana",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "123",
@@ -1228,7 +1224,7 @@
       "lat": "45.647392",
       "lon": "13.7653676",
       "name": "Mug",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "124",
@@ -1238,7 +1234,7 @@
       "lat": "45.4468447",
       "lon": "8.6205687",
       "name": "Umberto I",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "125",
@@ -1248,7 +1244,7 @@
       "lat": "43.714002",
       "lon": "10.401359",
       "name": "Chicchessia",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "126",
@@ -1258,7 +1254,7 @@
       "lat": "42.56404359999999",
       "lon": "12.6427573",
       "name": "Caffe' Divino",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "127",
@@ -1268,7 +1264,7 @@
       "lat": "45.4457396",
       "lon": "12.3278974",
       "name": "Fondamenta dei Ormesini, 2804",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "128",
@@ -1278,7 +1274,7 @@
       "lat": "45.7769491",
       "lon": "12.0464593",
       "name": "Wake Cup - a different coffee story",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "129",
@@ -1288,7 +1284,7 @@
       "lat": "43.45021060000001",
       "lon": "13.5812489",
       "name": "The Smoking Tiger",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "130",
@@ -1298,7 +1294,7 @@
       "lat": "42.8962536",
       "lon": "13.8697025",
       "name": "Orlandi Passion",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "131",
@@ -1308,7 +1304,7 @@
       "lat": "45.7685519",
       "lon": "11.741551",
       "name": "Viale Venezia, 16b",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "132",
@@ -1318,7 +1314,7 @@
       "lat": "44.39778820000001",
       "lon": "11.5899409",
       "name": "Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "133",
@@ -1328,7 +1324,7 @@
       "lat": "45.5979488",
       "lon": "9.6993238",
       "name": "Spirit of Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "134",
@@ -1338,7 +1334,7 @@
       "lat": "46.5276321",
       "lon": "11.5094757",
       "name": "Caroma Sas Di Hofer Valentin & Co.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "135",
@@ -1348,7 +1344,7 @@
       "lat": "46.6170798",
       "lon": "10.592144",
       "name": "Kuntrawant Caffeebar",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "136",
@@ -1358,7 +1354,7 @@
       "lat": "41.20369749999999",
       "lon": "13.8491117",
       "name": "Torrefazione Caffè Verrè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "137",
@@ -1368,7 +1364,7 @@
       "lat": "45.1538687",
       "lon": "10.1041802",
       "name": "Street Coffee School",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "138",
@@ -1378,7 +1374,7 @@
       "lat": "45.13778680000001",
       "lon": "10.0323419",
       "name": "TORREFAZIONE VITTORIA di Pietrogrande Giovanni & C. S.a.s.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "139",
@@ -1388,7 +1384,7 @@
       "lat": "44.84870209999999",
       "lon": "11.5974668",
       "name": "Torrefazione Caffè Penazzi",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "140",
@@ -1398,7 +1394,7 @@
       "lat": "43.7744728",
       "lon": "11.2053682",
       "name": "Mokaflor",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "141",
@@ -1408,7 +1404,7 @@
       "lat": "43.76349889999999",
       "lon": "11.269465",
       "name": "DiniCaffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "142",
@@ -1418,7 +1414,7 @@
       "lat": "43.77920999999999",
       "lon": "11.2427499",
       "name": "D612 Coffee Roasters",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "143",
@@ -1428,7 +1424,7 @@
       "lat": "43.9593394",
       "lon": "11.3580386",
       "name": "Gearbox Coffee Roasters",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "144",
@@ -1438,7 +1434,7 @@
       "lat": "43.8693557",
       "lon": "10.9871547",
       "name": "Orientalcaffe",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "145",
@@ -1448,7 +1444,7 @@
       "lat": "43.7357028",
       "lon": "11.2933353",
       "name": "Torrefazione Piansa",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "146",
@@ -1458,7 +1454,7 @@
       "lat": "43.7317559",
       "lon": "11.2568557",
       "name": "LA SOSTA Specialty Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "147",
@@ -1468,7 +1464,7 @@
       "lat": "43.7854257",
       "lon": "11.2717748",
       "name": "Spazio Caffè Firenze Roastery",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "148",
@@ -1478,7 +1474,7 @@
       "lat": "43.7936859",
       "lon": "11.1019001",
       "name": "La Tosteria Torrefazione",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "149",
@@ -1488,7 +1484,7 @@
       "lat": "45.92994729999999",
       "lon": "13.6246582",
       "name": "Torrefazione Goriziana S.r.l.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "150",
@@ -1498,7 +1494,7 @@
       "lat": "40.8234957",
       "lon": "16.4162226",
       "name": "Pierre Cafe'",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "151",
@@ -1506,7 +1502,7 @@
       "shop_type": "pasticceria/caffeteria",
       "city": "Gravina di Puglia (BA)",
       "name": "Son of Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "152",
@@ -1516,7 +1512,7 @@
       "lat": "45.5249865",
       "lon": "11.3353175",
       "name": "Young Cup Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "153",
@@ -1526,7 +1522,7 @@
       "lat": "40.3136231",
       "lon": "18.189885",
       "name": "Strada Statale 16 Adriatica",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "154",
@@ -1536,7 +1532,7 @@
       "lat": "43.5743999",
       "lon": "10.337453",
       "name": "Le Piantagioni del Caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "155",
@@ -1546,7 +1542,7 @@
       "lat": "45.456992",
       "lon": "9.163255699999999",
       "name": "Sevengrams S.r.l / Coffee Studio 7Gr.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "156",
@@ -1556,7 +1552,7 @@
       "lat": "45.605209",
       "lon": "9.246044999999999",
       "name": "Peacocks",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "157",
@@ -1566,7 +1562,7 @@
       "lat": "45.5062955",
       "lon": "9.4308955",
       "name": "Specialty Coffee Milano Zar Cafè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "158",
@@ -1576,7 +1572,7 @@
       "lat": "43.5247357",
       "lon": "11.5666056",
       "name": "Pacamara Coffee Lab",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "159",
@@ -1586,7 +1582,7 @@
       "lat": "45.60221089999999",
       "lon": "9.305749800000001",
       "name": "Torrefazione \"His Majesty the Coffee\"",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "160",
@@ -1596,7 +1592,7 @@
       "lat": "45.6460622",
       "lon": "9.1393852",
       "name": "C.I.T. Compagnia Italiana Torrefazione Il Griso S.N.C.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "161",
@@ -1606,7 +1602,7 @@
       "lat": "40.8395366",
       "lon": "14.2402868",
       "name": "Caffè Sansone Microtorrefazione Artigianale & Specialty coffee",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "162",
@@ -1616,7 +1612,7 @@
       "lat": "44.9513933",
       "lon": "9.0128513",
       "name": "Little Bean",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "163",
@@ -1626,7 +1622,7 @@
       "lat": "38.15872979999999",
       "lon": "13.3194064",
       "name": "Caffè Morettino",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "164",
@@ -1636,7 +1632,7 @@
       "lat": "44.91241",
       "lon": "10.2421429",
       "name": "Torrefazione Lady Café (TLcafè Hospitality B&B)",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "165",
@@ -1646,7 +1642,7 @@
       "lat": "43.07865229999999",
       "lon": "12.4393169",
       "name": "Torrefazione primocrack",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "166",
@@ -1656,7 +1652,7 @@
       "lat": "44.45549639999999",
       "lon": "11.7964711",
       "name": "Torrefazione Caffè Paradiso - L'Oasi del Caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "167",
@@ -1666,7 +1662,7 @@
       "lat": "38.3517322",
       "lon": "16.0730625",
       "name": "Caffè Cannizzaro Shop",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "168",
@@ -1676,7 +1672,7 @@
       "lat": "44.5895038",
       "lon": "10.7261546",
       "name": "Santa Fara caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "169",
@@ -1686,7 +1682,7 @@
       "lat": "42.1462278",
       "lon": "12.6213321",
       "name": "Caffè Italia",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "170",
@@ -1696,7 +1692,7 @@
       "lat": "44.055102",
       "lon": "8.192151899999999",
       "name": "La Genovese Caffè dal 1936",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "171",
@@ -1706,7 +1702,7 @@
       "lat": "44.9551633",
       "lon": "7.789007900000002",
       "name": "CAFFÈ VERGNANO 1882",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "172",
@@ -1716,7 +1712,7 @@
       "lat": "46.1580228",
       "lon": "11.0746675",
       "name": "I DRUPER COFFEE",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "173",
@@ -1726,7 +1722,7 @@
       "lat": "45.6592925",
       "lon": "13.7727668",
       "name": "BLOOM COFFEE SCHOOL",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "174",
@@ -1736,7 +1732,7 @@
       "lat": "43.795218",
       "lon": "7.604285200000001",
       "name": "Coffeel Oromo Tribu sas",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "175",
@@ -1746,7 +1742,7 @@
       "lat": "45.42351249999999",
       "lon": "10.9900399",
       "name": "Torrefazione - Garage Coffee Bros.",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "176",
@@ -1756,7 +1752,7 @@
       "lat": "45.43818809999999",
       "lon": "11.0303425",
       "name": "Manifattura Caffé",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "177",
@@ -1766,7 +1762,7 @@
       "lat": "41.1224933",
       "lon": "16.8697547",
       "name": "Caffè Cognetti - Specialty Coffee & Bakery",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "178",
@@ -1776,7 +1772,7 @@
       "lat": "40.3532",
       "lon": "18.1716",
       "name": "Caffè Cittadino",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "179",
@@ -1786,7 +1782,7 @@
       "lat": "40.9117535",
       "lon": "14.4017463",
       "name": "Azalè - Flower Bar",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "180",
@@ -1796,7 +1792,7 @@
       "lat": "45.45245360000001",
       "lon": "9.1679239",
       "name": "Faema Flagship Store",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "181",
@@ -1806,7 +1802,7 @@
       "lat": "44.9012284",
       "lon": "8.208002500000001",
       "name": "Caffe lo spuntino",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "182",
@@ -1816,7 +1812,7 @@
       "lat": "40.8701165",
       "lon": "14.2408916",
       "name": "Specialty Coffee Ubar Coffee & Bistrot",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "183",
@@ -1826,7 +1822,7 @@
       "lat": "45.17892579999999",
       "lon": "9.151671099999998",
       "name": "Miccone",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "184",
@@ -1836,7 +1832,7 @@
       "lat": "45.3160914",
       "lon": "8.8558907",
       "name": "Caffè Diem",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "185",
@@ -1846,7 +1842,7 @@
       "lat": "44.8027294",
       "lon": "10.8817399",
       "name": "Farina Del Tuo Sacco",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "186",
@@ -1856,7 +1852,7 @@
       "lat": "41.4817318",
       "lon": "13.8007721",
       "name": "Croque Croissanterie",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "187",
@@ -1866,7 +1862,7 @@
       "lat": "44.701436",
       "lon": "8.0318509",
       "name": "Petricore Enoteca con Cucina",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "188",
@@ -1876,7 +1872,7 @@
       "lat": "42.26549209999999",
       "lon": "12.6884359",
       "name": "Om Caffetteria Gourmet",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "189",
@@ -1886,7 +1882,7 @@
       "lat": "41.9092689",
       "lon": "12.5370002",
       "name": "Pouring Happiness",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "190",
@@ -1896,7 +1892,7 @@
       "lat": "45.0727906",
       "lon": "7.682240000000002",
       "name": "Infusion",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "191",
@@ -1906,7 +1902,7 @@
       "lat": "45.6662881",
       "lon": "12.2393763",
       "name": "Bloom",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "192",
@@ -1916,7 +1912,7 @@
       "lat": "45.46036159999999",
       "lon": "9.157319399999999",
       "name": "Clèa Pasticceria Culinaria",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "193",
@@ -1926,7 +1922,7 @@
       "lat": "40.9084055",
       "lon": "17.0088788",
       "name": "Il Manovale",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "194",
@@ -1936,7 +1932,7 @@
       "lat": "45.46323379999999",
       "lon": "9.2119892",
       "name": "Orsonero Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "195",
@@ -1946,7 +1942,7 @@
       "lat": "44.4942568",
       "lon": "11.3377414",
       "name": "Aroma Specialty Coffees",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "196",
@@ -1956,7 +1952,7 @@
       "lat": "42.123462",
       "lon": "11.780165",
       "name": "Torrefazione '68",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "197",
@@ -1966,7 +1962,7 @@
       "lat": "41.879039",
       "lon": "12.4657607",
       "name": "Treefolk's Public House",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "198",
@@ -1976,7 +1972,7 @@
       "lat": "41.7387892",
       "lon": "12.2809387",
       "name": "L' Angolo Del Caffe'-Specialty coffee shop",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "199",
@@ -1986,7 +1982,7 @@
       "lat": "44.494757",
       "lon": "11.346525",
       "name": "Pappare' - Bologna",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "200",
@@ -1996,7 +1992,7 @@
       "lat": "41.8092125",
       "lon": "12.6806175",
       "name": "Koru Caffè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "201",
@@ -2006,7 +2002,7 @@
       "lat": "45.6631356",
       "lon": "12.2439012",
       "name": "FILÒ specialty coffee, cicchetti, vino & cocktail",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "202",
@@ -2016,7 +2012,7 @@
       "lat": "44.5995366",
       "lon": "10.6867091",
       "name": "Piccolo Bar",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "203",
@@ -2026,7 +2022,7 @@
       "lat": "45.3999164",
       "lon": "9.8735337",
       "name": "Piazza Giuseppe Garibaldi, 10",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "204",
@@ -2036,17 +2032,15 @@
       "lat": "44.4988727",
       "lon": "11.3391422",
       "name": "Mister Coffee Bistrò",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "205",
-      "address": "Via Cristoforo Colombo, 54, 18013 Diano Marina IM, Italy",
+      "address": "Via Francesco Genala, 13",
       "shop_type": "Caffetteria",
-      "city": "Diano Marina",
-      "lat": "43.91070709999999",
-      "lon": "8.083505299999999",
-      "name": "Il Caffè del Caprice",
-      "type": ""
+      "city": "Diano Marina (IM)",
+      "name": "Bar Birreria 04 NULL VIER",
+      "type": "0"
     },
     {
       "id": "206",
@@ -2056,7 +2050,7 @@
       "lat": "45.73201419999999",
       "lon": "12.3813222",
       "name": "Caffettin Microtorrefazione",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "207",
@@ -2064,7 +2058,7 @@
       "shop_type": "Torrefazione",
       "city": "Macerata (MC)",
       "name": "Artieri Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "208",
@@ -2074,7 +2068,7 @@
       "lat": "37.0834559",
       "lon": "15.2850592",
       "name": "Fiume Torrefazione Artigianale",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "209",
@@ -2084,7 +2078,7 @@
       "lat": "44.48619120000001",
       "lon": "11.3679377",
       "name": "delledue",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "210",
@@ -2094,7 +2088,7 @@
       "lat": "43.161817",
       "lon": "13.718123",
       "name": "La Veneta",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "211",
@@ -2104,7 +2098,7 @@
       "lat": "45.6420118",
       "lon": "13.7885508",
       "name": "guatemala torrefazione caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "212",
@@ -2114,7 +2108,7 @@
       "lat": "43.91044790000001",
       "lon": "12.9124418",
       "name": "Caffè Barrier",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "213",
@@ -2124,7 +2118,7 @@
       "lat": "44.1808922",
       "lon": "8.3128229",
       "name": "Giovannacci Caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "214",
@@ -2134,7 +2128,7 @@
       "lat": "44.0946235",
       "lon": "9.939875299999999",
       "name": "Crastan Caffe'",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "215",
@@ -2144,7 +2138,7 @@
       "lat": "43.5467106",
       "lon": "10.3065498",
       "name": "Earthspresso",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "216",
@@ -2154,7 +2148,7 @@
       "lat": "43.2616263",
       "lon": "11.9753837",
       "name": "Vannelli Coffee & Academy",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "217",
@@ -2164,7 +2158,7 @@
       "lat": "45.7152557",
       "lon": "11.4070234",
       "name": "Caffè Carraro S.p.A.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "218",
@@ -2172,7 +2166,7 @@
       "shop_type": "Torrefazione",
       "city": "Milano (MI)",
       "name": "Carnera",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "219",
@@ -2180,7 +2174,7 @@
       "shop_type": "Torrefazione",
       "city": "Roma (Roma)",
       "name": "Blue Roastery",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "220",
@@ -2190,7 +2184,7 @@
       "lat": "44.34552849999999",
       "lon": "11.6852331",
       "name": "Mamma Mia Cafe",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "222",
@@ -2200,7 +2194,7 @@
       "lat": "41.9363641",
       "lon": "12.528575",
       "name": "Aliena Coffee Roasters",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "223",
@@ -2210,7 +2204,7 @@
       "lat": "37.612593",
       "lon": "15.1666288",
       "name": "Sketch Urban Art Café",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "224",
@@ -2220,7 +2214,7 @@
       "lat": "45.41087",
       "lon": "11.9015871",
       "name": "Caffetteria Al Porto",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "225",
@@ -2228,7 +2222,7 @@
       "shop_type": "Caffetteria",
       "city": "Luino (VA)",
       "name": "The Blend Post al Bistro",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "226",
@@ -2236,7 +2230,7 @@
       "shop_type": "Torrefazione",
       "city": "Roma (Roma)",
       "name": "Wet Caffè",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "227",
@@ -2246,7 +2240,7 @@
       "lat": "45.18633039999999",
       "lon": "9.1589633",
       "name": "Il Voltino",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "228",
@@ -2256,7 +2250,7 @@
       "lat": "44.70019550000001",
       "lon": "8.035559600000001",
       "name": "Monviso Italian Coffee Factory",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "229",
@@ -2266,7 +2260,7 @@
       "lat": "44.3550888",
       "lon": "11.7135566",
       "name": "Bar Ai Giardini",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "230",
@@ -2276,7 +2270,7 @@
       "lat": "46.3220153",
       "lon": "9.404642899999999",
       "name": "Sierra Nevada Caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "231",
@@ -2286,7 +2280,7 @@
       "lat": "45.0579782",
       "lon": "7.683849000000001",
       "name": "Mara dei Boschi",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "232",
@@ -2296,7 +2290,7 @@
       "lat": "45.0667762",
       "lon": "7.688412700000001",
       "name": "Mara dei Boschi",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "233",
@@ -2306,7 +2300,7 @@
       "lat": "45.0540104",
       "lon": "7.657806300000002",
       "name": "Mara dei Boschi",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "234",
@@ -2316,7 +2310,7 @@
       "lat": "44.61213499999999",
       "lon": "7.943352",
       "name": "Ialty",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "235",
@@ -2326,7 +2320,7 @@
       "lat": "43.1590846",
       "lon": "13.7072182",
       "name": "Pasticceria Mon Plaisir",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "236",
@@ -2336,7 +2330,7 @@
       "lat": "38.15872979999999",
       "lon": "13.3194064",
       "name": "Caffè Morettino",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "237",
@@ -2346,7 +2340,7 @@
       "lat": "42.83131540000001",
       "lon": "13.9204836",
       "name": "Francaffè MAX s.r.l.",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "238",
@@ -2356,7 +2350,7 @@
       "lat": "41.8733505",
       "lon": "12.4787423",
       "name": "Marigold Roma",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "239",
@@ -2366,7 +2360,7 @@
       "lat": "44.844567",
       "lon": "10.4632632",
       "name": "Naked Coffee Roaster Specialty Coffee",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "240",
@@ -2376,7 +2370,7 @@
       "lat": "44.8453625",
       "lon": "10.447184",
       "name": "da Teo",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "241",
@@ -2386,7 +2380,7 @@
       "lat": "44.49433059999999",
       "lon": "11.3308875",
       "name": "BURŌ Cafè - Specialty Coffee Shop",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "242",
@@ -2396,7 +2390,7 @@
       "lat": "36.92430989999999",
       "lon": "14.8305072",
       "name": "Kaffa Street bar",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "243",
@@ -2406,7 +2400,7 @@
       "lat": "43.7697128",
       "lon": "11.2464655",
       "name": "Ditta Artigianale Riva d'Arno",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "244",
@@ -2416,7 +2410,7 @@
       "lat": "43.7711801",
       "lon": "11.2682498",
       "name": "FLUID - Specialty Coffee & Sharing",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "245",
@@ -2426,7 +2420,7 @@
       "lat": "45.4423887",
       "lon": "11.0003529",
       "name": "Nizza Café",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "246",
@@ -2436,7 +2430,7 @@
       "lat": "45.4387613",
       "lon": "10.9870738",
       "name": "Garage Coffee Bros. - Flagship Store",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "247",
@@ -2446,7 +2440,7 @@
       "lat": "45.4583983",
       "lon": "9.176606800000002",
       "name": "Hygge",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "248",
@@ -2456,7 +2450,7 @@
       "lat": "42.95676160000001",
       "lon": "12.7058937",
       "name": "KURO - Specialty Coffee Shop & Brew Bar",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "249",
@@ -2466,7 +2460,7 @@
       "lat": "45.4737723",
       "lon": "10.5311597",
       "name": "Hub Coffee Lab",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "250",
@@ -2476,7 +2470,7 @@
       "lat": "45.4387613",
       "lon": "10.9870738",
       "name": "Garage Coffee Bros. - Flagship Store",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "251",
@@ -2486,7 +2480,7 @@
       "lat": "37.6186543",
       "lon": "15.1613558",
       "name": "Caffeina Lab",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "252",
@@ -2496,7 +2490,7 @@
       "lat": "41.9115827",
       "lon": "12.4544382",
       "name": "MAE Café, Vin et Cuisine",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "253",
@@ -2506,7 +2500,7 @@
       "lat": "45.4641645",
       "lon": "9.2076383",
       "name": "Cafezal Brunch & Specialty Coffee Hub",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "254",
@@ -2516,7 +2510,7 @@
       "lat": "38.0169931",
       "lon": "12.5096986",
       "name": "Via Torrearsa, 115",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "255",
@@ -2526,7 +2520,7 @@
       "lat": "43.3539254",
       "lon": "12.5684445",
       "name": "Via Madonna di M. Piano, 25",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "256",
@@ -2536,7 +2530,7 @@
       "lat": "44.4054795",
       "lon": "8.942067299999998",
       "name": "OPS...CoffeeByMistake",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "257",
@@ -2546,7 +2540,7 @@
       "lat": "44.4187866",
       "lon": "12.2033002",
       "name": "Grinder Coffee Lab",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "258",
@@ -2556,7 +2550,7 @@
       "lat": "44.98821909999999",
       "lon": "12.0303904",
       "name": "Coffeeriff",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "259",
@@ -2566,7 +2560,7 @@
       "lat": "44.9130842",
       "lon": "8.6149519",
       "name": "Fanciot",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "260",
@@ -2576,7 +2570,7 @@
       "lat": "43.7814756",
       "lon": "11.2650542",
       "name": "Fancy Pasticceria & Caffetteria",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "261",
@@ -2586,7 +2580,7 @@
       "lat": "44.8902563",
       "lon": "11.0678696",
       "name": "Biofficina Mirandola",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "262",
@@ -2596,7 +2590,7 @@
       "lat": "36.8605614",
       "lon": "14.7597873",
       "name": "Martin Cafè",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "263",
@@ -2606,7 +2600,7 @@
       "lat": "45.480128",
       "lon": "9.183371300000001",
       "name": "The Pure Café",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "264",
@@ -2616,7 +2610,7 @@
       "lat": "41.8871433",
       "lon": "12.4687212",
       "name": "Le Levain Roma",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "265",
@@ -2626,7 +2620,7 @@
       "lat": "41.8617026",
       "lon": "12.4430406",
       "name": "Giuffrè - Forno & Gelato",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "266",
@@ -2636,7 +2630,7 @@
       "lat": "41.881263",
       "lon": "12.5098802",
       "name": "SantoPalato",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "267",
@@ -2646,7 +2640,7 @@
       "lat": "41.8912031",
       "lon": "12.5527832",
       "name": "180grammi Pizzeria Romana",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "268",
@@ -2656,7 +2650,7 @@
       "lat": "44.35179699999999",
       "lon": "11.713059",
       "name": "Antico Bar Fiat",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "269",
@@ -2666,7 +2660,7 @@
       "lat": "45.6590201",
       "lon": "8.797962400000001",
       "name": "La Milanesa Torrefazione Caffè",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "270",
@@ -2676,7 +2670,7 @@
       "lat": "41.89993010000001",
       "lon": "12.4645976",
       "name": "Écru",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "271",
@@ -2686,7 +2680,7 @@
       "lat": "45.46609900000001",
       "lon": "9.1663055",
       "name": "Cafezal Specialty Coffee - Magenta",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "272",
@@ -2696,7 +2690,7 @@
       "lat": "45.43604779999999",
       "lon": "10.9916013",
       "name": "Ammazza Caffé - Craft Tonics & Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "273",
@@ -2706,7 +2700,7 @@
       "lat": "43.7640932",
       "lon": "11.2698971",
       "name": "Ditta Artigianale Piazza Ferrucci",
-      "type": ""
+      "type": "0,1"
     },
     {
       "id": "274",
@@ -2716,7 +2710,7 @@
       "lat": "43.7296048",
       "lon": "11.314764",
       "name": "Ditta Artigianale Torrefazione",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "275",
@@ -2726,7 +2720,7 @@
       "lat": "41.088064",
       "lon": "17.0013063",
       "name": "Cambusa",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "276",
@@ -2736,7 +2730,7 @@
       "lat": "44.35179699999999",
       "lon": "11.713059",
       "name": "Antico Bar Fiat",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "277",
@@ -2746,7 +2740,7 @@
       "lat": "44.7000913",
       "lon": "10.4503542",
       "name": "Manfredini Coffee Lab",
-      "type": ""
+      "type": "1"
     },
     {
       "id": "278",
@@ -2756,7 +2750,7 @@
       "lat": "43.25739",
       "lon": "13.7590612",
       "name": "Juta caffè specialty",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "279",
@@ -2766,7 +2760,7 @@
       "lat": "44.5040689",
       "lon": "11.3324606",
       "name": "Melée Café",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "280",
@@ -2776,7 +2770,7 @@
       "lat": "43.77088730000001",
       "lon": "11.2386128",
       "name": "Manly The Office",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "281",
@@ -2786,7 +2780,7 @@
       "lat": "42.95396",
       "lon": "12.70595",
       "name": "Drip Specialty Coffee",
-      "type": ""
+      "type": "0"
     },
     {
       "id": "282",
@@ -2795,8 +2789,8 @@
       "city": "Roma",
       "lat": "41.858902",
       "lon": "12.5022354",
-      "name": "Pasticceria Bompiani",
-      "type": ""
+      "name": "Pasticceria Walter Musco - Bompiani",
+      "type": "0"
     },
     {
       "id": "283",
@@ -2806,7 +2800,107 @@
       "lat": "41.9379022",
       "lon": "12.5347088",
       "name": "Torrefazione Adriatica F.lli Bertini Roma",
+      "type": "0"
+    },
+    {
+      "id": "292",
+      "name": "Love - Specialty Croissants",
+      "type": "0"
+    },
+    {
+      "id": "294",
+      "name": "Colibrì",
+      "type": "0"
+    },
+    {
+      "id": "296",
+      "name": "Coffeetime.si",
+      "type": "0,1"
+    },
+    {
+      "id": "298",
+      "name": "Sensorio Coffee Lab",
+      "type": "0"
+    },
+    {
+      "id": "300",
+      "name": "Clandestino non esiste",
+      "type": "0"
+    },
+    {
+      "id": "302",
+      "name": "Il 5 elemento cafe",
       "type": ""
+    },
+    {
+      "id": "304",
+      "name": "La terza luna",
+      "type": "0"
+    },
+    {
+      "id": "306",
+      "name": "Salamandra Coffee Roaster",
+      "type": "1"
+    },
+    {
+      "id": "308",
+      "name": "Articioc",
+      "type": "0"
+    },
+    {
+      "id": "310",
+      "name": "Legatoria Prampolini",
+      "type": "0"
+    },
+    {
+      "id": "312",
+      "name": "Dropstery",
+      "type": "1"
+    },
+    {
+      "id": "314",
+      "name": "Marmelada - Sweet Bistrot",
+      "type": "0"
+    },
+    {
+      "id": "316",
+      "name": "Nudo - Artisan Coffee",
+      "type": "0,1"
+    },
+    {
+      "id": "320",
+      "name": "Piattini Caffè Vini",
+      "type": ""
+    },
+    {
+      "id": "322",
+      "name": "Brac",
+      "type": "0"
+    },
+    {
+      "id": "324",
+      "name": "Morettino Coffee Lab",
+      "type": "0,1"
+    },
+    {
+      "id": "326",
+      "name": "Caffè Netti",
+      "type": ""
+    },
+    {
+      "id": "328",
+      "name": "Urban Caffè",
+      "type": "0"
+    },
+    {
+      "id": "330",
+      "name": "Nuova Torrefazione Autonoma",
+      "type": ""
+    },
+    {
+      "id": "331",
+      "name": "Ditta Artigianale - Mercato Centrale",
+      "type": "0,1"
     }
   ]
 }
