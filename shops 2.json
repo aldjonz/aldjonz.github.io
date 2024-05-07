@@ -2901,6 +2901,16 @@
       "id": "331",
       "name": "Ditta Artigianale - Mercato Centrale",
       "type": "0,1"
+    },
+    {
+      "id": "333",
+      "name": "Sunrise Caffè",
+      "type": "0"
+    },
+    {
+      "id": "335",
+      "name": "Toto13",
+      "type": "0"
     }
   ]
 }
